@@ -1,0 +1,913 @@
+country,year,num,iso_alpha
+United Arab Emirates,01-1-2019,0,ARE
+United Arab Emirates,01-2-2019,0,ARE
+United Arab Emirates,01-3-2019,0,ARE
+United Arab Emirates,01-4-2019,1,ARE
+United Arab Emirates,01-5-2019,0,ARE
+United Arab Emirates,01-6-2019,0,ARE
+United Arab Emirates,01-7-2019,0,ARE
+United Arab Emirates,01-8-2019,1,ARE
+United Arab Emirates,01-9-2019,0,ARE
+United Arab Emirates,01-10-2019,0,ARE
+United Arab Emirates,01-11-2019,0,ARE
+United Arab Emirates,01-12-2019,0,ARE
+Argentina,01-1-2019,2,ARG
+Argentina,01-2-2019,1,ARG
+Argentina,01-3-2019,3,ARG
+Argentina,01-4-2019,8,ARG
+Argentina,01-5-2019,5,ARG
+Argentina,01-6-2019,10,ARG
+Argentina,01-7-2019,2,ARG
+Argentina,01-8-2019,1,ARG
+Argentina,01-9-2019,3,ARG
+Argentina,01-10-2019,3,ARG
+Argentina,01-11-2019,2,ARG
+Argentina,01-12-2019,2,ARG
+Australia,01-1-2019,12,AUS
+Australia,01-2-2019,12,AUS
+Australia,01-3-2019,12,AUS
+Australia,01-4-2019,10,AUS
+Australia,01-5-2019,10,AUS
+Australia,01-6-2019,19,AUS
+Australia,01-7-2019,17,AUS
+Australia,01-8-2019,11,AUS
+Australia,01-9-2019,10,AUS
+Australia,01-10-2019,6,AUS
+Australia,01-11-2019,12,AUS
+Australia,01-12-2019,15,AUS
+Austria,01-1-2019,5,AUT
+Austria,01-2-2019,5,AUT
+Austria,01-3-2019,2,AUT
+Austria,01-4-2019,6,AUT
+Austria,01-5-2019,6,AUT
+Austria,01-6-2019,6,AUT
+Austria,01-7-2019,3,AUT
+Austria,01-8-2019,3,AUT
+Austria,01-9-2019,5,AUT
+Austria,01-10-2019,2,AUT
+Austria,01-11-2019,5,AUT
+Austria,01-12-2019,3,AUT
+Belgium,01-1-2019,11,BEL
+Belgium,01-2-2019,6,BEL
+Belgium,01-3-2019,11,BEL
+Belgium,01-4-2019,11,BEL
+Belgium,01-5-2019,9,BEL
+Belgium,01-6-2019,11,BEL
+Belgium,01-7-2019,10,BEL
+Belgium,01-8-2019,8,BEL
+Belgium,01-9-2019,8,BEL
+Belgium,01-10-2019,5,BEL
+Belgium,01-11-2019,6,BEL
+Belgium,01-12-2019,8,BEL
+Bulgaria,01-1-2019,4,BGR
+Bulgaria,01-2-2019,1,BGR
+Bulgaria,01-3-2019,3,BGR
+Bulgaria,01-4-2019,1,BGR
+Bulgaria,01-5-2019,1,BGR
+Bulgaria,01-6-2019,0,BGR
+Bulgaria,01-7-2019,0,BGR
+Bulgaria,01-8-2019,2,BGR
+Bulgaria,01-9-2019,0,BGR
+Bulgaria,01-10-2019,1,BGR
+Bulgaria,01-11-2019,2,BGR
+Bulgaria,01-12-2019,1,BGR
+Bosnia and Herzegovina,01-1-2019,0,BIH
+Bosnia and Herzegovina,01-2-2019,0,BIH
+Bosnia and Herzegovina,01-3-2019,0,BIH
+Bosnia and Herzegovina,01-4-2019,0,BIH
+Bosnia and Herzegovina,01-5-2019,0,BIH
+Bosnia and Herzegovina,01-6-2019,0,BIH
+Bosnia and Herzegovina,01-7-2019,0,BIH
+Bosnia and Herzegovina,01-8-2019,0,BIH
+Bosnia and Herzegovina,01-9-2019,1,BIH
+Bosnia and Herzegovina,01-10-2019,0,BIH
+Bosnia and Herzegovina,01-11-2019,0,BIH
+Bosnia and Herzegovina,01-12-2019,1,BIH
+Belarus,01-1-2019,1,BLR
+Belarus,01-2-2019,0,BLR
+Belarus,01-3-2019,0,BLR
+Belarus,01-4-2019,0,BLR
+Belarus,01-5-2019,0,BLR
+Belarus,01-6-2019,1,BLR
+Belarus,01-7-2019,1,BLR
+Belarus,01-8-2019,1,BLR
+Belarus,01-9-2019,0,BLR
+Belarus,01-10-2019,0,BLR
+Belarus,01-11-2019,1,BLR
+Belarus,01-12-2019,0,BLR
+Brazil,01-1-2019,7,BRA
+Brazil,01-2-2019,1,BRA
+Brazil,01-3-2019,6,BRA
+Brazil,01-4-2019,6,BRA
+Brazil,01-5-2019,6,BRA
+Brazil,01-6-2019,7,BRA
+Brazil,01-7-2019,3,BRA
+Brazil,01-8-2019,1,BRA
+Brazil,01-9-2019,8,BRA
+Brazil,01-10-2019,3,BRA
+Brazil,01-11-2019,3,BRA
+Brazil,01-12-2019,5,BRA
+Canada,01-1-2019,22,CAN
+Canada,01-2-2019,14,CAN
+Canada,01-3-2019,17,CAN
+Canada,01-4-2019,16,CAN
+Canada,01-5-2019,17,CAN
+Canada,01-6-2019,20,CAN
+Canada,01-7-2019,11,CAN
+Canada,01-8-2019,6,CAN
+Canada,01-9-2019,15,CAN
+Canada,01-10-2019,12,CAN
+Canada,01-11-2019,9,CAN
+Canada,01-12-2019,13,CAN
+Switzerland,01-1-2019,2,CHE
+Switzerland,01-2-2019,1,CHE
+Switzerland,01-3-2019,5,CHE
+Switzerland,01-4-2019,3,CHE
+Switzerland,01-5-2019,6,CHE
+Switzerland,01-6-2019,4,CHE
+Switzerland,01-7-2019,4,CHE
+Switzerland,01-8-2019,5,CHE
+Switzerland,01-9-2019,3,CHE
+Switzerland,01-10-2019,3,CHE
+Switzerland,01-11-2019,2,CHE
+Switzerland,01-12-2019,1,CHE
+Chile,01-1-2019,2,CHL
+Chile,01-2-2019,3,CHL
+Chile,01-3-2019,2,CHL
+Chile,01-4-2019,4,CHL
+Chile,01-5-2019,3,CHL
+Chile,01-6-2019,3,CHL
+Chile,01-7-2019,2,CHL
+Chile,01-8-2019,2,CHL
+Chile,01-9-2019,2,CHL
+Chile,01-10-2019,1,CHL
+Chile,01-11-2019,0,CHL
+Chile,01-12-2019,2,CHL
+China,01-1-2019,67,CHN
+China,01-2-2019,33,CHN
+China,01-3-2019,69,CHN
+China,01-4-2019,74,CHN
+China,01-5-2019,56,CHN
+China,01-6-2019,59,CHN
+China,01-7-2019,73,CHN
+China,01-8-2019,42,CHN
+China,01-9-2019,43,CHN
+China,01-10-2019,44,CHN
+China,01-11-2019,50,CHN
+China,01-12-2019,57,CHN
+Colombia,01-1-2019,1,COL
+Colombia,01-2-2019,0,COL
+Colombia,01-3-2019,1,COL
+Colombia,01-4-2019,1,COL
+Colombia,01-5-2019,2,COL
+Colombia,01-6-2019,2,COL
+Colombia,01-7-2019,1,COL
+Colombia,01-8-2019,1,COL
+Colombia,01-9-2019,0,COL
+Colombia,01-10-2019,1,COL
+Colombia,01-11-2019,0,COL
+Colombia,01-12-2019,1,COL
+Costa Rica,01-1-2019,0,CRI
+Costa Rica,01-2-2019,0,CRI
+Costa Rica,01-3-2019,0,CRI
+Costa Rica,01-4-2019,0,CRI
+Costa Rica,01-5-2019,0,CRI
+Costa Rica,01-6-2019,0,CRI
+Costa Rica,01-7-2019,0,CRI
+Costa Rica,01-8-2019,0,CRI
+Costa Rica,01-9-2019,0,CRI
+Costa Rica,01-10-2019,0,CRI
+Costa Rica,01-11-2019,1,CRI
+Costa Rica,01-12-2019,0,CRI
+Cuba,01-1-2019,0,CUB
+Cuba,01-2-2019,0,CUB
+Cuba,01-3-2019,1,CUB
+Cuba,01-4-2019,0,CUB
+Cuba,01-5-2019,0,CUB
+Cuba,01-6-2019,0,CUB
+Cuba,01-7-2019,0,CUB
+Cuba,01-8-2019,0,CUB
+Cuba,01-9-2019,0,CUB
+Cuba,01-10-2019,0,CUB
+Cuba,01-11-2019,0,CUB
+Cuba,01-12-2019,0,CUB
+Czechia,01-1-2019,7,CZE
+Czechia,01-2-2019,5,CZE
+Czechia,01-3-2019,2,CZE
+Czechia,01-4-2019,2,CZE
+Czechia,01-5-2019,2,CZE
+Czechia,01-6-2019,5,CZE
+Czechia,01-7-2019,3,CZE
+Czechia,01-8-2019,1,CZE
+Czechia,01-9-2019,3,CZE
+Czechia,01-10-2019,2,CZE
+Czechia,01-11-2019,3,CZE
+Czechia,01-12-2019,7,CZE
+Germany,01-1-2019,16,DEU
+Germany,01-2-2019,8,DEU
+Germany,01-3-2019,12,DEU
+Germany,01-4-2019,9,DEU
+Germany,01-5-2019,17,DEU
+Germany,01-6-2019,15,DEU
+Germany,01-7-2019,10,DEU
+Germany,01-8-2019,7,DEU
+Germany,01-9-2019,13,DEU
+Germany,01-10-2019,5,DEU
+Germany,01-11-2019,14,DEU
+Germany,01-12-2019,11,DEU
+Denmark,01-1-2019,7,DNK
+Denmark,01-2-2019,4,DNK
+Denmark,01-3-2019,4,DNK
+Denmark,01-4-2019,4,DNK
+Denmark,01-5-2019,7,DNK
+Denmark,01-6-2019,5,DNK
+Denmark,01-7-2019,3,DNK
+Denmark,01-8-2019,4,DNK
+Denmark,01-9-2019,7,DNK
+Denmark,01-10-2019,4,DNK
+Denmark,01-11-2019,4,DNK
+Denmark,01-12-2019,2,DNK
+Egypt,01-1-2019,0,EGY
+Egypt,01-2-2019,1,EGY
+Egypt,01-3-2019,1,EGY
+Egypt,01-4-2019,1,EGY
+Egypt,01-5-2019,1,EGY
+Egypt,01-6-2019,0,EGY
+Egypt,01-7-2019,1,EGY
+Egypt,01-8-2019,2,EGY
+Egypt,01-9-2019,1,EGY
+Egypt,01-10-2019,1,EGY
+Egypt,01-11-2019,1,EGY
+Egypt,01-12-2019,0,EGY
+Spain,01-1-2019,19,ESP
+Spain,01-2-2019,13,ESP
+Spain,01-3-2019,16,ESP
+Spain,01-4-2019,21,ESP
+Spain,01-5-2019,29,ESP
+Spain,01-6-2019,28,ESP
+Spain,01-7-2019,17,ESP
+Spain,01-8-2019,12,ESP
+Spain,01-9-2019,20,ESP
+Spain,01-10-2019,8,ESP
+Spain,01-11-2019,15,ESP
+Spain,01-12-2019,19,ESP
+Estonia,01-1-2019,0,EST
+Estonia,01-2-2019,0,EST
+Estonia,01-3-2019,2,EST
+Estonia,01-4-2019,1,EST
+Estonia,01-5-2019,0,EST
+Estonia,01-6-2019,0,EST
+Estonia,01-7-2019,0,EST
+Estonia,01-8-2019,1,EST
+Estonia,01-9-2019,0,EST
+Estonia,01-10-2019,0,EST
+Estonia,01-11-2019,0,EST
+Estonia,01-12-2019,0,EST
+Finland,01-1-2019,2,FIN
+Finland,01-2-2019,1,FIN
+Finland,01-3-2019,2,FIN
+Finland,01-4-2019,2,FIN
+Finland,01-5-2019,2,FIN
+Finland,01-6-2019,5,FIN
+Finland,01-7-2019,0,FIN
+Finland,01-8-2019,2,FIN
+Finland,01-9-2019,1,FIN
+Finland,01-10-2019,2,FIN
+Finland,01-11-2019,4,FIN
+Finland,01-12-2019,0,FIN
+France,01-1-2019,29,FRA
+France,01-2-2019,20,FRA
+France,01-3-2019,35,FRA
+France,01-4-2019,25,FRA
+France,01-5-2019,28,FRA
+France,01-6-2019,30,FRA
+France,01-7-2019,31,FRA
+France,01-8-2019,10,FRA
+France,01-9-2019,19,FRA
+France,01-10-2019,16,FRA
+France,01-11-2019,16,FRA
+France,01-12-2019,20,FRA
+United Kingdom,01-1-2019,11,GBR
+United Kingdom,01-2-2019,14,GBR
+United Kingdom,01-3-2019,17,GBR
+United Kingdom,01-4-2019,12,GBR
+United Kingdom,01-5-2019,16,GBR
+United Kingdom,01-6-2019,16,GBR
+United Kingdom,01-7-2019,16,GBR
+United Kingdom,01-8-2019,8,GBR
+United Kingdom,01-9-2019,10,GBR
+United Kingdom,01-10-2019,9,GBR
+United Kingdom,01-11-2019,8,GBR
+United Kingdom,01-12-2019,13,GBR
+Georgia,01-1-2019,0,GEO
+Georgia,01-2-2019,0,GEO
+Georgia,01-3-2019,1,GEO
+Georgia,01-4-2019,0,GEO
+Georgia,01-5-2019,0,GEO
+Georgia,01-6-2019,1,GEO
+Georgia,01-7-2019,0,GEO
+Georgia,01-8-2019,1,GEO
+Georgia,01-9-2019,0,GEO
+Georgia,01-10-2019,0,GEO
+Georgia,01-11-2019,2,GEO
+Georgia,01-12-2019,1,GEO
+Greece,01-1-2019,3,GRC
+Greece,01-2-2019,1,GRC
+Greece,01-3-2019,2,GRC
+Greece,01-4-2019,5,GRC
+Greece,01-5-2019,4,GRC
+Greece,01-6-2019,3,GRC
+Greece,01-7-2019,0,GRC
+Greece,01-8-2019,2,GRC
+Greece,01-9-2019,1,GRC
+Greece,01-10-2019,2,GRC
+Greece,01-11-2019,2,GRC
+Greece,01-12-2019,3,GRC
+Hong Kong,01-1-2019,2,HKG
+Hong Kong,01-2-2019,0,HKG
+Hong Kong,01-3-2019,2,HKG
+Hong Kong,01-4-2019,6,HKG
+Hong Kong,01-5-2019,6,HKG
+Hong Kong,01-6-2019,2,HKG
+Hong Kong,01-7-2019,2,HKG
+Hong Kong,01-8-2019,1,HKG
+Hong Kong,01-9-2019,4,HKG
+Hong Kong,01-10-2019,1,HKG
+Hong Kong,01-11-2019,1,HKG
+Hong Kong,01-12-2019,3,HKG
+Croatia,01-1-2019,0,HRV
+Croatia,01-2-2019,0,HRV
+Croatia,01-3-2019,1,HRV
+Croatia,01-4-2019,1,HRV
+Croatia,01-5-2019,0,HRV
+Croatia,01-6-2019,0,HRV
+Croatia,01-7-2019,0,HRV
+Croatia,01-8-2019,0,HRV
+Croatia,01-9-2019,1,HRV
+Croatia,01-10-2019,0,HRV
+Croatia,01-11-2019,1,HRV
+Croatia,01-12-2019,0,HRV
+Hungary,01-1-2019,7,HUN
+Hungary,01-2-2019,2,HUN
+Hungary,01-3-2019,3,HUN
+Hungary,01-4-2019,1,HUN
+Hungary,01-5-2019,4,HUN
+Hungary,01-6-2019,7,HUN
+Hungary,01-7-2019,5,HUN
+Hungary,01-8-2019,3,HUN
+Hungary,01-9-2019,2,HUN
+Hungary,01-10-2019,0,HUN
+Hungary,01-11-2019,4,HUN
+Hungary,01-12-2019,3,HUN
+Indonesia,01-1-2019,0,IDN
+Indonesia,01-2-2019,0,IDN
+Indonesia,01-3-2019,0,IDN
+Indonesia,01-4-2019,0,IDN
+Indonesia,01-5-2019,0,IDN
+Indonesia,01-6-2019,0,IDN
+Indonesia,01-7-2019,0,IDN
+Indonesia,01-8-2019,0,IDN
+Indonesia,01-9-2019,0,IDN
+Indonesia,01-10-2019,1,IDN
+Indonesia,01-11-2019,0,IDN
+Indonesia,01-12-2019,0,IDN
+India,01-1-2019,2,IND
+India,01-2-2019,2,IND
+India,01-3-2019,0,IND
+India,01-4-2019,1,IND
+India,01-5-2019,1,IND
+India,01-6-2019,1,IND
+India,01-7-2019,1,IND
+India,01-8-2019,1,IND
+India,01-9-2019,0,IND
+India,01-10-2019,0,IND
+India,01-11-2019,2,IND
+India,01-12-2019,1,IND
+Ireland,01-1-2019,1,IRL
+Ireland,01-2-2019,1,IRL
+Ireland,01-3-2019,1,IRL
+Ireland,01-4-2019,1,IRL
+Ireland,01-5-2019,4,IRL
+Ireland,01-6-2019,2,IRL
+Ireland,01-7-2019,3,IRL
+Ireland,01-8-2019,2,IRL
+Ireland,01-9-2019,2,IRL
+Ireland,01-10-2019,1,IRL
+Ireland,01-11-2019,3,IRL
+Ireland,01-12-2019,1,IRL
+"Iran, Islamic Republic of",01-1-2019,0,IRN
+"Iran, Islamic Republic of",01-2-2019,1,IRN
+"Iran, Islamic Republic of",01-3-2019,0,IRN
+"Iran, Islamic Republic of",01-4-2019,1,IRN
+"Iran, Islamic Republic of",01-5-2019,0,IRN
+"Iran, Islamic Republic of",01-6-2019,0,IRN
+"Iran, Islamic Republic of",01-7-2019,0,IRN
+"Iran, Islamic Republic of",01-8-2019,0,IRN
+"Iran, Islamic Republic of",01-9-2019,0,IRN
+"Iran, Islamic Republic of",01-10-2019,0,IRN
+"Iran, Islamic Republic of",01-11-2019,0,IRN
+"Iran, Islamic Republic of",01-12-2019,0,IRN
+Iceland,01-1-2019,0,ISL
+Iceland,01-2-2019,0,ISL
+Iceland,01-3-2019,0,ISL
+Iceland,01-4-2019,0,ISL
+Iceland,01-5-2019,0,ISL
+Iceland,01-6-2019,1,ISL
+Iceland,01-7-2019,0,ISL
+Iceland,01-8-2019,0,ISL
+Iceland,01-9-2019,0,ISL
+Iceland,01-10-2019,0,ISL
+Iceland,01-11-2019,0,ISL
+Iceland,01-12-2019,0,ISL
+Israel,01-1-2019,6,ISR
+Israel,01-2-2019,5,ISR
+Israel,01-3-2019,5,ISR
+Israel,01-4-2019,7,ISR
+Israel,01-5-2019,8,ISR
+Israel,01-6-2019,6,ISR
+Israel,01-7-2019,5,ISR
+Israel,01-8-2019,3,ISR
+Israel,01-9-2019,1,ISR
+Israel,01-10-2019,2,ISR
+Israel,01-11-2019,7,ISR
+Israel,01-12-2019,6,ISR
+Italy,01-1-2019,18,ITA
+Italy,01-2-2019,13,ITA
+Italy,01-3-2019,16,ITA
+Italy,01-4-2019,20,ITA
+Italy,01-5-2019,17,ITA
+Italy,01-6-2019,18,ITA
+Italy,01-7-2019,12,ITA
+Italy,01-8-2019,12,ITA
+Italy,01-9-2019,12,ITA
+Italy,01-10-2019,11,ITA
+Italy,01-11-2019,7,ITA
+Italy,01-12-2019,11,ITA
+Jordan,01-1-2019,2,JOR
+Jordan,01-2-2019,1,JOR
+Jordan,01-3-2019,0,JOR
+Jordan,01-4-2019,0,JOR
+Jordan,01-5-2019,0,JOR
+Jordan,01-6-2019,1,JOR
+Jordan,01-7-2019,0,JOR
+Jordan,01-8-2019,0,JOR
+Jordan,01-9-2019,0,JOR
+Jordan,01-10-2019,0,JOR
+Jordan,01-11-2019,0,JOR
+Jordan,01-12-2019,0,JOR
+Japan,01-1-2019,10,JPN
+Japan,01-2-2019,5,JPN
+Japan,01-3-2019,14,JPN
+Japan,01-4-2019,8,JPN
+Japan,01-5-2019,14,JPN
+Japan,01-6-2019,11,JPN
+Japan,01-7-2019,8,JPN
+Japan,01-8-2019,2,JPN
+Japan,01-9-2019,9,JPN
+Japan,01-10-2019,7,JPN
+Japan,01-11-2019,8,JPN
+Japan,01-12-2019,7,JPN
+Kenya,01-1-2019,0,KEN
+Kenya,01-2-2019,0,KEN
+Kenya,01-3-2019,0,KEN
+Kenya,01-4-2019,0,KEN
+Kenya,01-5-2019,0,KEN
+Kenya,01-6-2019,0,KEN
+Kenya,01-7-2019,1,KEN
+Kenya,01-8-2019,0,KEN
+Kenya,01-9-2019,1,KEN
+Kenya,01-10-2019,0,KEN
+Kenya,01-11-2019,0,KEN
+Kenya,01-12-2019,0,KEN
+"Korea, Republic of",01-1-2019,11,KOR
+"Korea, Republic of",01-2-2019,11,KOR
+"Korea, Republic of",01-3-2019,14,KOR
+"Korea, Republic of",01-4-2019,11,KOR
+"Korea, Republic of",01-5-2019,17,KOR
+"Korea, Republic of",01-6-2019,15,KOR
+"Korea, Republic of",01-7-2019,14,KOR
+"Korea, Republic of",01-8-2019,8,KOR
+"Korea, Republic of",01-9-2019,12,KOR
+"Korea, Republic of",01-10-2019,2,KOR
+"Korea, Republic of",01-11-2019,10,KOR
+"Korea, Republic of",01-12-2019,9,KOR
+Lebanon,01-1-2019,1,LBN
+Lebanon,01-2-2019,1,LBN
+Lebanon,01-3-2019,0,LBN
+Lebanon,01-4-2019,0,LBN
+Lebanon,01-5-2019,0,LBN
+Lebanon,01-6-2019,0,LBN
+Lebanon,01-7-2019,0,LBN
+Lebanon,01-8-2019,1,LBN
+Lebanon,01-9-2019,0,LBN
+Lebanon,01-10-2019,0,LBN
+Lebanon,01-11-2019,0,LBN
+Lebanon,01-12-2019,0,LBN
+Lithuania,01-1-2019,2,LTU
+Lithuania,01-2-2019,0,LTU
+Lithuania,01-3-2019,1,LTU
+Lithuania,01-4-2019,1,LTU
+Lithuania,01-5-2019,0,LTU
+Lithuania,01-6-2019,1,LTU
+Lithuania,01-7-2019,0,LTU
+Lithuania,01-8-2019,0,LTU
+Lithuania,01-9-2019,0,LTU
+Lithuania,01-10-2019,0,LTU
+Lithuania,01-11-2019,0,LTU
+Lithuania,01-12-2019,0,LTU
+Latvia,01-1-2019,0,LVA
+Latvia,01-2-2019,0,LVA
+Latvia,01-3-2019,1,LVA
+Latvia,01-4-2019,0,LVA
+Latvia,01-5-2019,0,LVA
+Latvia,01-6-2019,0,LVA
+Latvia,01-7-2019,0,LVA
+Latvia,01-8-2019,0,LVA
+Latvia,01-9-2019,0,LVA
+Latvia,01-10-2019,0,LVA
+Latvia,01-11-2019,2,LVA
+Latvia,01-12-2019,0,LVA
+"Moldova, Republic of",01-1-2019,0,MDA
+"Moldova, Republic of",01-2-2019,0,MDA
+"Moldova, Republic of",01-3-2019,0,MDA
+"Moldova, Republic of",01-4-2019,0,MDA
+"Moldova, Republic of",01-5-2019,0,MDA
+"Moldova, Republic of",01-6-2019,1,MDA
+"Moldova, Republic of",01-7-2019,0,MDA
+"Moldova, Republic of",01-8-2019,0,MDA
+"Moldova, Republic of",01-9-2019,0,MDA
+"Moldova, Republic of",01-10-2019,0,MDA
+"Moldova, Republic of",01-11-2019,0,MDA
+"Moldova, Republic of",01-12-2019,0,MDA
+Mexico,01-1-2019,1,MEX
+Mexico,01-2-2019,1,MEX
+Mexico,01-3-2019,1,MEX
+Mexico,01-4-2019,6,MEX
+Mexico,01-5-2019,1,MEX
+Mexico,01-6-2019,6,MEX
+Mexico,01-7-2019,0,MEX
+Mexico,01-8-2019,2,MEX
+Mexico,01-9-2019,2,MEX
+Mexico,01-10-2019,2,MEX
+Mexico,01-11-2019,1,MEX
+Mexico,01-12-2019,4,MEX
+Mongolia,01-1-2019,0,MNG
+Mongolia,01-2-2019,0,MNG
+Mongolia,01-3-2019,0,MNG
+Mongolia,01-4-2019,1,MNG
+Mongolia,01-5-2019,0,MNG
+Mongolia,01-6-2019,0,MNG
+Mongolia,01-7-2019,0,MNG
+Mongolia,01-8-2019,0,MNG
+Mongolia,01-9-2019,0,MNG
+Mongolia,01-10-2019,0,MNG
+Mongolia,01-11-2019,0,MNG
+Mongolia,01-12-2019,0,MNG
+Malawi,01-1-2019,0,MWI
+Malawi,01-2-2019,0,MWI
+Malawi,01-3-2019,0,MWI
+Malawi,01-4-2019,0,MWI
+Malawi,01-5-2019,0,MWI
+Malawi,01-6-2019,0,MWI
+Malawi,01-7-2019,1,MWI
+Malawi,01-8-2019,0,MWI
+Malawi,01-9-2019,0,MWI
+Malawi,01-10-2019,0,MWI
+Malawi,01-11-2019,0,MWI
+Malawi,01-12-2019,0,MWI
+Malaysia,01-1-2019,1,MYS
+Malaysia,01-2-2019,1,MYS
+Malaysia,01-3-2019,2,MYS
+Malaysia,01-4-2019,1,MYS
+Malaysia,01-5-2019,1,MYS
+Malaysia,01-6-2019,0,MYS
+Malaysia,01-7-2019,0,MYS
+Malaysia,01-8-2019,2,MYS
+Malaysia,01-9-2019,2,MYS
+Malaysia,01-10-2019,0,MYS
+Malaysia,01-11-2019,1,MYS
+Malaysia,01-12-2019,2,MYS
+Nigeria,01-1-2019,0,NGA
+Nigeria,01-2-2019,0,NGA
+Nigeria,01-3-2019,0,NGA
+Nigeria,01-4-2019,0,NGA
+Nigeria,01-5-2019,0,NGA
+Nigeria,01-6-2019,1,NGA
+Nigeria,01-7-2019,0,NGA
+Nigeria,01-8-2019,0,NGA
+Nigeria,01-9-2019,0,NGA
+Nigeria,01-10-2019,0,NGA
+Nigeria,01-11-2019,0,NGA
+Nigeria,01-12-2019,0,NGA
+Netherlands,01-1-2019,11,NLD
+Netherlands,01-2-2019,8,NLD
+Netherlands,01-3-2019,8,NLD
+Netherlands,01-4-2019,9,NLD
+Netherlands,01-5-2019,12,NLD
+Netherlands,01-6-2019,8,NLD
+Netherlands,01-7-2019,8,NLD
+Netherlands,01-8-2019,5,NLD
+Netherlands,01-9-2019,11,NLD
+Netherlands,01-10-2019,7,NLD
+Netherlands,01-11-2019,5,NLD
+Netherlands,01-12-2019,9,NLD
+Norway,01-1-2019,1,NOR
+Norway,01-2-2019,1,NOR
+Norway,01-3-2019,2,NOR
+Norway,01-4-2019,1,NOR
+Norway,01-5-2019,3,NOR
+Norway,01-6-2019,6,NOR
+Norway,01-7-2019,2,NOR
+Norway,01-8-2019,1,NOR
+Norway,01-9-2019,1,NOR
+Norway,01-10-2019,3,NOR
+Norway,01-11-2019,1,NOR
+Norway,01-12-2019,2,NOR
+New Zealand,01-1-2019,0,NZL
+New Zealand,01-2-2019,2,NZL
+New Zealand,01-3-2019,1,NZL
+New Zealand,01-4-2019,0,NZL
+New Zealand,01-5-2019,3,NZL
+New Zealand,01-6-2019,7,NZL
+New Zealand,01-7-2019,2,NZL
+New Zealand,01-8-2019,1,NZL
+New Zealand,01-9-2019,2,NZL
+New Zealand,01-10-2019,0,NZL
+New Zealand,01-11-2019,1,NZL
+New Zealand,01-12-2019,3,NZL
+Peru,01-1-2019,1,PER
+Peru,01-2-2019,1,PER
+Peru,01-3-2019,0,PER
+Peru,01-4-2019,1,PER
+Peru,01-5-2019,0,PER
+Peru,01-6-2019,0,PER
+Peru,01-7-2019,0,PER
+Peru,01-8-2019,1,PER
+Peru,01-9-2019,0,PER
+Peru,01-10-2019,0,PER
+Peru,01-11-2019,1,PER
+Peru,01-12-2019,2,PER
+Philippines,01-1-2019,0,PHL
+Philippines,01-2-2019,1,PHL
+Philippines,01-3-2019,1,PHL
+Philippines,01-4-2019,0,PHL
+Philippines,01-5-2019,0,PHL
+Philippines,01-6-2019,1,PHL
+Philippines,01-7-2019,0,PHL
+Philippines,01-8-2019,1,PHL
+Philippines,01-9-2019,0,PHL
+Philippines,01-10-2019,0,PHL
+Philippines,01-11-2019,1,PHL
+Philippines,01-12-2019,0,PHL
+Poland,01-1-2019,10,POL
+Poland,01-2-2019,5,POL
+Poland,01-3-2019,7,POL
+Poland,01-4-2019,4,POL
+Poland,01-5-2019,8,POL
+Poland,01-6-2019,15,POL
+Poland,01-7-2019,7,POL
+Poland,01-8-2019,3,POL
+Poland,01-9-2019,8,POL
+Poland,01-10-2019,2,POL
+Poland,01-11-2019,6,POL
+Poland,01-12-2019,9,POL
+Puerto Rico,01-1-2019,1,PRI
+Puerto Rico,01-2-2019,1,PRI
+Puerto Rico,01-3-2019,0,PRI
+Puerto Rico,01-4-2019,4,PRI
+Puerto Rico,01-5-2019,1,PRI
+Puerto Rico,01-6-2019,0,PRI
+Puerto Rico,01-7-2019,1,PRI
+Puerto Rico,01-8-2019,2,PRI
+Puerto Rico,01-9-2019,3,PRI
+Puerto Rico,01-10-2019,3,PRI
+Puerto Rico,01-11-2019,2,PRI
+Puerto Rico,01-12-2019,0,PRI
+Portugal,01-1-2019,3,PRT
+Portugal,01-2-2019,0,PRT
+Portugal,01-3-2019,3,PRT
+Portugal,01-4-2019,4,PRT
+Portugal,01-5-2019,3,PRT
+Portugal,01-6-2019,0,PRT
+Portugal,01-7-2019,1,PRT
+Portugal,01-8-2019,1,PRT
+Portugal,01-9-2019,2,PRT
+Portugal,01-10-2019,1,PRT
+Portugal,01-11-2019,2,PRT
+Portugal,01-12-2019,2,PRT
+Romania,01-1-2019,3,ROU
+Romania,01-2-2019,0,ROU
+Romania,01-3-2019,3,ROU
+Romania,01-4-2019,3,ROU
+Romania,01-5-2019,3,ROU
+Romania,01-6-2019,3,ROU
+Romania,01-7-2019,1,ROU
+Romania,01-8-2019,1,ROU
+Romania,01-9-2019,2,ROU
+Romania,01-10-2019,2,ROU
+Romania,01-11-2019,1,ROU
+Romania,01-12-2019,2,ROU
+Russian Federation,01-1-2019,8,RUS
+Russian Federation,01-2-2019,4,RUS
+Russian Federation,01-3-2019,6,RUS
+Russian Federation,01-4-2019,7,RUS
+Russian Federation,01-5-2019,9,RUS
+Russian Federation,01-6-2019,10,RUS
+Russian Federation,01-7-2019,4,RUS
+Russian Federation,01-8-2019,3,RUS
+Russian Federation,01-9-2019,7,RUS
+Russian Federation,01-10-2019,5,RUS
+Russian Federation,01-11-2019,6,RUS
+Russian Federation,01-12-2019,5,RUS
+Saudi Arabia,01-1-2019,0,SAU
+Saudi Arabia,01-2-2019,1,SAU
+Saudi Arabia,01-3-2019,0,SAU
+Saudi Arabia,01-4-2019,0,SAU
+Saudi Arabia,01-5-2019,0,SAU
+Saudi Arabia,01-6-2019,1,SAU
+Saudi Arabia,01-7-2019,0,SAU
+Saudi Arabia,01-8-2019,0,SAU
+Saudi Arabia,01-9-2019,1,SAU
+Saudi Arabia,01-10-2019,0,SAU
+Saudi Arabia,01-11-2019,0,SAU
+Saudi Arabia,01-12-2019,1,SAU
+Singapore,01-1-2019,2,SGP
+Singapore,01-2-2019,3,SGP
+Singapore,01-3-2019,1,SGP
+Singapore,01-4-2019,2,SGP
+Singapore,01-5-2019,5,SGP
+Singapore,01-6-2019,3,SGP
+Singapore,01-7-2019,2,SGP
+Singapore,01-8-2019,2,SGP
+Singapore,01-9-2019,3,SGP
+Singapore,01-10-2019,3,SGP
+Singapore,01-11-2019,2,SGP
+Singapore,01-12-2019,7,SGP
+Serbia,01-1-2019,0,SRB
+Serbia,01-2-2019,0,SRB
+Serbia,01-3-2019,0,SRB
+Serbia,01-4-2019,0,SRB
+Serbia,01-5-2019,0,SRB
+Serbia,01-6-2019,1,SRB
+Serbia,01-7-2019,1,SRB
+Serbia,01-8-2019,0,SRB
+Serbia,01-9-2019,1,SRB
+Serbia,01-10-2019,0,SRB
+Serbia,01-11-2019,1,SRB
+Serbia,01-12-2019,0,SRB
+Slovakia,01-1-2019,0,SVK
+Slovakia,01-2-2019,1,SVK
+Slovakia,01-3-2019,1,SVK
+Slovakia,01-4-2019,0,SVK
+Slovakia,01-5-2019,2,SVK
+Slovakia,01-6-2019,2,SVK
+Slovakia,01-7-2019,1,SVK
+Slovakia,01-8-2019,1,SVK
+Slovakia,01-9-2019,0,SVK
+Slovakia,01-10-2019,0,SVK
+Slovakia,01-11-2019,1,SVK
+Slovakia,01-12-2019,0,SVK
+Slovenia,01-1-2019,0,SVN
+Slovenia,01-2-2019,0,SVN
+Slovenia,01-3-2019,0,SVN
+Slovenia,01-4-2019,1,SVN
+Slovenia,01-5-2019,0,SVN
+Slovenia,01-6-2019,1,SVN
+Slovenia,01-7-2019,0,SVN
+Slovenia,01-8-2019,0,SVN
+Slovenia,01-9-2019,0,SVN
+Slovenia,01-10-2019,0,SVN
+Slovenia,01-11-2019,0,SVN
+Slovenia,01-12-2019,1,SVN
+Sweden,01-1-2019,7,SWE
+Sweden,01-2-2019,4,SWE
+Sweden,01-3-2019,3,SWE
+Sweden,01-4-2019,3,SWE
+Sweden,01-5-2019,4,SWE
+Sweden,01-6-2019,5,SWE
+Sweden,01-7-2019,2,SWE
+Sweden,01-8-2019,4,SWE
+Sweden,01-9-2019,2,SWE
+Sweden,01-10-2019,3,SWE
+Sweden,01-11-2019,0,SWE
+Sweden,01-12-2019,2,SWE
+Thailand,01-1-2019,3,THA
+Thailand,01-2-2019,1,THA
+Thailand,01-3-2019,0,THA
+Thailand,01-4-2019,3,THA
+Thailand,01-5-2019,1,THA
+Thailand,01-6-2019,0,THA
+Thailand,01-7-2019,1,THA
+Thailand,01-8-2019,2,THA
+Thailand,01-9-2019,0,THA
+Thailand,01-10-2019,0,THA
+Thailand,01-11-2019,3,THA
+Thailand,01-12-2019,1,THA
+Tunisia,01-1-2019,0,TUN
+Tunisia,01-2-2019,0,TUN
+Tunisia,01-3-2019,0,TUN
+Tunisia,01-4-2019,0,TUN
+Tunisia,01-5-2019,0,TUN
+Tunisia,01-6-2019,0,TUN
+Tunisia,01-7-2019,0,TUN
+Tunisia,01-8-2019,1,TUN
+Tunisia,01-9-2019,0,TUN
+Tunisia,01-10-2019,0,TUN
+Tunisia,01-11-2019,0,TUN
+Tunisia,01-12-2019,0,TUN
+Turkey,01-1-2019,3,TUR
+Turkey,01-2-2019,3,TUR
+Turkey,01-3-2019,2,TUR
+Turkey,01-4-2019,6,TUR
+Turkey,01-5-2019,4,TUR
+Turkey,01-6-2019,6,TUR
+Turkey,01-7-2019,4,TUR
+Turkey,01-8-2019,1,TUR
+Turkey,01-9-2019,2,TUR
+Turkey,01-10-2019,3,TUR
+Turkey,01-11-2019,6,TUR
+Turkey,01-12-2019,4,TUR
+"Taiwan, Province of China",01-1-2019,10,TWN
+"Taiwan, Province of China",01-2-2019,9,TWN
+"Taiwan, Province of China",01-3-2019,6,TWN
+"Taiwan, Province of China",01-4-2019,10,TWN
+"Taiwan, Province of China",01-5-2019,9,TWN
+"Taiwan, Province of China",01-6-2019,8,TWN
+"Taiwan, Province of China",01-7-2019,4,TWN
+"Taiwan, Province of China",01-8-2019,3,TWN
+"Taiwan, Province of China",01-9-2019,5,TWN
+"Taiwan, Province of China",01-10-2019,3,TWN
+"Taiwan, Province of China",01-11-2019,5,TWN
+"Taiwan, Province of China",01-12-2019,4,TWN
+"Tanzania, United Republic of",01-1-2019,0,TZA
+"Tanzania, United Republic of",01-2-2019,0,TZA
+"Tanzania, United Republic of",01-3-2019,0,TZA
+"Tanzania, United Republic of",01-4-2019,0,TZA
+"Tanzania, United Republic of",01-5-2019,0,TZA
+"Tanzania, United Republic of",01-6-2019,0,TZA
+"Tanzania, United Republic of",01-7-2019,1,TZA
+"Tanzania, United Republic of",01-8-2019,0,TZA
+"Tanzania, United Republic of",01-9-2019,1,TZA
+"Tanzania, United Republic of",01-10-2019,0,TZA
+"Tanzania, United Republic of",01-11-2019,0,TZA
+"Tanzania, United Republic of",01-12-2019,0,TZA
+Uganda,01-1-2019,0,UGA
+Uganda,01-2-2019,0,UGA
+Uganda,01-3-2019,0,UGA
+Uganda,01-4-2019,0,UGA
+Uganda,01-5-2019,0,UGA
+Uganda,01-6-2019,0,UGA
+Uganda,01-7-2019,1,UGA
+Uganda,01-8-2019,0,UGA
+Uganda,01-9-2019,1,UGA
+Uganda,01-10-2019,0,UGA
+Uganda,01-11-2019,0,UGA
+Uganda,01-12-2019,0,UGA
+Ukraine,01-1-2019,2,UKR
+Ukraine,01-2-2019,1,UKR
+Ukraine,01-3-2019,4,UKR
+Ukraine,01-4-2019,1,UKR
+Ukraine,01-5-2019,1,UKR
+Ukraine,01-6-2019,6,UKR
+Ukraine,01-7-2019,1,UKR
+Ukraine,01-8-2019,1,UKR
+Ukraine,01-9-2019,0,UKR
+Ukraine,01-10-2019,0,UKR
+Ukraine,01-11-2019,3,UKR
+Ukraine,01-12-2019,4,UKR
+United States,01-1-2019,112,USA
+United States,01-2-2019,78,USA
+United States,01-3-2019,99,USA
+United States,01-4-2019,94,USA
+United States,01-5-2019,120,USA
+United States,01-6-2019,97,USA
+United States,01-7-2019,112,USA
+United States,01-8-2019,77,USA
+United States,01-9-2019,95,USA
+United States,01-10-2019,105,USA
+United States,01-11-2019,90,USA
+United States,01-12-2019,109,USA
+South Africa,01-1-2019,2,ZAF
+South Africa,01-2-2019,2,ZAF
+South Africa,01-3-2019,0,ZAF
+South Africa,01-4-2019,1,ZAF
+South Africa,01-5-2019,1,ZAF
+South Africa,01-6-2019,0,ZAF
+South Africa,01-7-2019,2,ZAF
+South Africa,01-8-2019,0,ZAF
+South Africa,01-9-2019,0,ZAF
+South Africa,01-10-2019,0,ZAF
+South Africa,01-11-2019,1,ZAF
+South Africa,01-12-2019,0,ZAF
+Zimbabwe,01-1-2019,0,ZWE
+Zimbabwe,01-2-2019,0,ZWE
+Zimbabwe,01-3-2019,0,ZWE
+Zimbabwe,01-4-2019,0,ZWE
+Zimbabwe,01-5-2019,0,ZWE
+Zimbabwe,01-6-2019,0,ZWE
+Zimbabwe,01-7-2019,1,ZWE
+Zimbabwe,01-8-2019,0,ZWE
+Zimbabwe,01-9-2019,1,ZWE
+Zimbabwe,01-10-2019,0,ZWE
+Zimbabwe,01-11-2019,0,ZWE
+Zimbabwe,01-12-2019,0,ZWE
