@@ -1,0 +1,49 @@
+country,year,num,iso_alpha
+Austria,01-1-2019,0,AUT
+Austria,01-2-2019,0,AUT
+Austria,01-3-2019,0,AUT
+Austria,01-4-2019,0,AUT
+Austria,01-5-2019,0,AUT
+Austria,01-6-2019,0,AUT
+Austria,01-7-2019,0,AUT
+Austria,01-8-2019,1,AUT
+Austria,01-9-2019,0,AUT
+Austria,01-10-2019,0,AUT
+Austria,01-11-2019,0,AUT
+Austria,01-12-2019,0,AUT
+Canada,01-1-2019,0,CAN
+Canada,01-2-2019,0,CAN
+Canada,01-3-2019,0,CAN
+Canada,01-4-2019,0,CAN
+Canada,01-5-2019,0,CAN
+Canada,01-6-2019,0,CAN
+Canada,01-7-2019,0,CAN
+Canada,01-8-2019,0,CAN
+Canada,01-9-2019,0,CAN
+Canada,01-10-2019,0,CAN
+Canada,01-11-2019,1,CAN
+Canada,01-12-2019,0,CAN
+China,01-1-2019,0,CHN
+China,01-2-2019,1,CHN
+China,01-3-2019,0,CHN
+China,01-4-2019,0,CHN
+China,01-5-2019,0,CHN
+China,01-6-2019,0,CHN
+China,01-7-2019,0,CHN
+China,01-8-2019,1,CHN
+China,01-9-2019,0,CHN
+China,01-10-2019,0,CHN
+China,01-11-2019,0,CHN
+China,01-12-2019,4,CHN
+United States,01-1-2019,2,USA
+United States,01-2-2019,0,USA
+United States,01-3-2019,1,USA
+United States,01-4-2019,2,USA
+United States,01-5-2019,0,USA
+United States,01-6-2019,0,USA
+United States,01-7-2019,0,USA
+United States,01-8-2019,0,USA
+United States,01-9-2019,0,USA
+United States,01-10-2019,0,USA
+United States,01-11-2019,0,USA
+United States,01-12-2019,0,USA
