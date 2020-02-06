@@ -1,96 +1,96 @@
 country,year,num,iso_alpha
-Afghanistan,2010,0,AFG
-Afghanistan,2011,0,AFG
-Afghanistan,2012,0,AFG
-Afghanistan,2013,0,AFG
-Afghanistan,2014,0,AFG
-Afghanistan,2015,0,AFG
-Afghanistan,2016,0,AFG
-Afghanistan,2017,0,AFG
-Afghanistan,2018,0,AFG
-Afghanistan,2019,0,AFG
-Albania,2010,0,ALB
-Albania,2011,0,ALB
-Albania,2012,0,ALB
-Albania,2013,0,ALB
-Albania,2014,0,ALB
-Albania,2015,0,ALB
-Albania,2016,0,ALB
-Albania,2017,0,ALB
-Albania,2018,0,ALB
-Albania,2019,0,ALB
-Algeria,2010,0,DZA
-Algeria,2011,0,DZA
-Algeria,2012,0,DZA
-Algeria,2013,0,DZA
-Algeria,2014,0,DZA
-Algeria,2015,0,DZA
-Algeria,2016,0,DZA
-Algeria,2017,0,DZA
-Algeria,2018,0,DZA
-Algeria,2019,0,DZA
-American Samoa,2010,0,ASM
-American Samoa,2011,0,ASM
-American Samoa,2012,0,ASM
-American Samoa,2013,0,ASM
-American Samoa,2014,0,ASM
-American Samoa,2015,0,ASM
-American Samoa,2016,0,ASM
-American Samoa,2017,0,ASM
-American Samoa,2018,0,ASM
-American Samoa,2019,0,ASM
-Andorra,2010,0,AND
-Andorra,2011,0,AND
-Andorra,2012,0,AND
-Andorra,2013,0,AND
-Andorra,2014,0,AND
-Andorra,2015,0,AND
-Andorra,2016,0,AND
-Andorra,2017,0,AND
-Andorra,2018,0,AND
-Andorra,2019,0,AND
-Angola,2010,0,AGO
-Angola,2011,0,AGO
-Angola,2012,0,AGO
-Angola,2013,0,AGO
-Angola,2014,0,AGO
-Angola,2015,0,AGO
-Angola,2016,0,AGO
-Angola,2017,0,AGO
-Angola,2018,0,AGO
-Angola,2019,0,AGO
-Anguilla,2010,0,AIA
-Anguilla,2011,0,AIA
-Anguilla,2012,0,AIA
-Anguilla,2013,0,AIA
-Anguilla,2014,0,AIA
-Anguilla,2015,0,AIA
-Anguilla,2016,0,AIA
-Anguilla,2017,0,AIA
-Anguilla,2018,0,AIA
-Anguilla,2019,0,AIA
-Antarctica,2010,0,ATA
-Antarctica,2011,0,ATA
-Antarctica,2012,0,ATA
-Antarctica,2013,0,ATA
-Antarctica,2014,0,ATA
-Antarctica,2015,0,ATA
-Antarctica,2016,0,ATA
-Antarctica,2017,0,ATA
-Antarctica,2018,0,ATA
-Antarctica,2019,0,ATA
-Antigua and Barbuda,2010,0,ATG
-Antigua and Barbuda,2011,0,ATG
-Antigua and Barbuda,2012,0,ATG
-Antigua and Barbuda,2013,0,ATG
-Antigua and Barbuda,2014,0,ATG
-Antigua and Barbuda,2015,0,ATG
-Antigua and Barbuda,2016,0,ATG
-Antigua and Barbuda,2017,0,ATG
-Antigua and Barbuda,2018,0,ATG
-Antigua and Barbuda,2019,0,ATG
+Afghanistan,2010,,AFG
+Afghanistan,2011,,AFG
+Afghanistan,2012,,AFG
+Afghanistan,2013,,AFG
+Afghanistan,2014,,AFG
+Afghanistan,2015,,AFG
+Afghanistan,2016,,AFG
+Afghanistan,2017,,AFG
+Afghanistan,2018,,AFG
+Afghanistan,2019,,AFG
+Albania,2010,,ALB
+Albania,2011,,ALB
+Albania,2012,,ALB
+Albania,2013,,ALB
+Albania,2014,,ALB
+Albania,2015,,ALB
+Albania,2016,,ALB
+Albania,2017,,ALB
+Albania,2018,,ALB
+Albania,2019,,ALB
+Algeria,2010,,DZA
+Algeria,2011,,DZA
+Algeria,2012,,DZA
+Algeria,2013,,DZA
+Algeria,2014,,DZA
+Algeria,2015,,DZA
+Algeria,2016,,DZA
+Algeria,2017,,DZA
+Algeria,2018,,DZA
+Algeria,2019,,DZA
+American Samoa,2010,,ASM
+American Samoa,2011,,ASM
+American Samoa,2012,,ASM
+American Samoa,2013,,ASM
+American Samoa,2014,,ASM
+American Samoa,2015,,ASM
+American Samoa,2016,,ASM
+American Samoa,2017,,ASM
+American Samoa,2018,,ASM
+American Samoa,2019,,ASM
+Andorra,2010,,AND
+Andorra,2011,,AND
+Andorra,2012,,AND
+Andorra,2013,,AND
+Andorra,2014,,AND
+Andorra,2015,,AND
+Andorra,2016,,AND
+Andorra,2017,,AND
+Andorra,2018,,AND
+Andorra,2019,,AND
+Angola,2010,,AGO
+Angola,2011,,AGO
+Angola,2012,,AGO
+Angola,2013,,AGO
+Angola,2014,,AGO
+Angola,2015,,AGO
+Angola,2016,,AGO
+Angola,2017,,AGO
+Angola,2018,,AGO
+Angola,2019,,AGO
+Anguilla,2010,,AIA
+Anguilla,2011,,AIA
+Anguilla,2012,,AIA
+Anguilla,2013,,AIA
+Anguilla,2014,,AIA
+Anguilla,2015,,AIA
+Anguilla,2016,,AIA
+Anguilla,2017,,AIA
+Anguilla,2018,,AIA
+Anguilla,2019,,AIA
+Antarctica,2010,,ATA
+Antarctica,2011,,ATA
+Antarctica,2012,,ATA
+Antarctica,2013,,ATA
+Antarctica,2014,,ATA
+Antarctica,2015,,ATA
+Antarctica,2016,,ATA
+Antarctica,2017,,ATA
+Antarctica,2018,,ATA
+Antarctica,2019,,ATA
+Antigua and Barbuda,2010,,ATG
+Antigua and Barbuda,2011,,ATG
+Antigua and Barbuda,2012,,ATG
+Antigua and Barbuda,2013,,ATG
+Antigua and Barbuda,2014,,ATG
+Antigua and Barbuda,2015,,ATG
+Antigua and Barbuda,2016,,ATG
+Antigua and Barbuda,2017,,ATG
+Antigua and Barbuda,2018,,ATG
+Antigua and Barbuda,2019,,ATG
 Argentina,2010,1,ARG
-Argentina,2011,0,ARG
+Argentina,2011,,ARG
 Argentina,2012,2,ARG
 Argentina,2013,2,ARG
 Argentina,2014,3,ARG
@@ -99,28 +99,28 @@ Argentina,2016,3,ARG
 Argentina,2017,4,ARG
 Argentina,2018,6,ARG
 Argentina,2019,3,ARG
-Armenia,2010,0,ARM
-Armenia,2011,0,ARM
-Armenia,2012,0,ARM
-Armenia,2013,0,ARM
-Armenia,2014,0,ARM
-Armenia,2015,0,ARM
-Armenia,2016,0,ARM
-Armenia,2017,0,ARM
-Armenia,2018,0,ARM
-Armenia,2019,0,ARM
-Aruba,2010,0,ABW
-Aruba,2011,0,ABW
-Aruba,2012,0,ABW
-Aruba,2013,0,ABW
-Aruba,2014,0,ABW
-Aruba,2015,0,ABW
-Aruba,2016,0,ABW
-Aruba,2017,0,ABW
-Aruba,2018,0,ABW
-Aruba,2019,0,ABW
+Armenia,2010,,ARM
+Armenia,2011,,ARM
+Armenia,2012,,ARM
+Armenia,2013,,ARM
+Armenia,2014,,ARM
+Armenia,2015,,ARM
+Armenia,2016,,ARM
+Armenia,2017,,ARM
+Armenia,2018,,ARM
+Armenia,2019,,ARM
+Aruba,2010,,ABW
+Aruba,2011,,ABW
+Aruba,2012,,ABW
+Aruba,2013,,ABW
+Aruba,2014,,ABW
+Aruba,2015,,ABW
+Aruba,2016,,ABW
+Aruba,2017,,ABW
+Aruba,2018,,ABW
+Aruba,2019,,ABW
 Australia,2010,1,AUS
-Australia,2011,0,AUS
+Australia,2011,,AUS
 Australia,2012,4,AUS
 Australia,2013,2,AUS
 Australia,2014,6,AUS
@@ -130,78 +130,78 @@ Australia,2017,6,AUS
 Australia,2018,4,AUS
 Australia,2019,8,AUS
 Austria,2010,1,AUT
-Austria,2011,0,AUT
+Austria,2011,,AUT
 Austria,2012,2,AUT
 Austria,2013,2,AUT
 Austria,2014,2,AUT
 Austria,2015,5,AUT
 Austria,2016,6,AUT
-Austria,2017,0,AUT
+Austria,2017,,AUT
 Austria,2018,4,AUT
 Austria,2019,1,AUT
-Azerbaijan,2010,0,AZE
-Azerbaijan,2011,0,AZE
-Azerbaijan,2012,0,AZE
-Azerbaijan,2013,0,AZE
-Azerbaijan,2014,0,AZE
-Azerbaijan,2015,0,AZE
-Azerbaijan,2016,0,AZE
-Azerbaijan,2017,0,AZE
-Azerbaijan,2018,0,AZE
-Azerbaijan,2019,0,AZE
-Bahamas,2010,0,BHS
-Bahamas,2011,0,BHS
-Bahamas,2012,0,BHS
-Bahamas,2013,0,BHS
-Bahamas,2014,0,BHS
-Bahamas,2015,0,BHS
-Bahamas,2016,0,BHS
-Bahamas,2017,0,BHS
-Bahamas,2018,0,BHS
-Bahamas,2019,0,BHS
-Bahrain,2010,0,BHR
-Bahrain,2011,0,BHR
-Bahrain,2012,0,BHR
-Bahrain,2013,0,BHR
-Bahrain,2014,0,BHR
-Bahrain,2015,0,BHR
-Bahrain,2016,0,BHR
-Bahrain,2017,0,BHR
-Bahrain,2018,0,BHR
-Bahrain,2019,0,BHR
-Bangladesh,2010,0,BGD
-Bangladesh,2011,0,BGD
-Bangladesh,2012,0,BGD
-Bangladesh,2013,0,BGD
-Bangladesh,2014,0,BGD
-Bangladesh,2015,0,BGD
-Bangladesh,2016,0,BGD
-Bangladesh,2017,0,BGD
-Bangladesh,2018,0,BGD
-Bangladesh,2019,0,BGD
-Barbados,2010,0,BRB
-Barbados,2011,0,BRB
-Barbados,2012,0,BRB
-Barbados,2013,0,BRB
-Barbados,2014,0,BRB
-Barbados,2015,0,BRB
-Barbados,2016,0,BRB
-Barbados,2017,0,BRB
-Barbados,2018,0,BRB
-Barbados,2019,0,BRB
-Belarus,2010,0,BLR
-Belarus,2011,0,BLR
-Belarus,2012,0,BLR
-Belarus,2013,0,BLR
-Belarus,2014,0,BLR
-Belarus,2015,0,BLR
-Belarus,2016,0,BLR
+Azerbaijan,2010,,AZE
+Azerbaijan,2011,,AZE
+Azerbaijan,2012,,AZE
+Azerbaijan,2013,,AZE
+Azerbaijan,2014,,AZE
+Azerbaijan,2015,,AZE
+Azerbaijan,2016,,AZE
+Azerbaijan,2017,,AZE
+Azerbaijan,2018,,AZE
+Azerbaijan,2019,,AZE
+Bahamas,2010,,BHS
+Bahamas,2011,,BHS
+Bahamas,2012,,BHS
+Bahamas,2013,,BHS
+Bahamas,2014,,BHS
+Bahamas,2015,,BHS
+Bahamas,2016,,BHS
+Bahamas,2017,,BHS
+Bahamas,2018,,BHS
+Bahamas,2019,,BHS
+Bahrain,2010,,BHR
+Bahrain,2011,,BHR
+Bahrain,2012,,BHR
+Bahrain,2013,,BHR
+Bahrain,2014,,BHR
+Bahrain,2015,,BHR
+Bahrain,2016,,BHR
+Bahrain,2017,,BHR
+Bahrain,2018,,BHR
+Bahrain,2019,,BHR
+Bangladesh,2010,,BGD
+Bangladesh,2011,,BGD
+Bangladesh,2012,,BGD
+Bangladesh,2013,,BGD
+Bangladesh,2014,,BGD
+Bangladesh,2015,,BGD
+Bangladesh,2016,,BGD
+Bangladesh,2017,,BGD
+Bangladesh,2018,,BGD
+Bangladesh,2019,,BGD
+Barbados,2010,,BRB
+Barbados,2011,,BRB
+Barbados,2012,,BRB
+Barbados,2013,,BRB
+Barbados,2014,,BRB
+Barbados,2015,,BRB
+Barbados,2016,,BRB
+Barbados,2017,,BRB
+Barbados,2018,,BRB
+Barbados,2019,,BRB
+Belarus,2010,,BLR
+Belarus,2011,,BLR
+Belarus,2012,,BLR
+Belarus,2013,,BLR
+Belarus,2014,,BLR
+Belarus,2015,,BLR
+Belarus,2016,,BLR
 Belarus,2017,3,BLR
-Belarus,2018,0,BLR
+Belarus,2018,,BLR
 Belarus,2019,1,BLR
 Belgium,2010,1,BEL
-Belgium,2011,0,BEL
-Belgium,2012,0,BEL
+Belgium,2011,,BEL
+Belgium,2012,,BEL
 Belgium,2013,3,BEL
 Belgium,2014,3,BEL
 Belgium,2015,8,BEL
@@ -209,98 +209,98 @@ Belgium,2016,4,BEL
 Belgium,2017,4,BEL
 Belgium,2018,3,BEL
 Belgium,2019,2,BEL
-Belize,2010,0,BLZ
-Belize,2011,0,BLZ
-Belize,2012,0,BLZ
-Belize,2013,0,BLZ
-Belize,2014,0,BLZ
-Belize,2015,0,BLZ
-Belize,2016,0,BLZ
-Belize,2017,0,BLZ
-Belize,2018,0,BLZ
-Belize,2019,0,BLZ
-Benin,2010,0,BEN
-Benin,2011,0,BEN
-Benin,2012,0,BEN
-Benin,2013,0,BEN
-Benin,2014,0,BEN
-Benin,2015,0,BEN
-Benin,2016,0,BEN
-Benin,2017,0,BEN
-Benin,2018,0,BEN
-Benin,2019,0,BEN
-Bermuda,2010,0,BMU
-Bermuda,2011,0,BMU
-Bermuda,2012,0,BMU
-Bermuda,2013,0,BMU
-Bermuda,2014,0,BMU
-Bermuda,2015,0,BMU
-Bermuda,2016,0,BMU
-Bermuda,2017,0,BMU
-Bermuda,2018,0,BMU
-Bermuda,2019,0,BMU
-Bhutan,2010,0,BTN
-Bhutan,2011,0,BTN
-Bhutan,2012,0,BTN
-Bhutan,2013,0,BTN
-Bhutan,2014,0,BTN
-Bhutan,2015,0,BTN
-Bhutan,2016,0,BTN
-Bhutan,2017,0,BTN
-Bhutan,2018,0,BTN
-Bhutan,2019,0,BTN
-"Bolivia, Plurinational State of",2010,0,BOL
-"Bolivia, Plurinational State of",2011,0,BOL
-"Bolivia, Plurinational State of",2012,0,BOL
-"Bolivia, Plurinational State of",2013,0,BOL
-"Bolivia, Plurinational State of",2014,0,BOL
-"Bolivia, Plurinational State of",2015,0,BOL
-"Bolivia, Plurinational State of",2016,0,BOL
-"Bolivia, Plurinational State of",2017,0,BOL
-"Bolivia, Plurinational State of",2018,0,BOL
-"Bolivia, Plurinational State of",2019,0,BOL
-"Bonaire, Sint Eustatius and Saba",2010,0,BES
-"Bonaire, Sint Eustatius and Saba",2011,0,BES
-"Bonaire, Sint Eustatius and Saba",2012,0,BES
-"Bonaire, Sint Eustatius and Saba",2013,0,BES
-"Bonaire, Sint Eustatius and Saba",2014,0,BES
-"Bonaire, Sint Eustatius and Saba",2015,0,BES
-"Bonaire, Sint Eustatius and Saba",2016,0,BES
-"Bonaire, Sint Eustatius and Saba",2017,0,BES
-"Bonaire, Sint Eustatius and Saba",2018,0,BES
-"Bonaire, Sint Eustatius and Saba",2019,0,BES
-Bosnia and Herzegovina,2010,0,BIH
-Bosnia and Herzegovina,2011,0,BIH
-Bosnia and Herzegovina,2012,0,BIH
-Bosnia and Herzegovina,2013,0,BIH
+Belize,2010,,BLZ
+Belize,2011,,BLZ
+Belize,2012,,BLZ
+Belize,2013,,BLZ
+Belize,2014,,BLZ
+Belize,2015,,BLZ
+Belize,2016,,BLZ
+Belize,2017,,BLZ
+Belize,2018,,BLZ
+Belize,2019,,BLZ
+Benin,2010,,BEN
+Benin,2011,,BEN
+Benin,2012,,BEN
+Benin,2013,,BEN
+Benin,2014,,BEN
+Benin,2015,,BEN
+Benin,2016,,BEN
+Benin,2017,,BEN
+Benin,2018,,BEN
+Benin,2019,,BEN
+Bermuda,2010,,BMU
+Bermuda,2011,,BMU
+Bermuda,2012,,BMU
+Bermuda,2013,,BMU
+Bermuda,2014,,BMU
+Bermuda,2015,,BMU
+Bermuda,2016,,BMU
+Bermuda,2017,,BMU
+Bermuda,2018,,BMU
+Bermuda,2019,,BMU
+Bhutan,2010,,BTN
+Bhutan,2011,,BTN
+Bhutan,2012,,BTN
+Bhutan,2013,,BTN
+Bhutan,2014,,BTN
+Bhutan,2015,,BTN
+Bhutan,2016,,BTN
+Bhutan,2017,,BTN
+Bhutan,2018,,BTN
+Bhutan,2019,,BTN
+"Bolivia, Plurinational State of",2010,,BOL
+"Bolivia, Plurinational State of",2011,,BOL
+"Bolivia, Plurinational State of",2012,,BOL
+"Bolivia, Plurinational State of",2013,,BOL
+"Bolivia, Plurinational State of",2014,,BOL
+"Bolivia, Plurinational State of",2015,,BOL
+"Bolivia, Plurinational State of",2016,,BOL
+"Bolivia, Plurinational State of",2017,,BOL
+"Bolivia, Plurinational State of",2018,,BOL
+"Bolivia, Plurinational State of",2019,,BOL
+"Bonaire, Sint Eustatius and Saba",2010,,BES
+"Bonaire, Sint Eustatius and Saba",2011,,BES
+"Bonaire, Sint Eustatius and Saba",2012,,BES
+"Bonaire, Sint Eustatius and Saba",2013,,BES
+"Bonaire, Sint Eustatius and Saba",2014,,BES
+"Bonaire, Sint Eustatius and Saba",2015,,BES
+"Bonaire, Sint Eustatius and Saba",2016,,BES
+"Bonaire, Sint Eustatius and Saba",2017,,BES
+"Bonaire, Sint Eustatius and Saba",2018,,BES
+"Bonaire, Sint Eustatius and Saba",2019,,BES
+Bosnia and Herzegovina,2010,,BIH
+Bosnia and Herzegovina,2011,,BIH
+Bosnia and Herzegovina,2012,,BIH
+Bosnia and Herzegovina,2013,,BIH
 Bosnia and Herzegovina,2014,1,BIH
-Bosnia and Herzegovina,2015,0,BIH
-Bosnia and Herzegovina,2016,0,BIH
-Bosnia and Herzegovina,2017,0,BIH
-Bosnia and Herzegovina,2018,0,BIH
-Bosnia and Herzegovina,2019,0,BIH
-Botswana,2010,0,BWA
-Botswana,2011,0,BWA
-Botswana,2012,0,BWA
-Botswana,2013,0,BWA
-Botswana,2014,0,BWA
-Botswana,2015,0,BWA
-Botswana,2016,0,BWA
-Botswana,2017,0,BWA
-Botswana,2018,0,BWA
-Botswana,2019,0,BWA
-Bouvet Island,2010,0,BVT
-Bouvet Island,2011,0,BVT
-Bouvet Island,2012,0,BVT
-Bouvet Island,2013,0,BVT
-Bouvet Island,2014,0,BVT
-Bouvet Island,2015,0,BVT
-Bouvet Island,2016,0,BVT
-Bouvet Island,2017,0,BVT
-Bouvet Island,2018,0,BVT
-Bouvet Island,2019,0,BVT
+Bosnia and Herzegovina,2015,,BIH
+Bosnia and Herzegovina,2016,,BIH
+Bosnia and Herzegovina,2017,,BIH
+Bosnia and Herzegovina,2018,,BIH
+Bosnia and Herzegovina,2019,,BIH
+Botswana,2010,,BWA
+Botswana,2011,,BWA
+Botswana,2012,,BWA
+Botswana,2013,,BWA
+Botswana,2014,,BWA
+Botswana,2015,,BWA
+Botswana,2016,,BWA
+Botswana,2017,,BWA
+Botswana,2018,,BWA
+Botswana,2019,,BWA
+Bouvet Island,2010,,BVT
+Bouvet Island,2011,,BVT
+Bouvet Island,2012,,BVT
+Bouvet Island,2013,,BVT
+Bouvet Island,2014,,BVT
+Bouvet Island,2015,,BVT
+Bouvet Island,2016,,BVT
+Bouvet Island,2017,,BVT
+Bouvet Island,2018,,BVT
+Bouvet Island,2019,,BVT
 Brazil,2010,2,BRA
-Brazil,2011,0,BRA
+Brazil,2011,,BRA
 Brazil,2012,1,BRA
 Brazil,2013,2,BRA
 Brazil,2014,5,BRA
@@ -309,29 +309,29 @@ Brazil,2016,2,BRA
 Brazil,2017,8,BRA
 Brazil,2018,7,BRA
 Brazil,2019,3,BRA
-British Indian Ocean Territory,2010,0,IOT
-British Indian Ocean Territory,2011,0,IOT
-British Indian Ocean Territory,2012,0,IOT
-British Indian Ocean Territory,2013,0,IOT
-British Indian Ocean Territory,2014,0,IOT
-British Indian Ocean Territory,2015,0,IOT
-British Indian Ocean Territory,2016,0,IOT
-British Indian Ocean Territory,2017,0,IOT
-British Indian Ocean Territory,2018,0,IOT
-British Indian Ocean Territory,2019,0,IOT
-Brunei Darussalam,2010,0,BRN
-Brunei Darussalam,2011,0,BRN
-Brunei Darussalam,2012,0,BRN
-Brunei Darussalam,2013,0,BRN
-Brunei Darussalam,2014,0,BRN
-Brunei Darussalam,2015,0,BRN
-Brunei Darussalam,2016,0,BRN
-Brunei Darussalam,2017,0,BRN
-Brunei Darussalam,2018,0,BRN
-Brunei Darussalam,2019,0,BRN
-Bulgaria,2010,0,BGR
-Bulgaria,2011,0,BGR
-Bulgaria,2012,0,BGR
+British Indian Ocean Territory,2010,,IOT
+British Indian Ocean Territory,2011,,IOT
+British Indian Ocean Territory,2012,,IOT
+British Indian Ocean Territory,2013,,IOT
+British Indian Ocean Territory,2014,,IOT
+British Indian Ocean Territory,2015,,IOT
+British Indian Ocean Territory,2016,,IOT
+British Indian Ocean Territory,2017,,IOT
+British Indian Ocean Territory,2018,,IOT
+British Indian Ocean Territory,2019,,IOT
+Brunei Darussalam,2010,,BRN
+Brunei Darussalam,2011,,BRN
+Brunei Darussalam,2012,,BRN
+Brunei Darussalam,2013,,BRN
+Brunei Darussalam,2014,,BRN
+Brunei Darussalam,2015,,BRN
+Brunei Darussalam,2016,,BRN
+Brunei Darussalam,2017,,BRN
+Brunei Darussalam,2018,,BRN
+Brunei Darussalam,2019,,BRN
+Bulgaria,2010,,BGR
+Bulgaria,2011,,BGR
+Bulgaria,2012,,BGR
 Bulgaria,2013,1,BGR
 Bulgaria,2014,2,BGR
 Bulgaria,2015,3,BGR
@@ -339,58 +339,58 @@ Bulgaria,2016,2,BGR
 Bulgaria,2017,6,BGR
 Bulgaria,2018,4,BGR
 Bulgaria,2019,1,BGR
-Burkina Faso,2010,0,BFA
-Burkina Faso,2011,0,BFA
-Burkina Faso,2012,0,BFA
-Burkina Faso,2013,0,BFA
-Burkina Faso,2014,0,BFA
-Burkina Faso,2015,0,BFA
-Burkina Faso,2016,0,BFA
-Burkina Faso,2017,0,BFA
-Burkina Faso,2018,0,BFA
-Burkina Faso,2019,0,BFA
-Burundi,2010,0,BDI
-Burundi,2011,0,BDI
-Burundi,2012,0,BDI
-Burundi,2013,0,BDI
-Burundi,2014,0,BDI
-Burundi,2015,0,BDI
-Burundi,2016,0,BDI
-Burundi,2017,0,BDI
-Burundi,2018,0,BDI
-Burundi,2019,0,BDI
-Cabo Verde,2010,0,CPV
-Cabo Verde,2011,0,CPV
-Cabo Verde,2012,0,CPV
-Cabo Verde,2013,0,CPV
-Cabo Verde,2014,0,CPV
-Cabo Verde,2015,0,CPV
-Cabo Verde,2016,0,CPV
-Cabo Verde,2017,0,CPV
-Cabo Verde,2018,0,CPV
-Cabo Verde,2019,0,CPV
-Cambodia,2010,0,KHM
-Cambodia,2011,0,KHM
-Cambodia,2012,0,KHM
-Cambodia,2013,0,KHM
-Cambodia,2014,0,KHM
-Cambodia,2015,0,KHM
-Cambodia,2016,0,KHM
-Cambodia,2017,0,KHM
-Cambodia,2018,0,KHM
-Cambodia,2019,0,KHM
-Cameroon,2010,0,CMR
-Cameroon,2011,0,CMR
-Cameroon,2012,0,CMR
-Cameroon,2013,0,CMR
-Cameroon,2014,0,CMR
-Cameroon,2015,0,CMR
-Cameroon,2016,0,CMR
-Cameroon,2017,0,CMR
-Cameroon,2018,0,CMR
-Cameroon,2019,0,CMR
+Burkina Faso,2010,,BFA
+Burkina Faso,2011,,BFA
+Burkina Faso,2012,,BFA
+Burkina Faso,2013,,BFA
+Burkina Faso,2014,,BFA
+Burkina Faso,2015,,BFA
+Burkina Faso,2016,,BFA
+Burkina Faso,2017,,BFA
+Burkina Faso,2018,,BFA
+Burkina Faso,2019,,BFA
+Burundi,2010,,BDI
+Burundi,2011,,BDI
+Burundi,2012,,BDI
+Burundi,2013,,BDI
+Burundi,2014,,BDI
+Burundi,2015,,BDI
+Burundi,2016,,BDI
+Burundi,2017,,BDI
+Burundi,2018,,BDI
+Burundi,2019,,BDI
+Cabo Verde,2010,,CPV
+Cabo Verde,2011,,CPV
+Cabo Verde,2012,,CPV
+Cabo Verde,2013,,CPV
+Cabo Verde,2014,,CPV
+Cabo Verde,2015,,CPV
+Cabo Verde,2016,,CPV
+Cabo Verde,2017,,CPV
+Cabo Verde,2018,,CPV
+Cabo Verde,2019,,CPV
+Cambodia,2010,,KHM
+Cambodia,2011,,KHM
+Cambodia,2012,,KHM
+Cambodia,2013,,KHM
+Cambodia,2014,,KHM
+Cambodia,2015,,KHM
+Cambodia,2016,,KHM
+Cambodia,2017,,KHM
+Cambodia,2018,,KHM
+Cambodia,2019,,KHM
+Cameroon,2010,,CMR
+Cameroon,2011,,CMR
+Cameroon,2012,,CMR
+Cameroon,2013,,CMR
+Cameroon,2014,,CMR
+Cameroon,2015,,CMR
+Cameroon,2016,,CMR
+Cameroon,2017,,CMR
+Cameroon,2018,,CMR
+Cameroon,2019,,CMR
 Canada,2010,1,CAN
-Canada,2011,0,CAN
+Canada,2011,,CAN
 Canada,2012,3,CAN
 Canada,2013,2,CAN
 Canada,2014,9,CAN
@@ -399,38 +399,38 @@ Canada,2016,6,CAN
 Canada,2017,7,CAN
 Canada,2018,8,CAN
 Canada,2019,8,CAN
-Cayman Islands,2010,0,CYM
-Cayman Islands,2011,0,CYM
-Cayman Islands,2012,0,CYM
-Cayman Islands,2013,0,CYM
-Cayman Islands,2014,0,CYM
-Cayman Islands,2015,0,CYM
-Cayman Islands,2016,0,CYM
-Cayman Islands,2017,0,CYM
-Cayman Islands,2018,0,CYM
-Cayman Islands,2019,0,CYM
-Central African Republic,2010,0,CAF
-Central African Republic,2011,0,CAF
-Central African Republic,2012,0,CAF
-Central African Republic,2013,0,CAF
-Central African Republic,2014,0,CAF
-Central African Republic,2015,0,CAF
-Central African Republic,2016,0,CAF
-Central African Republic,2017,0,CAF
-Central African Republic,2018,0,CAF
-Central African Republic,2019,0,CAF
-Chad,2010,0,TCD
-Chad,2011,0,TCD
-Chad,2012,0,TCD
-Chad,2013,0,TCD
-Chad,2014,0,TCD
-Chad,2015,0,TCD
-Chad,2016,0,TCD
-Chad,2017,0,TCD
-Chad,2018,0,TCD
-Chad,2019,0,TCD
-Chile,2010,0,CHL
-Chile,2011,0,CHL
+Cayman Islands,2010,,CYM
+Cayman Islands,2011,,CYM
+Cayman Islands,2012,,CYM
+Cayman Islands,2013,,CYM
+Cayman Islands,2014,,CYM
+Cayman Islands,2015,,CYM
+Cayman Islands,2016,,CYM
+Cayman Islands,2017,,CYM
+Cayman Islands,2018,,CYM
+Cayman Islands,2019,,CYM
+Central African Republic,2010,,CAF
+Central African Republic,2011,,CAF
+Central African Republic,2012,,CAF
+Central African Republic,2013,,CAF
+Central African Republic,2014,,CAF
+Central African Republic,2015,,CAF
+Central African Republic,2016,,CAF
+Central African Republic,2017,,CAF
+Central African Republic,2018,,CAF
+Central African Republic,2019,,CAF
+Chad,2010,,TCD
+Chad,2011,,TCD
+Chad,2012,,TCD
+Chad,2013,,TCD
+Chad,2014,,TCD
+Chad,2015,,TCD
+Chad,2016,,TCD
+Chad,2017,,TCD
+Chad,2018,,TCD
+Chad,2019,,TCD
+Chile,2010,,CHL
+Chile,2011,,CHL
 Chile,2012,2,CHL
 Chile,2013,1,CHL
 Chile,2014,2,CHL
@@ -449,308 +449,308 @@ China,2016,10,CHN
 China,2017,13,CHN
 China,2018,19,CHN
 China,2019,24,CHN
-Christmas Island,2010,0,CXR
-Christmas Island,2011,0,CXR
-Christmas Island,2012,0,CXR
-Christmas Island,2013,0,CXR
-Christmas Island,2014,0,CXR
-Christmas Island,2015,0,CXR
-Christmas Island,2016,0,CXR
-Christmas Island,2017,0,CXR
-Christmas Island,2018,0,CXR
-Christmas Island,2019,0,CXR
-Cocos (Keeling) Islands,2010,0,CCK
-Cocos (Keeling) Islands,2011,0,CCK
-Cocos (Keeling) Islands,2012,0,CCK
-Cocos (Keeling) Islands,2013,0,CCK
-Cocos (Keeling) Islands,2014,0,CCK
-Cocos (Keeling) Islands,2015,0,CCK
-Cocos (Keeling) Islands,2016,0,CCK
-Cocos (Keeling) Islands,2017,0,CCK
-Cocos (Keeling) Islands,2018,0,CCK
-Cocos (Keeling) Islands,2019,0,CCK
-Colombia,2010,0,COL
-Colombia,2011,0,COL
-Colombia,2012,0,COL
+Christmas Island,2010,,CXR
+Christmas Island,2011,,CXR
+Christmas Island,2012,,CXR
+Christmas Island,2013,,CXR
+Christmas Island,2014,,CXR
+Christmas Island,2015,,CXR
+Christmas Island,2016,,CXR
+Christmas Island,2017,,CXR
+Christmas Island,2018,,CXR
+Christmas Island,2019,,CXR
+Cocos (Keeling) Islands,2010,,CCK
+Cocos (Keeling) Islands,2011,,CCK
+Cocos (Keeling) Islands,2012,,CCK
+Cocos (Keeling) Islands,2013,,CCK
+Cocos (Keeling) Islands,2014,,CCK
+Cocos (Keeling) Islands,2015,,CCK
+Cocos (Keeling) Islands,2016,,CCK
+Cocos (Keeling) Islands,2017,,CCK
+Cocos (Keeling) Islands,2018,,CCK
+Cocos (Keeling) Islands,2019,,CCK
+Colombia,2010,,COL
+Colombia,2011,,COL
+Colombia,2012,,COL
 Colombia,2013,1,COL
-Colombia,2014,0,COL
+Colombia,2014,,COL
 Colombia,2015,3,COL
-Colombia,2016,0,COL
+Colombia,2016,,COL
 Colombia,2017,2,COL
 Colombia,2018,2,COL
 Colombia,2019,2,COL
-Comoros,2010,0,COM
-Comoros,2011,0,COM
-Comoros,2012,0,COM
-Comoros,2013,0,COM
-Comoros,2014,0,COM
-Comoros,2015,0,COM
-Comoros,2016,0,COM
-Comoros,2017,0,COM
-Comoros,2018,0,COM
-Comoros,2019,0,COM
-Congo,2010,0,COG
-Congo,2011,0,COG
-Congo,2012,0,COG
-Congo,2013,0,COG
-Congo,2014,0,COG
-Congo,2015,0,COG
-Congo,2016,0,COG
-Congo,2017,0,COG
-Congo,2018,0,COG
-Congo,2019,0,COG
-"Congo, The Democratic Republic of the",2010,0,COD
-"Congo, The Democratic Republic of the",2011,0,COD
-"Congo, The Democratic Republic of the",2012,0,COD
-"Congo, The Democratic Republic of the",2013,0,COD
-"Congo, The Democratic Republic of the",2014,0,COD
-"Congo, The Democratic Republic of the",2015,0,COD
-"Congo, The Democratic Republic of the",2016,0,COD
-"Congo, The Democratic Republic of the",2017,0,COD
-"Congo, The Democratic Republic of the",2018,0,COD
-"Congo, The Democratic Republic of the",2019,0,COD
-Cook Islands,2010,0,COK
-Cook Islands,2011,0,COK
-Cook Islands,2012,0,COK
-Cook Islands,2013,0,COK
-Cook Islands,2014,0,COK
-Cook Islands,2015,0,COK
-Cook Islands,2016,0,COK
-Cook Islands,2017,0,COK
-Cook Islands,2018,0,COK
-Cook Islands,2019,0,COK
-Costa Rica,2010,0,CRI
-Costa Rica,2011,0,CRI
-Costa Rica,2012,0,CRI
-Costa Rica,2013,0,CRI
+Comoros,2010,,COM
+Comoros,2011,,COM
+Comoros,2012,,COM
+Comoros,2013,,COM
+Comoros,2014,,COM
+Comoros,2015,,COM
+Comoros,2016,,COM
+Comoros,2017,,COM
+Comoros,2018,,COM
+Comoros,2019,,COM
+Congo,2010,,COG
+Congo,2011,,COG
+Congo,2012,,COG
+Congo,2013,,COG
+Congo,2014,,COG
+Congo,2015,,COG
+Congo,2016,,COG
+Congo,2017,,COG
+Congo,2018,,COG
+Congo,2019,,COG
+"Congo, The Democratic Republic of the",2010,,COD
+"Congo, The Democratic Republic of the",2011,,COD
+"Congo, The Democratic Republic of the",2012,,COD
+"Congo, The Democratic Republic of the",2013,,COD
+"Congo, The Democratic Republic of the",2014,,COD
+"Congo, The Democratic Republic of the",2015,,COD
+"Congo, The Democratic Republic of the",2016,,COD
+"Congo, The Democratic Republic of the",2017,,COD
+"Congo, The Democratic Republic of the",2018,,COD
+"Congo, The Democratic Republic of the",2019,,COD
+Cook Islands,2010,,COK
+Cook Islands,2011,,COK
+Cook Islands,2012,,COK
+Cook Islands,2013,,COK
+Cook Islands,2014,,COK
+Cook Islands,2015,,COK
+Cook Islands,2016,,COK
+Cook Islands,2017,,COK
+Cook Islands,2018,,COK
+Cook Islands,2019,,COK
+Costa Rica,2010,,CRI
+Costa Rica,2011,,CRI
+Costa Rica,2012,,CRI
+Costa Rica,2013,,CRI
 Costa Rica,2014,1,CRI
-Costa Rica,2015,0,CRI
-Costa Rica,2016,0,CRI
+Costa Rica,2015,,CRI
+Costa Rica,2016,,CRI
 Costa Rica,2017,1,CRI
-Costa Rica,2018,0,CRI
-Costa Rica,2019,0,CRI
+Costa Rica,2018,,CRI
+Costa Rica,2019,,CRI
 Croatia,2010,1,HRV
-Croatia,2011,0,HRV
-Croatia,2012,0,HRV
-Croatia,2013,0,HRV
-Croatia,2014,0,HRV
+Croatia,2011,,HRV
+Croatia,2012,,HRV
+Croatia,2013,,HRV
+Croatia,2014,,HRV
 Croatia,2015,1,HRV
-Croatia,2016,0,HRV
+Croatia,2016,,HRV
 Croatia,2017,1,HRV
 Croatia,2018,1,HRV
 Croatia,2019,1,HRV
 Cuba,2010,1,CUB
-Cuba,2011,0,CUB
-Cuba,2012,0,CUB
-Cuba,2013,0,CUB
-Cuba,2014,0,CUB
-Cuba,2015,0,CUB
-Cuba,2016,0,CUB
-Cuba,2017,0,CUB
-Cuba,2018,0,CUB
-Cuba,2019,0,CUB
-Curaçao,2010,0,CUW
-Curaçao,2011,0,CUW
-Curaçao,2012,0,CUW
-Curaçao,2013,0,CUW
-Curaçao,2014,0,CUW
-Curaçao,2015,0,CUW
-Curaçao,2016,0,CUW
-Curaçao,2017,0,CUW
-Curaçao,2018,0,CUW
-Curaçao,2019,0,CUW
-Cyprus,2010,0,CYP
-Cyprus,2011,0,CYP
-Cyprus,2012,0,CYP
-Cyprus,2013,0,CYP
-Cyprus,2014,0,CYP
+Cuba,2011,,CUB
+Cuba,2012,,CUB
+Cuba,2013,,CUB
+Cuba,2014,,CUB
+Cuba,2015,,CUB
+Cuba,2016,,CUB
+Cuba,2017,,CUB
+Cuba,2018,,CUB
+Cuba,2019,,CUB
+Curaçao,2010,,CUW
+Curaçao,2011,,CUW
+Curaçao,2012,,CUW
+Curaçao,2013,,CUW
+Curaçao,2014,,CUW
+Curaçao,2015,,CUW
+Curaçao,2016,,CUW
+Curaçao,2017,,CUW
+Curaçao,2018,,CUW
+Curaçao,2019,,CUW
+Cyprus,2010,,CYP
+Cyprus,2011,,CYP
+Cyprus,2012,,CYP
+Cyprus,2013,,CYP
+Cyprus,2014,,CYP
 Cyprus,2015,1,CYP
-Cyprus,2016,0,CYP
-Cyprus,2017,0,CYP
-Cyprus,2018,0,CYP
-Cyprus,2019,0,CYP
-Czechia,2010,0,CZE
-Czechia,2011,0,CZE
+Cyprus,2016,,CYP
+Cyprus,2017,,CYP
+Cyprus,2018,,CYP
+Cyprus,2019,,CYP
+Czechia,2010,,CZE
+Czechia,2011,,CZE
 Czechia,2012,2,CZE
-Czechia,2013,0,CZE
+Czechia,2013,,CZE
 Czechia,2014,3,CZE
 Czechia,2015,4,CZE
 Czechia,2016,4,CZE
 Czechia,2017,3,CZE
 Czechia,2018,4,CZE
 Czechia,2019,1,CZE
-Côte d'Ivoire,2010,0,CIV
-Côte d'Ivoire,2011,0,CIV
-Côte d'Ivoire,2012,0,CIV
-Côte d'Ivoire,2013,0,CIV
-Côte d'Ivoire,2014,0,CIV
-Côte d'Ivoire,2015,0,CIV
-Côte d'Ivoire,2016,0,CIV
-Côte d'Ivoire,2017,0,CIV
-Côte d'Ivoire,2018,0,CIV
-Côte d'Ivoire,2019,0,CIV
-Denmark,2010,0,DNK
-Denmark,2011,0,DNK
-Denmark,2012,0,DNK
+Côte d'Ivoire,2010,,CIV
+Côte d'Ivoire,2011,,CIV
+Côte d'Ivoire,2012,,CIV
+Côte d'Ivoire,2013,,CIV
+Côte d'Ivoire,2014,,CIV
+Côte d'Ivoire,2015,,CIV
+Côte d'Ivoire,2016,,CIV
+Côte d'Ivoire,2017,,CIV
+Côte d'Ivoire,2018,,CIV
+Côte d'Ivoire,2019,,CIV
+Denmark,2010,,DNK
+Denmark,2011,,DNK
+Denmark,2012,,DNK
 Denmark,2013,1,DNK
 Denmark,2014,1,DNK
 Denmark,2015,2,DNK
 Denmark,2016,2,DNK
 Denmark,2017,2,DNK
 Denmark,2018,2,DNK
-Denmark,2019,0,DNK
-Djibouti,2010,0,DJI
-Djibouti,2011,0,DJI
-Djibouti,2012,0,DJI
-Djibouti,2013,0,DJI
-Djibouti,2014,0,DJI
-Djibouti,2015,0,DJI
-Djibouti,2016,0,DJI
-Djibouti,2017,0,DJI
-Djibouti,2018,0,DJI
-Djibouti,2019,0,DJI
-Dominica,2010,0,DMA
-Dominica,2011,0,DMA
-Dominica,2012,0,DMA
-Dominica,2013,0,DMA
-Dominica,2014,0,DMA
-Dominica,2015,0,DMA
-Dominica,2016,0,DMA
-Dominica,2017,0,DMA
-Dominica,2018,0,DMA
-Dominica,2019,0,DMA
-Dominican Republic,2010,0,DOM
-Dominican Republic,2011,0,DOM
-Dominican Republic,2012,0,DOM
-Dominican Republic,2013,0,DOM
-Dominican Republic,2014,0,DOM
-Dominican Republic,2015,0,DOM
-Dominican Republic,2016,0,DOM
-Dominican Republic,2017,0,DOM
-Dominican Republic,2018,0,DOM
-Dominican Republic,2019,0,DOM
-Ecuador,2010,0,ECU
-Ecuador,2011,0,ECU
-Ecuador,2012,0,ECU
-Ecuador,2013,0,ECU
-Ecuador,2014,0,ECU
-Ecuador,2015,0,ECU
-Ecuador,2016,0,ECU
-Ecuador,2017,0,ECU
-Ecuador,2018,0,ECU
-Ecuador,2019,0,ECU
-Egypt,2010,0,EGY
-Egypt,2011,0,EGY
-Egypt,2012,0,EGY
-Egypt,2013,0,EGY
+Denmark,2019,,DNK
+Djibouti,2010,,DJI
+Djibouti,2011,,DJI
+Djibouti,2012,,DJI
+Djibouti,2013,,DJI
+Djibouti,2014,,DJI
+Djibouti,2015,,DJI
+Djibouti,2016,,DJI
+Djibouti,2017,,DJI
+Djibouti,2018,,DJI
+Djibouti,2019,,DJI
+Dominica,2010,,DMA
+Dominica,2011,,DMA
+Dominica,2012,,DMA
+Dominica,2013,,DMA
+Dominica,2014,,DMA
+Dominica,2015,,DMA
+Dominica,2016,,DMA
+Dominica,2017,,DMA
+Dominica,2018,,DMA
+Dominica,2019,,DMA
+Dominican Republic,2010,,DOM
+Dominican Republic,2011,,DOM
+Dominican Republic,2012,,DOM
+Dominican Republic,2013,,DOM
+Dominican Republic,2014,,DOM
+Dominican Republic,2015,,DOM
+Dominican Republic,2016,,DOM
+Dominican Republic,2017,,DOM
+Dominican Republic,2018,,DOM
+Dominican Republic,2019,,DOM
+Ecuador,2010,,ECU
+Ecuador,2011,,ECU
+Ecuador,2012,,ECU
+Ecuador,2013,,ECU
+Ecuador,2014,,ECU
+Ecuador,2015,,ECU
+Ecuador,2016,,ECU
+Ecuador,2017,,ECU
+Ecuador,2018,,ECU
+Ecuador,2019,,ECU
+Egypt,2010,,EGY
+Egypt,2011,,EGY
+Egypt,2012,,EGY
+Egypt,2013,,EGY
 Egypt,2014,1,EGY
-Egypt,2015,0,EGY
-Egypt,2016,0,EGY
-Egypt,2017,0,EGY
-Egypt,2018,0,EGY
-Egypt,2019,0,EGY
-El Salvador,2010,0,SLV
-El Salvador,2011,0,SLV
-El Salvador,2012,0,SLV
-El Salvador,2013,0,SLV
-El Salvador,2014,0,SLV
-El Salvador,2015,0,SLV
-El Salvador,2016,0,SLV
-El Salvador,2017,0,SLV
-El Salvador,2018,0,SLV
-El Salvador,2019,0,SLV
-Equatorial Guinea,2010,0,GNQ
-Equatorial Guinea,2011,0,GNQ
-Equatorial Guinea,2012,0,GNQ
-Equatorial Guinea,2013,0,GNQ
-Equatorial Guinea,2014,0,GNQ
-Equatorial Guinea,2015,0,GNQ
-Equatorial Guinea,2016,0,GNQ
-Equatorial Guinea,2017,0,GNQ
-Equatorial Guinea,2018,0,GNQ
-Equatorial Guinea,2019,0,GNQ
-Eritrea,2010,0,ERI
-Eritrea,2011,0,ERI
-Eritrea,2012,0,ERI
-Eritrea,2013,0,ERI
-Eritrea,2014,0,ERI
-Eritrea,2015,0,ERI
-Eritrea,2016,0,ERI
-Eritrea,2017,0,ERI
-Eritrea,2018,0,ERI
-Eritrea,2019,0,ERI
-Estonia,2010,0,EST
-Estonia,2011,0,EST
-Estonia,2012,0,EST
-Estonia,2013,0,EST
-Estonia,2014,0,EST
+Egypt,2015,,EGY
+Egypt,2016,,EGY
+Egypt,2017,,EGY
+Egypt,2018,,EGY
+Egypt,2019,,EGY
+El Salvador,2010,,SLV
+El Salvador,2011,,SLV
+El Salvador,2012,,SLV
+El Salvador,2013,,SLV
+El Salvador,2014,,SLV
+El Salvador,2015,,SLV
+El Salvador,2016,,SLV
+El Salvador,2017,,SLV
+El Salvador,2018,,SLV
+El Salvador,2019,,SLV
+Equatorial Guinea,2010,,GNQ
+Equatorial Guinea,2011,,GNQ
+Equatorial Guinea,2012,,GNQ
+Equatorial Guinea,2013,,GNQ
+Equatorial Guinea,2014,,GNQ
+Equatorial Guinea,2015,,GNQ
+Equatorial Guinea,2016,,GNQ
+Equatorial Guinea,2017,,GNQ
+Equatorial Guinea,2018,,GNQ
+Equatorial Guinea,2019,,GNQ
+Eritrea,2010,,ERI
+Eritrea,2011,,ERI
+Eritrea,2012,,ERI
+Eritrea,2013,,ERI
+Eritrea,2014,,ERI
+Eritrea,2015,,ERI
+Eritrea,2016,,ERI
+Eritrea,2017,,ERI
+Eritrea,2018,,ERI
+Eritrea,2019,,ERI
+Estonia,2010,,EST
+Estonia,2011,,EST
+Estonia,2012,,EST
+Estonia,2013,,EST
+Estonia,2014,,EST
 Estonia,2015,1,EST
-Estonia,2016,0,EST
-Estonia,2017,0,EST
-Estonia,2018,0,EST
+Estonia,2016,,EST
+Estonia,2017,,EST
+Estonia,2018,,EST
 Estonia,2019,1,EST
-Eswatini,2010,0,SWZ
-Eswatini,2011,0,SWZ
-Eswatini,2012,0,SWZ
-Eswatini,2013,0,SWZ
-Eswatini,2014,0,SWZ
-Eswatini,2015,0,SWZ
-Eswatini,2016,0,SWZ
-Eswatini,2017,0,SWZ
-Eswatini,2018,0,SWZ
-Eswatini,2019,0,SWZ
-Ethiopia,2010,0,ETH
-Ethiopia,2011,0,ETH
-Ethiopia,2012,0,ETH
-Ethiopia,2013,0,ETH
-Ethiopia,2014,0,ETH
-Ethiopia,2015,0,ETH
-Ethiopia,2016,0,ETH
-Ethiopia,2017,0,ETH
-Ethiopia,2018,0,ETH
-Ethiopia,2019,0,ETH
-Falkland Islands (Malvinas),2010,0,FLK
-Falkland Islands (Malvinas),2011,0,FLK
-Falkland Islands (Malvinas),2012,0,FLK
-Falkland Islands (Malvinas),2013,0,FLK
-Falkland Islands (Malvinas),2014,0,FLK
-Falkland Islands (Malvinas),2015,0,FLK
-Falkland Islands (Malvinas),2016,0,FLK
-Falkland Islands (Malvinas),2017,0,FLK
-Falkland Islands (Malvinas),2018,0,FLK
-Falkland Islands (Malvinas),2019,0,FLK
-Faroe Islands,2010,0,FRO
-Faroe Islands,2011,0,FRO
-Faroe Islands,2012,0,FRO
-Faroe Islands,2013,0,FRO
-Faroe Islands,2014,0,FRO
-Faroe Islands,2015,0,FRO
-Faroe Islands,2016,0,FRO
-Faroe Islands,2017,0,FRO
-Faroe Islands,2018,0,FRO
-Faroe Islands,2019,0,FRO
-Fiji,2010,0,FJI
-Fiji,2011,0,FJI
-Fiji,2012,0,FJI
-Fiji,2013,0,FJI
-Fiji,2014,0,FJI
-Fiji,2015,0,FJI
-Fiji,2016,0,FJI
-Fiji,2017,0,FJI
-Fiji,2018,0,FJI
-Fiji,2019,0,FJI
-Finland,2010,0,FIN
-Finland,2011,0,FIN
-Finland,2012,0,FIN
-Finland,2013,0,FIN
+Eswatini,2010,,SWZ
+Eswatini,2011,,SWZ
+Eswatini,2012,,SWZ
+Eswatini,2013,,SWZ
+Eswatini,2014,,SWZ
+Eswatini,2015,,SWZ
+Eswatini,2016,,SWZ
+Eswatini,2017,,SWZ
+Eswatini,2018,,SWZ
+Eswatini,2019,,SWZ
+Ethiopia,2010,,ETH
+Ethiopia,2011,,ETH
+Ethiopia,2012,,ETH
+Ethiopia,2013,,ETH
+Ethiopia,2014,,ETH
+Ethiopia,2015,,ETH
+Ethiopia,2016,,ETH
+Ethiopia,2017,,ETH
+Ethiopia,2018,,ETH
+Ethiopia,2019,,ETH
+Falkland Islands (Malvinas),2010,,FLK
+Falkland Islands (Malvinas),2011,,FLK
+Falkland Islands (Malvinas),2012,,FLK
+Falkland Islands (Malvinas),2013,,FLK
+Falkland Islands (Malvinas),2014,,FLK
+Falkland Islands (Malvinas),2015,,FLK
+Falkland Islands (Malvinas),2016,,FLK
+Falkland Islands (Malvinas),2017,,FLK
+Falkland Islands (Malvinas),2018,,FLK
+Falkland Islands (Malvinas),2019,,FLK
+Faroe Islands,2010,,FRO
+Faroe Islands,2011,,FRO
+Faroe Islands,2012,,FRO
+Faroe Islands,2013,,FRO
+Faroe Islands,2014,,FRO
+Faroe Islands,2015,,FRO
+Faroe Islands,2016,,FRO
+Faroe Islands,2017,,FRO
+Faroe Islands,2018,,FRO
+Faroe Islands,2019,,FRO
+Fiji,2010,,FJI
+Fiji,2011,,FJI
+Fiji,2012,,FJI
+Fiji,2013,,FJI
+Fiji,2014,,FJI
+Fiji,2015,,FJI
+Fiji,2016,,FJI
+Fiji,2017,,FJI
+Fiji,2018,,FJI
+Fiji,2019,,FJI
+Finland,2010,,FIN
+Finland,2011,,FIN
+Finland,2012,,FIN
+Finland,2013,,FIN
 Finland,2014,2,FIN
 Finland,2015,2,FIN
-Finland,2016,0,FIN
-Finland,2017,0,FIN
+Finland,2016,,FIN
+Finland,2017,,FIN
 Finland,2018,1,FIN
-Finland,2019,0,FIN
+Finland,2019,,FIN
 France,2010,1,FRA
-France,2011,0,FRA
+France,2011,,FRA
 France,2012,3,FRA
 France,2013,5,FRA
 France,2014,6,FRA
@@ -759,68 +759,68 @@ France,2016,9,FRA
 France,2017,7,FRA
 France,2018,7,FRA
 France,2019,8,FRA
-French Guiana,2010,0,GUF
-French Guiana,2011,0,GUF
-French Guiana,2012,0,GUF
-French Guiana,2013,0,GUF
-French Guiana,2014,0,GUF
-French Guiana,2015,0,GUF
-French Guiana,2016,0,GUF
-French Guiana,2017,0,GUF
-French Guiana,2018,0,GUF
-French Guiana,2019,0,GUF
-French Polynesia,2010,0,PYF
-French Polynesia,2011,0,PYF
-French Polynesia,2012,0,PYF
-French Polynesia,2013,0,PYF
-French Polynesia,2014,0,PYF
-French Polynesia,2015,0,PYF
-French Polynesia,2016,0,PYF
-French Polynesia,2017,0,PYF
-French Polynesia,2018,0,PYF
-French Polynesia,2019,0,PYF
-French Southern Territories,2010,0,ATF
-French Southern Territories,2011,0,ATF
-French Southern Territories,2012,0,ATF
-French Southern Territories,2013,0,ATF
-French Southern Territories,2014,0,ATF
-French Southern Territories,2015,0,ATF
-French Southern Territories,2016,0,ATF
-French Southern Territories,2017,0,ATF
-French Southern Territories,2018,0,ATF
-French Southern Territories,2019,0,ATF
-Gabon,2010,0,GAB
-Gabon,2011,0,GAB
-Gabon,2012,0,GAB
-Gabon,2013,0,GAB
-Gabon,2014,0,GAB
-Gabon,2015,0,GAB
-Gabon,2016,0,GAB
-Gabon,2017,0,GAB
-Gabon,2018,0,GAB
-Gabon,2019,0,GAB
-Gambia,2010,0,GMB
-Gambia,2011,0,GMB
-Gambia,2012,0,GMB
-Gambia,2013,0,GMB
-Gambia,2014,0,GMB
-Gambia,2015,0,GMB
-Gambia,2016,0,GMB
-Gambia,2017,0,GMB
-Gambia,2018,0,GMB
-Gambia,2019,0,GMB
-Georgia,2010,0,GEO
-Georgia,2011,0,GEO
-Georgia,2012,0,GEO
-Georgia,2013,0,GEO
-Georgia,2014,0,GEO
-Georgia,2015,0,GEO
-Georgia,2016,0,GEO
+French Guiana,2010,,GUF
+French Guiana,2011,,GUF
+French Guiana,2012,,GUF
+French Guiana,2013,,GUF
+French Guiana,2014,,GUF
+French Guiana,2015,,GUF
+French Guiana,2016,,GUF
+French Guiana,2017,,GUF
+French Guiana,2018,,GUF
+French Guiana,2019,,GUF
+French Polynesia,2010,,PYF
+French Polynesia,2011,,PYF
+French Polynesia,2012,,PYF
+French Polynesia,2013,,PYF
+French Polynesia,2014,,PYF
+French Polynesia,2015,,PYF
+French Polynesia,2016,,PYF
+French Polynesia,2017,,PYF
+French Polynesia,2018,,PYF
+French Polynesia,2019,,PYF
+French Southern Territories,2010,,ATF
+French Southern Territories,2011,,ATF
+French Southern Territories,2012,,ATF
+French Southern Territories,2013,,ATF
+French Southern Territories,2014,,ATF
+French Southern Territories,2015,,ATF
+French Southern Territories,2016,,ATF
+French Southern Territories,2017,,ATF
+French Southern Territories,2018,,ATF
+French Southern Territories,2019,,ATF
+Gabon,2010,,GAB
+Gabon,2011,,GAB
+Gabon,2012,,GAB
+Gabon,2013,,GAB
+Gabon,2014,,GAB
+Gabon,2015,,GAB
+Gabon,2016,,GAB
+Gabon,2017,,GAB
+Gabon,2018,,GAB
+Gabon,2019,,GAB
+Gambia,2010,,GMB
+Gambia,2011,,GMB
+Gambia,2012,,GMB
+Gambia,2013,,GMB
+Gambia,2014,,GMB
+Gambia,2015,,GMB
+Gambia,2016,,GMB
+Gambia,2017,,GMB
+Gambia,2018,,GMB
+Gambia,2019,,GMB
+Georgia,2010,,GEO
+Georgia,2011,,GEO
+Georgia,2012,,GEO
+Georgia,2013,,GEO
+Georgia,2014,,GEO
+Georgia,2015,,GEO
+Georgia,2016,,GEO
 Georgia,2017,2,GEO
 Georgia,2018,2,GEO
 Georgia,2019,1,GEO
 Germany,2010,1,DEU
-Germany,2011,0,DEU
+Germany,2011,,DEU
 Germany,2012,3,DEU
 Germany,2013,3,DEU
 Germany,2014,6,DEU
@@ -829,29 +829,29 @@ Germany,2016,7,DEU
 Germany,2017,6,DEU
 Germany,2018,6,DEU
 Germany,2019,4,DEU
-Ghana,2010,0,GHA
-Ghana,2011,0,GHA
-Ghana,2012,0,GHA
-Ghana,2013,0,GHA
-Ghana,2014,0,GHA
-Ghana,2015,0,GHA
-Ghana,2016,0,GHA
-Ghana,2017,0,GHA
-Ghana,2018,0,GHA
-Ghana,2019,0,GHA
-Gibraltar,2010,0,GIB
-Gibraltar,2011,0,GIB
-Gibraltar,2012,0,GIB
-Gibraltar,2013,0,GIB
-Gibraltar,2014,0,GIB
-Gibraltar,2015,0,GIB
-Gibraltar,2016,0,GIB
-Gibraltar,2017,0,GIB
-Gibraltar,2018,0,GIB
-Gibraltar,2019,0,GIB
+Ghana,2010,,GHA
+Ghana,2011,,GHA
+Ghana,2012,,GHA
+Ghana,2013,,GHA
+Ghana,2014,,GHA
+Ghana,2015,,GHA
+Ghana,2016,,GHA
+Ghana,2017,,GHA
+Ghana,2018,,GHA
+Ghana,2019,,GHA
+Gibraltar,2010,,GIB
+Gibraltar,2011,,GIB
+Gibraltar,2012,,GIB
+Gibraltar,2013,,GIB
+Gibraltar,2014,,GIB
+Gibraltar,2015,,GIB
+Gibraltar,2016,,GIB
+Gibraltar,2017,,GIB
+Gibraltar,2018,,GIB
+Gibraltar,2019,,GIB
 Greece,2010,1,GRC
-Greece,2011,0,GRC
-Greece,2012,0,GRC
+Greece,2011,,GRC
+Greece,2012,,GRC
 Greece,2013,1,GRC
 Greece,2014,3,GRC
 Greece,2015,7,GRC
@@ -859,138 +859,138 @@ Greece,2016,1,GRC
 Greece,2017,3,GRC
 Greece,2018,3,GRC
 Greece,2019,3,GRC
-Greenland,2010,0,GRL
-Greenland,2011,0,GRL
-Greenland,2012,0,GRL
-Greenland,2013,0,GRL
-Greenland,2014,0,GRL
-Greenland,2015,0,GRL
-Greenland,2016,0,GRL
-Greenland,2017,0,GRL
-Greenland,2018,0,GRL
-Greenland,2019,0,GRL
-Grenada,2010,0,GRD
-Grenada,2011,0,GRD
-Grenada,2012,0,GRD
-Grenada,2013,0,GRD
-Grenada,2014,0,GRD
-Grenada,2015,0,GRD
-Grenada,2016,0,GRD
-Grenada,2017,0,GRD
-Grenada,2018,0,GRD
-Grenada,2019,0,GRD
-Guadeloupe,2010,0,GLP
-Guadeloupe,2011,0,GLP
-Guadeloupe,2012,0,GLP
-Guadeloupe,2013,0,GLP
-Guadeloupe,2014,0,GLP
-Guadeloupe,2015,0,GLP
-Guadeloupe,2016,0,GLP
-Guadeloupe,2017,0,GLP
-Guadeloupe,2018,0,GLP
-Guadeloupe,2019,0,GLP
-Guam,2010,0,GUM
-Guam,2011,0,GUM
-Guam,2012,0,GUM
-Guam,2013,0,GUM
-Guam,2014,0,GUM
-Guam,2015,0,GUM
-Guam,2016,0,GUM
-Guam,2017,0,GUM
-Guam,2018,0,GUM
-Guam,2019,0,GUM
-Guatemala,2010,0,GTM
-Guatemala,2011,0,GTM
-Guatemala,2012,0,GTM
-Guatemala,2013,0,GTM
+Greenland,2010,,GRL
+Greenland,2011,,GRL
+Greenland,2012,,GRL
+Greenland,2013,,GRL
+Greenland,2014,,GRL
+Greenland,2015,,GRL
+Greenland,2016,,GRL
+Greenland,2017,,GRL
+Greenland,2018,,GRL
+Greenland,2019,,GRL
+Grenada,2010,,GRD
+Grenada,2011,,GRD
+Grenada,2012,,GRD
+Grenada,2013,,GRD
+Grenada,2014,,GRD
+Grenada,2015,,GRD
+Grenada,2016,,GRD
+Grenada,2017,,GRD
+Grenada,2018,,GRD
+Grenada,2019,,GRD
+Guadeloupe,2010,,GLP
+Guadeloupe,2011,,GLP
+Guadeloupe,2012,,GLP
+Guadeloupe,2013,,GLP
+Guadeloupe,2014,,GLP
+Guadeloupe,2015,,GLP
+Guadeloupe,2016,,GLP
+Guadeloupe,2017,,GLP
+Guadeloupe,2018,,GLP
+Guadeloupe,2019,,GLP
+Guam,2010,,GUM
+Guam,2011,,GUM
+Guam,2012,,GUM
+Guam,2013,,GUM
+Guam,2014,,GUM
+Guam,2015,,GUM
+Guam,2016,,GUM
+Guam,2017,,GUM
+Guam,2018,,GUM
+Guam,2019,,GUM
+Guatemala,2010,,GTM
+Guatemala,2011,,GTM
+Guatemala,2012,,GTM
+Guatemala,2013,,GTM
 Guatemala,2014,1,GTM
-Guatemala,2015,0,GTM
-Guatemala,2016,0,GTM
-Guatemala,2017,0,GTM
+Guatemala,2015,,GTM
+Guatemala,2016,,GTM
+Guatemala,2017,,GTM
 Guatemala,2018,1,GTM
-Guatemala,2019,0,GTM
-Guernsey,2010,0,GGY
-Guernsey,2011,0,GGY
-Guernsey,2012,0,GGY
-Guernsey,2013,0,GGY
-Guernsey,2014,0,GGY
-Guernsey,2015,0,GGY
-Guernsey,2016,0,GGY
-Guernsey,2017,0,GGY
-Guernsey,2018,0,GGY
-Guernsey,2019,0,GGY
-Guinea,2010,0,GIN
-Guinea,2011,0,GIN
-Guinea,2012,0,GIN
-Guinea,2013,0,GIN
-Guinea,2014,0,GIN
-Guinea,2015,0,GIN
-Guinea,2016,0,GIN
-Guinea,2017,0,GIN
-Guinea,2018,0,GIN
-Guinea,2019,0,GIN
-Guinea-Bissau,2010,0,GNB
-Guinea-Bissau,2011,0,GNB
-Guinea-Bissau,2012,0,GNB
-Guinea-Bissau,2013,0,GNB
-Guinea-Bissau,2014,0,GNB
-Guinea-Bissau,2015,0,GNB
-Guinea-Bissau,2016,0,GNB
-Guinea-Bissau,2017,0,GNB
-Guinea-Bissau,2018,0,GNB
-Guinea-Bissau,2019,0,GNB
-Guyana,2010,0,GUY
-Guyana,2011,0,GUY
-Guyana,2012,0,GUY
-Guyana,2013,0,GUY
-Guyana,2014,0,GUY
-Guyana,2015,0,GUY
-Guyana,2016,0,GUY
-Guyana,2017,0,GUY
-Guyana,2018,0,GUY
-Guyana,2019,0,GUY
-Haiti,2010,0,HTI
-Haiti,2011,0,HTI
-Haiti,2012,0,HTI
-Haiti,2013,0,HTI
-Haiti,2014,0,HTI
-Haiti,2015,0,HTI
-Haiti,2016,0,HTI
-Haiti,2017,0,HTI
-Haiti,2018,0,HTI
-Haiti,2019,0,HTI
-Heard Island and McDonald Islands,2010,0,HMD
-Heard Island and McDonald Islands,2011,0,HMD
-Heard Island and McDonald Islands,2012,0,HMD
-Heard Island and McDonald Islands,2013,0,HMD
-Heard Island and McDonald Islands,2014,0,HMD
-Heard Island and McDonald Islands,2015,0,HMD
-Heard Island and McDonald Islands,2016,0,HMD
-Heard Island and McDonald Islands,2017,0,HMD
-Heard Island and McDonald Islands,2018,0,HMD
-Heard Island and McDonald Islands,2019,0,HMD
-Holy See (Vatican City State),2010,0,VAT
-Holy See (Vatican City State),2011,0,VAT
-Holy See (Vatican City State),2012,0,VAT
-Holy See (Vatican City State),2013,0,VAT
-Holy See (Vatican City State),2014,0,VAT
-Holy See (Vatican City State),2015,0,VAT
-Holy See (Vatican City State),2016,0,VAT
-Holy See (Vatican City State),2017,0,VAT
-Holy See (Vatican City State),2018,0,VAT
-Holy See (Vatican City State),2019,0,VAT
-Honduras,2010,0,HND
-Honduras,2011,0,HND
-Honduras,2012,0,HND
-Honduras,2013,0,HND
-Honduras,2014,0,HND
-Honduras,2015,0,HND
-Honduras,2016,0,HND
-Honduras,2017,0,HND
-Honduras,2018,0,HND
-Honduras,2019,0,HND
-Hong Kong,2010,0,HKG
-Hong Kong,2011,0,HKG
+Guatemala,2019,,GTM
+Guernsey,2010,,GGY
+Guernsey,2011,,GGY
+Guernsey,2012,,GGY
+Guernsey,2013,,GGY
+Guernsey,2014,,GGY
+Guernsey,2015,,GGY
+Guernsey,2016,,GGY
+Guernsey,2017,,GGY
+Guernsey,2018,,GGY
+Guernsey,2019,,GGY
+Guinea,2010,,GIN
+Guinea,2011,,GIN
+Guinea,2012,,GIN
+Guinea,2013,,GIN
+Guinea,2014,,GIN
+Guinea,2015,,GIN
+Guinea,2016,,GIN
+Guinea,2017,,GIN
+Guinea,2018,,GIN
+Guinea,2019,,GIN
+Guinea-Bissau,2010,,GNB
+Guinea-Bissau,2011,,GNB
+Guinea-Bissau,2012,,GNB
+Guinea-Bissau,2013,,GNB
+Guinea-Bissau,2014,,GNB
+Guinea-Bissau,2015,,GNB
+Guinea-Bissau,2016,,GNB
+Guinea-Bissau,2017,,GNB
+Guinea-Bissau,2018,,GNB
+Guinea-Bissau,2019,,GNB
+Guyana,2010,,GUY
+Guyana,2011,,GUY
+Guyana,2012,,GUY
+Guyana,2013,,GUY
+Guyana,2014,,GUY
+Guyana,2015,,GUY
+Guyana,2016,,GUY
+Guyana,2017,,GUY
+Guyana,2018,,GUY
+Guyana,2019,,GUY
+Haiti,2010,,HTI
+Haiti,2011,,HTI
+Haiti,2012,,HTI
+Haiti,2013,,HTI
+Haiti,2014,,HTI
+Haiti,2015,,HTI
+Haiti,2016,,HTI
+Haiti,2017,,HTI
+Haiti,2018,,HTI
+Haiti,2019,,HTI
+Heard Island and McDonald Islands,2010,,HMD
+Heard Island and McDonald Islands,2011,,HMD
+Heard Island and McDonald Islands,2012,,HMD
+Heard Island and McDonald Islands,2013,,HMD
+Heard Island and McDonald Islands,2014,,HMD
+Heard Island and McDonald Islands,2015,,HMD
+Heard Island and McDonald Islands,2016,,HMD
+Heard Island and McDonald Islands,2017,,HMD
+Heard Island and McDonald Islands,2018,,HMD
+Heard Island and McDonald Islands,2019,,HMD
+Holy See (Vatican City State),2010,,VAT
+Holy See (Vatican City State),2011,,VAT
+Holy See (Vatican City State),2012,,VAT
+Holy See (Vatican City State),2013,,VAT
+Holy See (Vatican City State),2014,,VAT
+Holy See (Vatican City State),2015,,VAT
+Holy See (Vatican City State),2016,,VAT
+Holy See (Vatican City State),2017,,VAT
+Holy See (Vatican City State),2018,,VAT
+Holy See (Vatican City State),2019,,VAT
+Honduras,2010,,HND
+Honduras,2011,,HND
+Honduras,2012,,HND
+Honduras,2013,,HND
+Honduras,2014,,HND
+Honduras,2015,,HND
+Honduras,2016,,HND
+Honduras,2017,,HND
+Honduras,2018,,HND
+Honduras,2019,,HND
+Hong Kong,2010,,HKG
+Hong Kong,2011,,HKG
 Hong Kong,2012,2,HKG
 Hong Kong,2013,2,HKG
 Hong Kong,2014,1,HKG
@@ -1000,7 +1000,7 @@ Hong Kong,2017,3,HKG
 Hong Kong,2018,3,HKG
 Hong Kong,2019,1,HKG
 Hungary,2010,1,HUN
-Hungary,2011,0,HUN
+Hungary,2011,,HUN
 Hungary,2012,4,HUN
 Hungary,2013,2,HUN
 Hungary,2014,5,HUN
@@ -1009,78 +1009,78 @@ Hungary,2016,3,HUN
 Hungary,2017,6,HUN
 Hungary,2018,8,HUN
 Hungary,2019,4,HUN
-Iceland,2010,0,ISL
-Iceland,2011,0,ISL
-Iceland,2012,0,ISL
-Iceland,2013,0,ISL
-Iceland,2014,0,ISL
-Iceland,2015,0,ISL
-Iceland,2016,0,ISL
-Iceland,2017,0,ISL
+Iceland,2010,,ISL
+Iceland,2011,,ISL
+Iceland,2012,,ISL
+Iceland,2013,,ISL
+Iceland,2014,,ISL
+Iceland,2015,,ISL
+Iceland,2016,,ISL
+Iceland,2017,,ISL
 Iceland,2018,2,ISL
-Iceland,2019,0,ISL
-India,2010,0,IND
-India,2011,0,IND
-India,2012,0,IND
+Iceland,2019,,ISL
+India,2010,,IND
+India,2011,,IND
+India,2012,,IND
 India,2013,2,IND
-India,2014,0,IND
-India,2015,0,IND
-India,2016,0,IND
+India,2014,,IND
+India,2015,,IND
+India,2016,,IND
 India,2017,2,IND
 India,2018,7,IND
 India,2019,1,IND
 Indonesia,2010,1,IDN
-Indonesia,2011,0,IDN
-Indonesia,2012,0,IDN
-Indonesia,2013,0,IDN
-Indonesia,2014,0,IDN
-Indonesia,2015,0,IDN
-Indonesia,2016,0,IDN
-Indonesia,2017,0,IDN
-Indonesia,2018,0,IDN
-Indonesia,2019,0,IDN
-"Iran, Islamic Republic of",2010,0,IRN
-"Iran, Islamic Republic of",2011,0,IRN
-"Iran, Islamic Republic of",2012,0,IRN
-"Iran, Islamic Republic of",2013,0,IRN
-"Iran, Islamic Republic of",2014,0,IRN
-"Iran, Islamic Republic of",2015,0,IRN
-"Iran, Islamic Republic of",2016,0,IRN
-"Iran, Islamic Republic of",2017,0,IRN
-"Iran, Islamic Republic of",2018,0,IRN
-"Iran, Islamic Republic of",2019,0,IRN
-Iraq,2010,0,IRQ
-Iraq,2011,0,IRQ
-Iraq,2012,0,IRQ
-Iraq,2013,0,IRQ
-Iraq,2014,0,IRQ
-Iraq,2015,0,IRQ
-Iraq,2016,0,IRQ
-Iraq,2017,0,IRQ
-Iraq,2018,0,IRQ
-Iraq,2019,0,IRQ
-Ireland,2010,0,IRL
-Ireland,2011,0,IRL
+Indonesia,2011,,IDN
+Indonesia,2012,,IDN
+Indonesia,2013,,IDN
+Indonesia,2014,,IDN
+Indonesia,2015,,IDN
+Indonesia,2016,,IDN
+Indonesia,2017,,IDN
+Indonesia,2018,,IDN
+Indonesia,2019,,IDN
+"Iran, Islamic Republic of",2010,,IRN
+"Iran, Islamic Republic of",2011,,IRN
+"Iran, Islamic Republic of",2012,,IRN
+"Iran, Islamic Republic of",2013,,IRN
+"Iran, Islamic Republic of",2014,,IRN
+"Iran, Islamic Republic of",2015,,IRN
+"Iran, Islamic Republic of",2016,,IRN
+"Iran, Islamic Republic of",2017,,IRN
+"Iran, Islamic Republic of",2018,,IRN
+"Iran, Islamic Republic of",2019,,IRN
+Iraq,2010,,IRQ
+Iraq,2011,,IRQ
+Iraq,2012,,IRQ
+Iraq,2013,,IRQ
+Iraq,2014,,IRQ
+Iraq,2015,,IRQ
+Iraq,2016,,IRQ
+Iraq,2017,,IRQ
+Iraq,2018,,IRQ
+Iraq,2019,,IRQ
+Ireland,2010,,IRL
+Ireland,2011,,IRL
 Ireland,2012,1,IRL
 Ireland,2013,2,IRL
-Ireland,2014,0,IRL
+Ireland,2014,,IRL
 Ireland,2015,4,IRL
 Ireland,2016,1,IRL
 Ireland,2017,3,IRL
 Ireland,2018,2,IRL
 Ireland,2019,1,IRL
-Isle of Man,2010,0,IMN
-Isle of Man,2011,0,IMN
-Isle of Man,2012,0,IMN
-Isle of Man,2013,0,IMN
-Isle of Man,2014,0,IMN
-Isle of Man,2015,0,IMN
-Isle of Man,2016,0,IMN
-Isle of Man,2017,0,IMN
-Isle of Man,2018,0,IMN
-Isle of Man,2019,0,IMN
-Israel,2010,0,ISR
-Israel,2011,0,ISR
+Isle of Man,2010,,IMN
+Isle of Man,2011,,IMN
+Isle of Man,2012,,IMN
+Isle of Man,2013,,IMN
+Isle of Man,2014,,IMN
+Isle of Man,2015,,IMN
+Isle of Man,2016,,IMN
+Isle of Man,2017,,IMN
+Isle of Man,2018,,IMN
+Isle of Man,2019,,IMN
+Israel,2010,,ISR
+Israel,2011,,ISR
 Israel,2012,2,ISR
 Israel,2013,2,ISR
 Israel,2014,5,ISR
@@ -1099,19 +1099,19 @@ Italy,2016,9,ITA
 Italy,2017,7,ITA
 Italy,2018,8,ITA
 Italy,2019,5,ITA
-Jamaica,2010,0,JAM
-Jamaica,2011,0,JAM
-Jamaica,2012,0,JAM
-Jamaica,2013,0,JAM
-Jamaica,2014,0,JAM
-Jamaica,2015,0,JAM
-Jamaica,2016,0,JAM
-Jamaica,2017,0,JAM
-Jamaica,2018,0,JAM
-Jamaica,2019,0,JAM
-Japan,2010,0,JPN
-Japan,2011,0,JPN
-Japan,2012,0,JPN
+Jamaica,2010,,JAM
+Jamaica,2011,,JAM
+Jamaica,2012,,JAM
+Jamaica,2013,,JAM
+Jamaica,2014,,JAM
+Jamaica,2015,,JAM
+Jamaica,2016,,JAM
+Jamaica,2017,,JAM
+Jamaica,2018,,JAM
+Jamaica,2019,,JAM
+Japan,2010,,JPN
+Japan,2011,,JPN
+Japan,2012,,JPN
 Japan,2013,3,JPN
 Japan,2014,6,JPN
 Japan,2015,9,JPN
@@ -1119,68 +1119,68 @@ Japan,2016,1,JPN
 Japan,2017,7,JPN
 Japan,2018,8,JPN
 Japan,2019,7,JPN
-Jersey,2010,0,JEY
-Jersey,2011,0,JEY
-Jersey,2012,0,JEY
-Jersey,2013,0,JEY
-Jersey,2014,0,JEY
-Jersey,2015,0,JEY
-Jersey,2016,0,JEY
-Jersey,2017,0,JEY
-Jersey,2018,0,JEY
-Jersey,2019,0,JEY
-Jordan,2010,0,JOR
-Jordan,2011,0,JOR
-Jordan,2012,0,JOR
-Jordan,2013,0,JOR
-Jordan,2014,0,JOR
-Jordan,2015,0,JOR
-Jordan,2016,0,JOR
+Jersey,2010,,JEY
+Jersey,2011,,JEY
+Jersey,2012,,JEY
+Jersey,2013,,JEY
+Jersey,2014,,JEY
+Jersey,2015,,JEY
+Jersey,2016,,JEY
+Jersey,2017,,JEY
+Jersey,2018,,JEY
+Jersey,2019,,JEY
+Jordan,2010,,JOR
+Jordan,2011,,JOR
+Jordan,2012,,JOR
+Jordan,2013,,JOR
+Jordan,2014,,JOR
+Jordan,2015,,JOR
+Jordan,2016,,JOR
 Jordan,2017,1,JOR
 Jordan,2018,1,JOR
-Jordan,2019,0,JOR
-Kazakhstan,2010,0,KAZ
-Kazakhstan,2011,0,KAZ
-Kazakhstan,2012,0,KAZ
-Kazakhstan,2013,0,KAZ
-Kazakhstan,2014,0,KAZ
-Kazakhstan,2015,0,KAZ
-Kazakhstan,2016,0,KAZ
+Jordan,2019,,JOR
+Kazakhstan,2010,,KAZ
+Kazakhstan,2011,,KAZ
+Kazakhstan,2012,,KAZ
+Kazakhstan,2013,,KAZ
+Kazakhstan,2014,,KAZ
+Kazakhstan,2015,,KAZ
+Kazakhstan,2016,,KAZ
 Kazakhstan,2017,1,KAZ
-Kazakhstan,2018,0,KAZ
-Kazakhstan,2019,0,KAZ
-Kenya,2010,0,KEN
-Kenya,2011,0,KEN
-Kenya,2012,0,KEN
-Kenya,2013,0,KEN
-Kenya,2014,0,KEN
-Kenya,2015,0,KEN
-Kenya,2016,0,KEN
-Kenya,2017,0,KEN
-Kenya,2018,0,KEN
-Kenya,2019,0,KEN
-Kiribati,2010,0,KIR
-Kiribati,2011,0,KIR
-Kiribati,2012,0,KIR
-Kiribati,2013,0,KIR
-Kiribati,2014,0,KIR
-Kiribati,2015,0,KIR
-Kiribati,2016,0,KIR
-Kiribati,2017,0,KIR
-Kiribati,2018,0,KIR
-Kiribati,2019,0,KIR
-"Korea, Democratic People's Republic of",2010,0,PRK
-"Korea, Democratic People's Republic of",2011,0,PRK
-"Korea, Democratic People's Republic of",2012,0,PRK
-"Korea, Democratic People's Republic of",2013,0,PRK
-"Korea, Democratic People's Republic of",2014,0,PRK
-"Korea, Democratic People's Republic of",2015,0,PRK
-"Korea, Democratic People's Republic of",2016,0,PRK
-"Korea, Democratic People's Republic of",2017,0,PRK
-"Korea, Democratic People's Republic of",2018,0,PRK
-"Korea, Democratic People's Republic of",2019,0,PRK
+Kazakhstan,2018,,KAZ
+Kazakhstan,2019,,KAZ
+Kenya,2010,,KEN
+Kenya,2011,,KEN
+Kenya,2012,,KEN
+Kenya,2013,,KEN
+Kenya,2014,,KEN
+Kenya,2015,,KEN
+Kenya,2016,,KEN
+Kenya,2017,,KEN
+Kenya,2018,,KEN
+Kenya,2019,,KEN
+Kiribati,2010,,KIR
+Kiribati,2011,,KIR
+Kiribati,2012,,KIR
+Kiribati,2013,,KIR
+Kiribati,2014,,KIR
+Kiribati,2015,,KIR
+Kiribati,2016,,KIR
+Kiribati,2017,,KIR
+Kiribati,2018,,KIR
+Kiribati,2019,,KIR
+"Korea, Democratic People's Republic of",2010,,PRK
+"Korea, Democratic People's Republic of",2011,,PRK
+"Korea, Democratic People's Republic of",2012,,PRK
+"Korea, Democratic People's Republic of",2013,,PRK
+"Korea, Democratic People's Republic of",2014,,PRK
+"Korea, Democratic People's Republic of",2015,,PRK
+"Korea, Democratic People's Republic of",2016,,PRK
+"Korea, Democratic People's Republic of",2017,,PRK
+"Korea, Democratic People's Republic of",2018,,PRK
+"Korea, Democratic People's Republic of",2019,,PRK
 "Korea, Republic of",2010,1,KOR
-"Korea, Republic of",2011,0,KOR
+"Korea, Republic of",2011,,KOR
 "Korea, Republic of",2012,2,KOR
 "Korea, Republic of",2013,3,KOR
 "Korea, Republic of",2014,7,KOR
@@ -1189,368 +1189,368 @@ Kiribati,2019,0,KIR
 "Korea, Republic of",2017,7,KOR
 "Korea, Republic of",2018,12,KOR
 "Korea, Republic of",2019,7,KOR
-Kuwait,2010,0,KWT
-Kuwait,2011,0,KWT
-Kuwait,2012,0,KWT
-Kuwait,2013,0,KWT
-Kuwait,2014,0,KWT
-Kuwait,2015,0,KWT
-Kuwait,2016,0,KWT
-Kuwait,2017,0,KWT
-Kuwait,2018,0,KWT
-Kuwait,2019,0,KWT
-Kyrgyzstan,2010,0,KGZ
-Kyrgyzstan,2011,0,KGZ
-Kyrgyzstan,2012,0,KGZ
-Kyrgyzstan,2013,0,KGZ
-Kyrgyzstan,2014,0,KGZ
-Kyrgyzstan,2015,0,KGZ
-Kyrgyzstan,2016,0,KGZ
-Kyrgyzstan,2017,0,KGZ
-Kyrgyzstan,2018,0,KGZ
-Kyrgyzstan,2019,0,KGZ
-Lao People's Democratic Republic,2010,0,LAO
-Lao People's Democratic Republic,2011,0,LAO
-Lao People's Democratic Republic,2012,0,LAO
-Lao People's Democratic Republic,2013,0,LAO
-Lao People's Democratic Republic,2014,0,LAO
-Lao People's Democratic Republic,2015,0,LAO
-Lao People's Democratic Republic,2016,0,LAO
-Lao People's Democratic Republic,2017,0,LAO
-Lao People's Democratic Republic,2018,0,LAO
-Lao People's Democratic Republic,2019,0,LAO
-Latvia,2010,0,LVA
-Latvia,2011,0,LVA
-Latvia,2012,0,LVA
-Latvia,2013,0,LVA
-Latvia,2014,0,LVA
+Kuwait,2010,,KWT
+Kuwait,2011,,KWT
+Kuwait,2012,,KWT
+Kuwait,2013,,KWT
+Kuwait,2014,,KWT
+Kuwait,2015,,KWT
+Kuwait,2016,,KWT
+Kuwait,2017,,KWT
+Kuwait,2018,,KWT
+Kuwait,2019,,KWT
+Kyrgyzstan,2010,,KGZ
+Kyrgyzstan,2011,,KGZ
+Kyrgyzstan,2012,,KGZ
+Kyrgyzstan,2013,,KGZ
+Kyrgyzstan,2014,,KGZ
+Kyrgyzstan,2015,,KGZ
+Kyrgyzstan,2016,,KGZ
+Kyrgyzstan,2017,,KGZ
+Kyrgyzstan,2018,,KGZ
+Kyrgyzstan,2019,,KGZ
+Lao People's Democratic Republic,2010,,LAO
+Lao People's Democratic Republic,2011,,LAO
+Lao People's Democratic Republic,2012,,LAO
+Lao People's Democratic Republic,2013,,LAO
+Lao People's Democratic Republic,2014,,LAO
+Lao People's Democratic Republic,2015,,LAO
+Lao People's Democratic Republic,2016,,LAO
+Lao People's Democratic Republic,2017,,LAO
+Lao People's Democratic Republic,2018,,LAO
+Lao People's Democratic Republic,2019,,LAO
+Latvia,2010,,LVA
+Latvia,2011,,LVA
+Latvia,2012,,LVA
+Latvia,2013,,LVA
+Latvia,2014,,LVA
 Latvia,2015,1,LVA
 Latvia,2016,1,LVA
 Latvia,2017,1,LVA
-Latvia,2018,0,LVA
+Latvia,2018,,LVA
 Latvia,2019,1,LVA
-Lebanon,2010,0,LBN
-Lebanon,2011,0,LBN
-Lebanon,2012,0,LBN
+Lebanon,2010,,LBN
+Lebanon,2011,,LBN
+Lebanon,2012,,LBN
 Lebanon,2013,2,LBN
-Lebanon,2014,0,LBN
+Lebanon,2014,,LBN
 Lebanon,2015,2,LBN
 Lebanon,2016,1,LBN
 Lebanon,2017,1,LBN
 Lebanon,2018,3,LBN
-Lebanon,2019,0,LBN
-Lesotho,2010,0,LSO
-Lesotho,2011,0,LSO
-Lesotho,2012,0,LSO
-Lesotho,2013,0,LSO
-Lesotho,2014,0,LSO
-Lesotho,2015,0,LSO
-Lesotho,2016,0,LSO
-Lesotho,2017,0,LSO
-Lesotho,2018,0,LSO
-Lesotho,2019,0,LSO
-Liberia,2010,0,LBR
-Liberia,2011,0,LBR
-Liberia,2012,0,LBR
-Liberia,2013,0,LBR
-Liberia,2014,0,LBR
-Liberia,2015,0,LBR
-Liberia,2016,0,LBR
-Liberia,2017,0,LBR
-Liberia,2018,0,LBR
-Liberia,2019,0,LBR
-Libya,2010,0,LBY
-Libya,2011,0,LBY
-Libya,2012,0,LBY
-Libya,2013,0,LBY
-Libya,2014,0,LBY
-Libya,2015,0,LBY
-Libya,2016,0,LBY
-Libya,2017,0,LBY
-Libya,2018,0,LBY
-Libya,2019,0,LBY
-Liechtenstein,2010,0,LIE
-Liechtenstein,2011,0,LIE
-Liechtenstein,2012,0,LIE
-Liechtenstein,2013,0,LIE
-Liechtenstein,2014,0,LIE
-Liechtenstein,2015,0,LIE
-Liechtenstein,2016,0,LIE
-Liechtenstein,2017,0,LIE
-Liechtenstein,2018,0,LIE
-Liechtenstein,2019,0,LIE
-Lithuania,2010,0,LTU
-Lithuania,2011,0,LTU
-Lithuania,2012,0,LTU
-Lithuania,2013,0,LTU
-Lithuania,2014,0,LTU
+Lebanon,2019,,LBN
+Lesotho,2010,,LSO
+Lesotho,2011,,LSO
+Lesotho,2012,,LSO
+Lesotho,2013,,LSO
+Lesotho,2014,,LSO
+Lesotho,2015,,LSO
+Lesotho,2016,,LSO
+Lesotho,2017,,LSO
+Lesotho,2018,,LSO
+Lesotho,2019,,LSO
+Liberia,2010,,LBR
+Liberia,2011,,LBR
+Liberia,2012,,LBR
+Liberia,2013,,LBR
+Liberia,2014,,LBR
+Liberia,2015,,LBR
+Liberia,2016,,LBR
+Liberia,2017,,LBR
+Liberia,2018,,LBR
+Liberia,2019,,LBR
+Libya,2010,,LBY
+Libya,2011,,LBY
+Libya,2012,,LBY
+Libya,2013,,LBY
+Libya,2014,,LBY
+Libya,2015,,LBY
+Libya,2016,,LBY
+Libya,2017,,LBY
+Libya,2018,,LBY
+Libya,2019,,LBY
+Liechtenstein,2010,,LIE
+Liechtenstein,2011,,LIE
+Liechtenstein,2012,,LIE
+Liechtenstein,2013,,LIE
+Liechtenstein,2014,,LIE
+Liechtenstein,2015,,LIE
+Liechtenstein,2016,,LIE
+Liechtenstein,2017,,LIE
+Liechtenstein,2018,,LIE
+Liechtenstein,2019,,LIE
+Lithuania,2010,,LTU
+Lithuania,2011,,LTU
+Lithuania,2012,,LTU
+Lithuania,2013,,LTU
+Lithuania,2014,,LTU
 Lithuania,2015,2,LTU
 Lithuania,2016,1,LTU
 Lithuania,2017,2,LTU
 Lithuania,2018,2,LTU
-Lithuania,2019,0,LTU
-Luxembourg,2010,0,LUX
-Luxembourg,2011,0,LUX
-Luxembourg,2012,0,LUX
-Luxembourg,2013,0,LUX
-Luxembourg,2014,0,LUX
-Luxembourg,2015,0,LUX
+Lithuania,2019,,LTU
+Luxembourg,2010,,LUX
+Luxembourg,2011,,LUX
+Luxembourg,2012,,LUX
+Luxembourg,2013,,LUX
+Luxembourg,2014,,LUX
+Luxembourg,2015,,LUX
 Luxembourg,2016,1,LUX
 Luxembourg,2017,1,LUX
-Luxembourg,2018,0,LUX
-Luxembourg,2019,0,LUX
-Macao,2010,0,MAC
-Macao,2011,0,MAC
-Macao,2012,0,MAC
-Macao,2013,0,MAC
-Macao,2014,0,MAC
-Macao,2015,0,MAC
-Macao,2016,0,MAC
-Macao,2017,0,MAC
-Macao,2018,0,MAC
-Macao,2019,0,MAC
-Madagascar,2010,0,MDG
-Madagascar,2011,0,MDG
-Madagascar,2012,0,MDG
-Madagascar,2013,0,MDG
-Madagascar,2014,0,MDG
-Madagascar,2015,0,MDG
-Madagascar,2016,0,MDG
-Madagascar,2017,0,MDG
-Madagascar,2018,0,MDG
-Madagascar,2019,0,MDG
-Malawi,2010,0,MWI
-Malawi,2011,0,MWI
-Malawi,2012,0,MWI
-Malawi,2013,0,MWI
-Malawi,2014,0,MWI
-Malawi,2015,0,MWI
-Malawi,2016,0,MWI
-Malawi,2017,0,MWI
-Malawi,2018,0,MWI
-Malawi,2019,0,MWI
-Malaysia,2010,0,MYS
-Malaysia,2011,0,MYS
+Luxembourg,2018,,LUX
+Luxembourg,2019,,LUX
+Macao,2010,,MAC
+Macao,2011,,MAC
+Macao,2012,,MAC
+Macao,2013,,MAC
+Macao,2014,,MAC
+Macao,2015,,MAC
+Macao,2016,,MAC
+Macao,2017,,MAC
+Macao,2018,,MAC
+Macao,2019,,MAC
+Madagascar,2010,,MDG
+Madagascar,2011,,MDG
+Madagascar,2012,,MDG
+Madagascar,2013,,MDG
+Madagascar,2014,,MDG
+Madagascar,2015,,MDG
+Madagascar,2016,,MDG
+Madagascar,2017,,MDG
+Madagascar,2018,,MDG
+Madagascar,2019,,MDG
+Malawi,2010,,MWI
+Malawi,2011,,MWI
+Malawi,2012,,MWI
+Malawi,2013,,MWI
+Malawi,2014,,MWI
+Malawi,2015,,MWI
+Malawi,2016,,MWI
+Malawi,2017,,MWI
+Malawi,2018,,MWI
+Malawi,2019,,MWI
+Malaysia,2010,,MYS
+Malaysia,2011,,MYS
 Malaysia,2012,1,MYS
-Malaysia,2013,0,MYS
+Malaysia,2013,,MYS
 Malaysia,2014,1,MYS
-Malaysia,2015,0,MYS
+Malaysia,2015,,MYS
 Malaysia,2016,1,MYS
 Malaysia,2017,2,MYS
 Malaysia,2018,3,MYS
 Malaysia,2019,2,MYS
-Maldives,2010,0,MDV
-Maldives,2011,0,MDV
-Maldives,2012,0,MDV
-Maldives,2013,0,MDV
-Maldives,2014,0,MDV
-Maldives,2015,0,MDV
-Maldives,2016,0,MDV
-Maldives,2017,0,MDV
-Maldives,2018,0,MDV
-Maldives,2019,0,MDV
-Mali,2010,0,MLI
-Mali,2011,0,MLI
-Mali,2012,0,MLI
-Mali,2013,0,MLI
-Mali,2014,0,MLI
-Mali,2015,0,MLI
-Mali,2016,0,MLI
-Mali,2017,0,MLI
-Mali,2018,0,MLI
-Mali,2019,0,MLI
-Malta,2010,0,MLT
-Malta,2011,0,MLT
-Malta,2012,0,MLT
-Malta,2013,0,MLT
-Malta,2014,0,MLT
-Malta,2015,0,MLT
-Malta,2016,0,MLT
-Malta,2017,0,MLT
-Malta,2018,0,MLT
-Malta,2019,0,MLT
-Marshall Islands,2010,0,MHL
-Marshall Islands,2011,0,MHL
-Marshall Islands,2012,0,MHL
-Marshall Islands,2013,0,MHL
-Marshall Islands,2014,0,MHL
-Marshall Islands,2015,0,MHL
-Marshall Islands,2016,0,MHL
-Marshall Islands,2017,0,MHL
-Marshall Islands,2018,0,MHL
-Marshall Islands,2019,0,MHL
-Martinique,2010,0,MTQ
-Martinique,2011,0,MTQ
-Martinique,2012,0,MTQ
-Martinique,2013,0,MTQ
-Martinique,2014,0,MTQ
-Martinique,2015,0,MTQ
-Martinique,2016,0,MTQ
-Martinique,2017,0,MTQ
-Martinique,2018,0,MTQ
-Martinique,2019,0,MTQ
-Mauritania,2010,0,MRT
-Mauritania,2011,0,MRT
-Mauritania,2012,0,MRT
-Mauritania,2013,0,MRT
-Mauritania,2014,0,MRT
-Mauritania,2015,0,MRT
-Mauritania,2016,0,MRT
-Mauritania,2017,0,MRT
-Mauritania,2018,0,MRT
-Mauritania,2019,0,MRT
-Mauritius,2010,0,MUS
-Mauritius,2011,0,MUS
-Mauritius,2012,0,MUS
-Mauritius,2013,0,MUS
-Mauritius,2014,0,MUS
-Mauritius,2015,0,MUS
-Mauritius,2016,0,MUS
-Mauritius,2017,0,MUS
-Mauritius,2018,0,MUS
-Mauritius,2019,0,MUS
-Mayotte,2010,0,MYT
-Mayotte,2011,0,MYT
-Mayotte,2012,0,MYT
-Mayotte,2013,0,MYT
-Mayotte,2014,0,MYT
-Mayotte,2015,0,MYT
-Mayotte,2016,0,MYT
-Mayotte,2017,0,MYT
-Mayotte,2018,0,MYT
-Mayotte,2019,0,MYT
+Maldives,2010,,MDV
+Maldives,2011,,MDV
+Maldives,2012,,MDV
+Maldives,2013,,MDV
+Maldives,2014,,MDV
+Maldives,2015,,MDV
+Maldives,2016,,MDV
+Maldives,2017,,MDV
+Maldives,2018,,MDV
+Maldives,2019,,MDV
+Mali,2010,,MLI
+Mali,2011,,MLI
+Mali,2012,,MLI
+Mali,2013,,MLI
+Mali,2014,,MLI
+Mali,2015,,MLI
+Mali,2016,,MLI
+Mali,2017,,MLI
+Mali,2018,,MLI
+Mali,2019,,MLI
+Malta,2010,,MLT
+Malta,2011,,MLT
+Malta,2012,,MLT
+Malta,2013,,MLT
+Malta,2014,,MLT
+Malta,2015,,MLT
+Malta,2016,,MLT
+Malta,2017,,MLT
+Malta,2018,,MLT
+Malta,2019,,MLT
+Marshall Islands,2010,,MHL
+Marshall Islands,2011,,MHL
+Marshall Islands,2012,,MHL
+Marshall Islands,2013,,MHL
+Marshall Islands,2014,,MHL
+Marshall Islands,2015,,MHL
+Marshall Islands,2016,,MHL
+Marshall Islands,2017,,MHL
+Marshall Islands,2018,,MHL
+Marshall Islands,2019,,MHL
+Martinique,2010,,MTQ
+Martinique,2011,,MTQ
+Martinique,2012,,MTQ
+Martinique,2013,,MTQ
+Martinique,2014,,MTQ
+Martinique,2015,,MTQ
+Martinique,2016,,MTQ
+Martinique,2017,,MTQ
+Martinique,2018,,MTQ
+Martinique,2019,,MTQ
+Mauritania,2010,,MRT
+Mauritania,2011,,MRT
+Mauritania,2012,,MRT
+Mauritania,2013,,MRT
+Mauritania,2014,,MRT
+Mauritania,2015,,MRT
+Mauritania,2016,,MRT
+Mauritania,2017,,MRT
+Mauritania,2018,,MRT
+Mauritania,2019,,MRT
+Mauritius,2010,,MUS
+Mauritius,2011,,MUS
+Mauritius,2012,,MUS
+Mauritius,2013,,MUS
+Mauritius,2014,,MUS
+Mauritius,2015,,MUS
+Mauritius,2016,,MUS
+Mauritius,2017,,MUS
+Mauritius,2018,,MUS
+Mauritius,2019,,MUS
+Mayotte,2010,,MYT
+Mayotte,2011,,MYT
+Mayotte,2012,,MYT
+Mayotte,2013,,MYT
+Mayotte,2014,,MYT
+Mayotte,2015,,MYT
+Mayotte,2016,,MYT
+Mayotte,2017,,MYT
+Mayotte,2018,,MYT
+Mayotte,2019,,MYT
 Mexico,2010,1,MEX
-Mexico,2011,0,MEX
+Mexico,2011,,MEX
 Mexico,2012,2,MEX
 Mexico,2013,2,MEX
 Mexico,2014,4,MEX
 Mexico,2015,3,MEX
-Mexico,2016,0,MEX
+Mexico,2016,,MEX
 Mexico,2017,7,MEX
 Mexico,2018,4,MEX
 Mexico,2019,3,MEX
-"Micronesia, Federated States of",2010,0,FSM
-"Micronesia, Federated States of",2011,0,FSM
-"Micronesia, Federated States of",2012,0,FSM
-"Micronesia, Federated States of",2013,0,FSM
-"Micronesia, Federated States of",2014,0,FSM
-"Micronesia, Federated States of",2015,0,FSM
-"Micronesia, Federated States of",2016,0,FSM
-"Micronesia, Federated States of",2017,0,FSM
-"Micronesia, Federated States of",2018,0,FSM
-"Micronesia, Federated States of",2019,0,FSM
-"Moldova, Republic of",2010,0,MDA
-"Moldova, Republic of",2011,0,MDA
-"Moldova, Republic of",2012,0,MDA
-"Moldova, Republic of",2013,0,MDA
-"Moldova, Republic of",2014,0,MDA
-"Moldova, Republic of",2015,0,MDA
-"Moldova, Republic of",2016,0,MDA
-"Moldova, Republic of",2017,0,MDA
-"Moldova, Republic of",2018,0,MDA
-"Moldova, Republic of",2019,0,MDA
-Monaco,2010,0,MCO
-Monaco,2011,0,MCO
-Monaco,2012,0,MCO
-Monaco,2013,0,MCO
-Monaco,2014,0,MCO
-Monaco,2015,0,MCO
-Monaco,2016,0,MCO
-Monaco,2017,0,MCO
-Monaco,2018,0,MCO
-Monaco,2019,0,MCO
-Mongolia,2010,0,MNG
-Mongolia,2011,0,MNG
-Mongolia,2012,0,MNG
-Mongolia,2013,0,MNG
-Mongolia,2014,0,MNG
-Mongolia,2015,0,MNG
-Mongolia,2016,0,MNG
-Mongolia,2017,0,MNG
-Mongolia,2018,0,MNG
-Mongolia,2019,0,MNG
-Montenegro,2010,0,MNE
-Montenegro,2011,0,MNE
-Montenegro,2012,0,MNE
-Montenegro,2013,0,MNE
-Montenegro,2014,0,MNE
-Montenegro,2015,0,MNE
-Montenegro,2016,0,MNE
-Montenegro,2017,0,MNE
-Montenegro,2018,0,MNE
-Montenegro,2019,0,MNE
-Montserrat,2010,0,MSR
-Montserrat,2011,0,MSR
-Montserrat,2012,0,MSR
-Montserrat,2013,0,MSR
-Montserrat,2014,0,MSR
-Montserrat,2015,0,MSR
-Montserrat,2016,0,MSR
-Montserrat,2017,0,MSR
-Montserrat,2018,0,MSR
-Montserrat,2019,0,MSR
-Morocco,2010,0,MAR
-Morocco,2011,0,MAR
-Morocco,2012,0,MAR
-Morocco,2013,0,MAR
-Morocco,2014,0,MAR
-Morocco,2015,0,MAR
-Morocco,2016,0,MAR
-Morocco,2017,0,MAR
-Morocco,2018,0,MAR
-Morocco,2019,0,MAR
-Mozambique,2010,0,MOZ
-Mozambique,2011,0,MOZ
-Mozambique,2012,0,MOZ
-Mozambique,2013,0,MOZ
-Mozambique,2014,0,MOZ
-Mozambique,2015,0,MOZ
-Mozambique,2016,0,MOZ
-Mozambique,2017,0,MOZ
-Mozambique,2018,0,MOZ
-Mozambique,2019,0,MOZ
-Myanmar,2010,0,MMR
-Myanmar,2011,0,MMR
-Myanmar,2012,0,MMR
-Myanmar,2013,0,MMR
-Myanmar,2014,0,MMR
-Myanmar,2015,0,MMR
-Myanmar,2016,0,MMR
-Myanmar,2017,0,MMR
-Myanmar,2018,0,MMR
-Myanmar,2019,0,MMR
-Namibia,2010,0,NAM
-Namibia,2011,0,NAM
-Namibia,2012,0,NAM
-Namibia,2013,0,NAM
-Namibia,2014,0,NAM
-Namibia,2015,0,NAM
-Namibia,2016,0,NAM
-Namibia,2017,0,NAM
-Namibia,2018,0,NAM
-Namibia,2019,0,NAM
-Nauru,2010,0,NRU
-Nauru,2011,0,NRU
-Nauru,2012,0,NRU
-Nauru,2013,0,NRU
-Nauru,2014,0,NRU
-Nauru,2015,0,NRU
-Nauru,2016,0,NRU
-Nauru,2017,0,NRU
-Nauru,2018,0,NRU
-Nauru,2019,0,NRU
-Nepal,2010,0,NPL
-Nepal,2011,0,NPL
-Nepal,2012,0,NPL
-Nepal,2013,0,NPL
-Nepal,2014,0,NPL
-Nepal,2015,0,NPL
-Nepal,2016,0,NPL
-Nepal,2017,0,NPL
-Nepal,2018,0,NPL
-Nepal,2019,0,NPL
-Netherlands,2010,0,NLD
-Netherlands,2011,0,NLD
+"Micronesia, Federated States of",2010,,FSM
+"Micronesia, Federated States of",2011,,FSM
+"Micronesia, Federated States of",2012,,FSM
+"Micronesia, Federated States of",2013,,FSM
+"Micronesia, Federated States of",2014,,FSM
+"Micronesia, Federated States of",2015,,FSM
+"Micronesia, Federated States of",2016,,FSM
+"Micronesia, Federated States of",2017,,FSM
+"Micronesia, Federated States of",2018,,FSM
+"Micronesia, Federated States of",2019,,FSM
+"Moldova, Republic of",2010,,MDA
+"Moldova, Republic of",2011,,MDA
+"Moldova, Republic of",2012,,MDA
+"Moldova, Republic of",2013,,MDA
+"Moldova, Republic of",2014,,MDA
+"Moldova, Republic of",2015,,MDA
+"Moldova, Republic of",2016,,MDA
+"Moldova, Republic of",2017,,MDA
+"Moldova, Republic of",2018,,MDA
+"Moldova, Republic of",2019,,MDA
+Monaco,2010,,MCO
+Monaco,2011,,MCO
+Monaco,2012,,MCO
+Monaco,2013,,MCO
+Monaco,2014,,MCO
+Monaco,2015,,MCO
+Monaco,2016,,MCO
+Monaco,2017,,MCO
+Monaco,2018,,MCO
+Monaco,2019,,MCO
+Mongolia,2010,,MNG
+Mongolia,2011,,MNG
+Mongolia,2012,,MNG
+Mongolia,2013,,MNG
+Mongolia,2014,,MNG
+Mongolia,2015,,MNG
+Mongolia,2016,,MNG
+Mongolia,2017,,MNG
+Mongolia,2018,,MNG
+Mongolia,2019,,MNG
+Montenegro,2010,,MNE
+Montenegro,2011,,MNE
+Montenegro,2012,,MNE
+Montenegro,2013,,MNE
+Montenegro,2014,,MNE
+Montenegro,2015,,MNE
+Montenegro,2016,,MNE
+Montenegro,2017,,MNE
+Montenegro,2018,,MNE
+Montenegro,2019,,MNE
+Montserrat,2010,,MSR
+Montserrat,2011,,MSR
+Montserrat,2012,,MSR
+Montserrat,2013,,MSR
+Montserrat,2014,,MSR
+Montserrat,2015,,MSR
+Montserrat,2016,,MSR
+Montserrat,2017,,MSR
+Montserrat,2018,,MSR
+Montserrat,2019,,MSR
+Morocco,2010,,MAR
+Morocco,2011,,MAR
+Morocco,2012,,MAR
+Morocco,2013,,MAR
+Morocco,2014,,MAR
+Morocco,2015,,MAR
+Morocco,2016,,MAR
+Morocco,2017,,MAR
+Morocco,2018,,MAR
+Morocco,2019,,MAR
+Mozambique,2010,,MOZ
+Mozambique,2011,,MOZ
+Mozambique,2012,,MOZ
+Mozambique,2013,,MOZ
+Mozambique,2014,,MOZ
+Mozambique,2015,,MOZ
+Mozambique,2016,,MOZ
+Mozambique,2017,,MOZ
+Mozambique,2018,,MOZ
+Mozambique,2019,,MOZ
+Myanmar,2010,,MMR
+Myanmar,2011,,MMR
+Myanmar,2012,,MMR
+Myanmar,2013,,MMR
+Myanmar,2014,,MMR
+Myanmar,2015,,MMR
+Myanmar,2016,,MMR
+Myanmar,2017,,MMR
+Myanmar,2018,,MMR
+Myanmar,2019,,MMR
+Namibia,2010,,NAM
+Namibia,2011,,NAM
+Namibia,2012,,NAM
+Namibia,2013,,NAM
+Namibia,2014,,NAM
+Namibia,2015,,NAM
+Namibia,2016,,NAM
+Namibia,2017,,NAM
+Namibia,2018,,NAM
+Namibia,2019,,NAM
+Nauru,2010,,NRU
+Nauru,2011,,NRU
+Nauru,2012,,NRU
+Nauru,2013,,NRU
+Nauru,2014,,NRU
+Nauru,2015,,NRU
+Nauru,2016,,NRU
+Nauru,2017,,NRU
+Nauru,2018,,NRU
+Nauru,2019,,NRU
+Nepal,2010,,NPL
+Nepal,2011,,NPL
+Nepal,2012,,NPL
+Nepal,2013,,NPL
+Nepal,2014,,NPL
+Nepal,2015,,NPL
+Nepal,2016,,NPL
+Nepal,2017,,NPL
+Nepal,2018,,NPL
+Nepal,2019,,NPL
+Netherlands,2010,,NLD
+Netherlands,2011,,NLD
 Netherlands,2012,1,NLD
 Netherlands,2013,4,NLD
 Netherlands,2014,4,NLD
@@ -1559,178 +1559,178 @@ Netherlands,2016,5,NLD
 Netherlands,2017,2,NLD
 Netherlands,2018,2,NLD
 Netherlands,2019,2,NLD
-New Caledonia,2010,0,NCL
-New Caledonia,2011,0,NCL
-New Caledonia,2012,0,NCL
-New Caledonia,2013,0,NCL
-New Caledonia,2014,0,NCL
-New Caledonia,2015,0,NCL
-New Caledonia,2016,0,NCL
-New Caledonia,2017,0,NCL
-New Caledonia,2018,0,NCL
-New Caledonia,2019,0,NCL
-New Zealand,2010,0,NZL
-New Zealand,2011,0,NZL
+New Caledonia,2010,,NCL
+New Caledonia,2011,,NCL
+New Caledonia,2012,,NCL
+New Caledonia,2013,,NCL
+New Caledonia,2014,,NCL
+New Caledonia,2015,,NCL
+New Caledonia,2016,,NCL
+New Caledonia,2017,,NCL
+New Caledonia,2018,,NCL
+New Caledonia,2019,,NCL
+New Zealand,2010,,NZL
+New Zealand,2011,,NZL
 New Zealand,2012,1,NZL
-New Zealand,2013,0,NZL
+New Zealand,2013,,NZL
 New Zealand,2014,3,NZL
 New Zealand,2015,2,NZL
-New Zealand,2016,0,NZL
+New Zealand,2016,,NZL
 New Zealand,2017,3,NZL
-New Zealand,2018,0,NZL
+New Zealand,2018,,NZL
 New Zealand,2019,2,NZL
-Nicaragua,2010,0,NIC
-Nicaragua,2011,0,NIC
-Nicaragua,2012,0,NIC
-Nicaragua,2013,0,NIC
-Nicaragua,2014,0,NIC
-Nicaragua,2015,0,NIC
-Nicaragua,2016,0,NIC
-Nicaragua,2017,0,NIC
-Nicaragua,2018,0,NIC
-Nicaragua,2019,0,NIC
-Niger,2010,0,NER
-Niger,2011,0,NER
-Niger,2012,0,NER
-Niger,2013,0,NER
-Niger,2014,0,NER
-Niger,2015,0,NER
-Niger,2016,0,NER
-Niger,2017,0,NER
-Niger,2018,0,NER
-Niger,2019,0,NER
-Nigeria,2010,0,NGA
-Nigeria,2011,0,NGA
-Nigeria,2012,0,NGA
-Nigeria,2013,0,NGA
-Nigeria,2014,0,NGA
-Nigeria,2015,0,NGA
-Nigeria,2016,0,NGA
-Nigeria,2017,0,NGA
-Nigeria,2018,0,NGA
-Nigeria,2019,0,NGA
-Niue,2010,0,NIU
-Niue,2011,0,NIU
-Niue,2012,0,NIU
-Niue,2013,0,NIU
-Niue,2014,0,NIU
-Niue,2015,0,NIU
-Niue,2016,0,NIU
-Niue,2017,0,NIU
-Niue,2018,0,NIU
-Niue,2019,0,NIU
-Norfolk Island,2010,0,NFK
-Norfolk Island,2011,0,NFK
-Norfolk Island,2012,0,NFK
-Norfolk Island,2013,0,NFK
-Norfolk Island,2014,0,NFK
-Norfolk Island,2015,0,NFK
-Norfolk Island,2016,0,NFK
-Norfolk Island,2017,0,NFK
-Norfolk Island,2018,0,NFK
-Norfolk Island,2019,0,NFK
-North Macedonia,2010,0,MKD
-North Macedonia,2011,0,MKD
-North Macedonia,2012,0,MKD
-North Macedonia,2013,0,MKD
-North Macedonia,2014,0,MKD
-North Macedonia,2015,0,MKD
-North Macedonia,2016,0,MKD
-North Macedonia,2017,0,MKD
-North Macedonia,2018,0,MKD
-North Macedonia,2019,0,MKD
-Northern Mariana Islands,2010,0,MNP
-Northern Mariana Islands,2011,0,MNP
-Northern Mariana Islands,2012,0,MNP
-Northern Mariana Islands,2013,0,MNP
-Northern Mariana Islands,2014,0,MNP
-Northern Mariana Islands,2015,0,MNP
-Northern Mariana Islands,2016,0,MNP
-Northern Mariana Islands,2017,0,MNP
-Northern Mariana Islands,2018,0,MNP
-Northern Mariana Islands,2019,0,MNP
-Norway,2010,0,NOR
-Norway,2011,0,NOR
+Nicaragua,2010,,NIC
+Nicaragua,2011,,NIC
+Nicaragua,2012,,NIC
+Nicaragua,2013,,NIC
+Nicaragua,2014,,NIC
+Nicaragua,2015,,NIC
+Nicaragua,2016,,NIC
+Nicaragua,2017,,NIC
+Nicaragua,2018,,NIC
+Nicaragua,2019,,NIC
+Niger,2010,,NER
+Niger,2011,,NER
+Niger,2012,,NER
+Niger,2013,,NER
+Niger,2014,,NER
+Niger,2015,,NER
+Niger,2016,,NER
+Niger,2017,,NER
+Niger,2018,,NER
+Niger,2019,,NER
+Nigeria,2010,,NGA
+Nigeria,2011,,NGA
+Nigeria,2012,,NGA
+Nigeria,2013,,NGA
+Nigeria,2014,,NGA
+Nigeria,2015,,NGA
+Nigeria,2016,,NGA
+Nigeria,2017,,NGA
+Nigeria,2018,,NGA
+Nigeria,2019,,NGA
+Niue,2010,,NIU
+Niue,2011,,NIU
+Niue,2012,,NIU
+Niue,2013,,NIU
+Niue,2014,,NIU
+Niue,2015,,NIU
+Niue,2016,,NIU
+Niue,2017,,NIU
+Niue,2018,,NIU
+Niue,2019,,NIU
+Norfolk Island,2010,,NFK
+Norfolk Island,2011,,NFK
+Norfolk Island,2012,,NFK
+Norfolk Island,2013,,NFK
+Norfolk Island,2014,,NFK
+Norfolk Island,2015,,NFK
+Norfolk Island,2016,,NFK
+Norfolk Island,2017,,NFK
+Norfolk Island,2018,,NFK
+Norfolk Island,2019,,NFK
+North Macedonia,2010,,MKD
+North Macedonia,2011,,MKD
+North Macedonia,2012,,MKD
+North Macedonia,2013,,MKD
+North Macedonia,2014,,MKD
+North Macedonia,2015,,MKD
+North Macedonia,2016,,MKD
+North Macedonia,2017,,MKD
+North Macedonia,2018,,MKD
+North Macedonia,2019,,MKD
+Northern Mariana Islands,2010,,MNP
+Northern Mariana Islands,2011,,MNP
+Northern Mariana Islands,2012,,MNP
+Northern Mariana Islands,2013,,MNP
+Northern Mariana Islands,2014,,MNP
+Northern Mariana Islands,2015,,MNP
+Northern Mariana Islands,2016,,MNP
+Northern Mariana Islands,2017,,MNP
+Northern Mariana Islands,2018,,MNP
+Northern Mariana Islands,2019,,MNP
+Norway,2010,,NOR
+Norway,2011,,NOR
 Norway,2012,1,NOR
 Norway,2013,1,NOR
-Norway,2014,0,NOR
+Norway,2014,,NOR
 Norway,2015,1,NOR
 Norway,2016,1,NOR
-Norway,2017,0,NOR
+Norway,2017,,NOR
 Norway,2018,2,NOR
 Norway,2019,1,NOR
-Oman,2010,0,OMN
-Oman,2011,0,OMN
-Oman,2012,0,OMN
-Oman,2013,0,OMN
-Oman,2014,0,OMN
-Oman,2015,0,OMN
-Oman,2016,0,OMN
-Oman,2017,0,OMN
-Oman,2018,0,OMN
-Oman,2019,0,OMN
-Pakistan,2010,0,PAK
-Pakistan,2011,0,PAK
-Pakistan,2012,0,PAK
-Pakistan,2013,0,PAK
-Pakistan,2014,0,PAK
-Pakistan,2015,0,PAK
-Pakistan,2016,0,PAK
-Pakistan,2017,0,PAK
-Pakistan,2018,0,PAK
-Pakistan,2019,0,PAK
-Palau,2010,0,PLW
-Palau,2011,0,PLW
-Palau,2012,0,PLW
-Palau,2013,0,PLW
-Palau,2014,0,PLW
-Palau,2015,0,PLW
-Palau,2016,0,PLW
-Palau,2017,0,PLW
-Palau,2018,0,PLW
-Palau,2019,0,PLW
-"Palestine, State of",2010,0,PSE
-"Palestine, State of",2011,0,PSE
-"Palestine, State of",2012,0,PSE
-"Palestine, State of",2013,0,PSE
-"Palestine, State of",2014,0,PSE
-"Palestine, State of",2015,0,PSE
-"Palestine, State of",2016,0,PSE
-"Palestine, State of",2017,0,PSE
-"Palestine, State of",2018,0,PSE
-"Palestine, State of",2019,0,PSE
-Panama,2010,0,PAN
-Panama,2011,0,PAN
-Panama,2012,0,PAN
-Panama,2013,0,PAN
-Panama,2014,0,PAN
-Panama,2015,0,PAN
-Panama,2016,0,PAN
+Oman,2010,,OMN
+Oman,2011,,OMN
+Oman,2012,,OMN
+Oman,2013,,OMN
+Oman,2014,,OMN
+Oman,2015,,OMN
+Oman,2016,,OMN
+Oman,2017,,OMN
+Oman,2018,,OMN
+Oman,2019,,OMN
+Pakistan,2010,,PAK
+Pakistan,2011,,PAK
+Pakistan,2012,,PAK
+Pakistan,2013,,PAK
+Pakistan,2014,,PAK
+Pakistan,2015,,PAK
+Pakistan,2016,,PAK
+Pakistan,2017,,PAK
+Pakistan,2018,,PAK
+Pakistan,2019,,PAK
+Palau,2010,,PLW
+Palau,2011,,PLW
+Palau,2012,,PLW
+Palau,2013,,PLW
+Palau,2014,,PLW
+Palau,2015,,PLW
+Palau,2016,,PLW
+Palau,2017,,PLW
+Palau,2018,,PLW
+Palau,2019,,PLW
+"Palestine, State of",2010,,PSE
+"Palestine, State of",2011,,PSE
+"Palestine, State of",2012,,PSE
+"Palestine, State of",2013,,PSE
+"Palestine, State of",2014,,PSE
+"Palestine, State of",2015,,PSE
+"Palestine, State of",2016,,PSE
+"Palestine, State of",2017,,PSE
+"Palestine, State of",2018,,PSE
+"Palestine, State of",2019,,PSE
+Panama,2010,,PAN
+Panama,2011,,PAN
+Panama,2012,,PAN
+Panama,2013,,PAN
+Panama,2014,,PAN
+Panama,2015,,PAN
+Panama,2016,,PAN
 Panama,2017,1,PAN
 Panama,2018,1,PAN
-Panama,2019,0,PAN
-Papua New Guinea,2010,0,PNG
-Papua New Guinea,2011,0,PNG
-Papua New Guinea,2012,0,PNG
-Papua New Guinea,2013,0,PNG
-Papua New Guinea,2014,0,PNG
-Papua New Guinea,2015,0,PNG
-Papua New Guinea,2016,0,PNG
-Papua New Guinea,2017,0,PNG
-Papua New Guinea,2018,0,PNG
-Papua New Guinea,2019,0,PNG
-Paraguay,2010,0,PRY
-Paraguay,2011,0,PRY
-Paraguay,2012,0,PRY
-Paraguay,2013,0,PRY
-Paraguay,2014,0,PRY
-Paraguay,2015,0,PRY
-Paraguay,2016,0,PRY
-Paraguay,2017,0,PRY
-Paraguay,2018,0,PRY
-Paraguay,2019,0,PRY
-Peru,2010,0,PER
-Peru,2011,0,PER
+Panama,2019,,PAN
+Papua New Guinea,2010,,PNG
+Papua New Guinea,2011,,PNG
+Papua New Guinea,2012,,PNG
+Papua New Guinea,2013,,PNG
+Papua New Guinea,2014,,PNG
+Papua New Guinea,2015,,PNG
+Papua New Guinea,2016,,PNG
+Papua New Guinea,2017,,PNG
+Papua New Guinea,2018,,PNG
+Papua New Guinea,2019,,PNG
+Paraguay,2010,,PRY
+Paraguay,2011,,PRY
+Paraguay,2012,,PRY
+Paraguay,2013,,PRY
+Paraguay,2014,,PRY
+Paraguay,2015,,PRY
+Paraguay,2016,,PRY
+Paraguay,2017,,PRY
+Paraguay,2018,,PRY
+Paraguay,2019,,PRY
+Peru,2010,,PER
+Peru,2011,,PER
 Peru,2012,2,PER
 Peru,2013,1,PER
 Peru,2014,1,PER
@@ -1738,29 +1738,29 @@ Peru,2015,4,PER
 Peru,2016,2,PER
 Peru,2017,2,PER
 Peru,2018,3,PER
-Peru,2019,0,PER
+Peru,2019,,PER
 Philippines,2010,2,PHL
-Philippines,2011,0,PHL
-Philippines,2012,0,PHL
-Philippines,2013,0,PHL
+Philippines,2011,,PHL
+Philippines,2012,,PHL
+Philippines,2013,,PHL
 Philippines,2014,1,PHL
-Philippines,2015,0,PHL
-Philippines,2016,0,PHL
+Philippines,2015,,PHL
+Philippines,2016,,PHL
 Philippines,2017,2,PHL
 Philippines,2018,5,PHL
 Philippines,2019,1,PHL
-Pitcairn,2010,0,PCN
-Pitcairn,2011,0,PCN
-Pitcairn,2012,0,PCN
-Pitcairn,2013,0,PCN
-Pitcairn,2014,0,PCN
-Pitcairn,2015,0,PCN
-Pitcairn,2016,0,PCN
-Pitcairn,2017,0,PCN
-Pitcairn,2018,0,PCN
-Pitcairn,2019,0,PCN
+Pitcairn,2010,,PCN
+Pitcairn,2011,,PCN
+Pitcairn,2012,,PCN
+Pitcairn,2013,,PCN
+Pitcairn,2014,,PCN
+Pitcairn,2015,,PCN
+Pitcairn,2016,,PCN
+Pitcairn,2017,,PCN
+Pitcairn,2018,,PCN
+Pitcairn,2019,,PCN
 Poland,2010,1,POL
-Poland,2011,0,POL
+Poland,2011,,POL
 Poland,2012,4,POL
 Poland,2013,3,POL
 Poland,2014,6,POL
@@ -1770,37 +1770,37 @@ Poland,2017,9,POL
 Poland,2018,7,POL
 Poland,2019,6,POL
 Portugal,2010,1,PRT
-Portugal,2011,0,PRT
-Portugal,2012,0,PRT
+Portugal,2011,,PRT
+Portugal,2012,,PRT
 Portugal,2013,3,PRT
 Portugal,2014,2,PRT
 Portugal,2015,3,PRT
 Portugal,2016,2,PRT
 Portugal,2017,2,PRT
 Portugal,2018,2,PRT
-Portugal,2019,0,PRT
-Puerto Rico,2010,0,PRI
-Puerto Rico,2011,0,PRI
-Puerto Rico,2012,0,PRI
-Puerto Rico,2013,0,PRI
+Portugal,2019,,PRT
+Puerto Rico,2010,,PRI
+Puerto Rico,2011,,PRI
+Puerto Rico,2012,,PRI
+Puerto Rico,2013,,PRI
 Puerto Rico,2014,1,PRI
-Puerto Rico,2015,0,PRI
-Puerto Rico,2016,0,PRI
-Puerto Rico,2017,0,PRI
-Puerto Rico,2018,0,PRI
+Puerto Rico,2015,,PRI
+Puerto Rico,2016,,PRI
+Puerto Rico,2017,,PRI
+Puerto Rico,2018,,PRI
 Puerto Rico,2019,1,PRI
-Qatar,2010,0,QAT
-Qatar,2011,0,QAT
-Qatar,2012,0,QAT
-Qatar,2013,0,QAT
-Qatar,2014,0,QAT
-Qatar,2015,0,QAT
-Qatar,2016,0,QAT
-Qatar,2017,0,QAT
-Qatar,2018,0,QAT
-Qatar,2019,0,QAT
+Qatar,2010,,QAT
+Qatar,2011,,QAT
+Qatar,2012,,QAT
+Qatar,2013,,QAT
+Qatar,2014,,QAT
+Qatar,2015,,QAT
+Qatar,2016,,QAT
+Qatar,2017,,QAT
+Qatar,2018,,QAT
+Qatar,2019,,QAT
 Romania,2010,1,ROU
-Romania,2011,0,ROU
+Romania,2011,,ROU
 Romania,2012,2,ROU
 Romania,2013,1,ROU
 Romania,2014,4,ROU
@@ -1810,7 +1810,7 @@ Romania,2017,6,ROU
 Romania,2018,4,ROU
 Romania,2019,2,ROU
 Russian Federation,2010,1,RUS
-Russian Federation,2011,0,RUS
+Russian Federation,2011,,RUS
 Russian Federation,2012,4,RUS
 Russian Federation,2013,3,RUS
 Russian Federation,2014,4,RUS
@@ -1819,178 +1819,178 @@ Russian Federation,2016,2,RUS
 Russian Federation,2017,9,RUS
 Russian Federation,2018,11,RUS
 Russian Federation,2019,8,RUS
-Rwanda,2010,0,RWA
-Rwanda,2011,0,RWA
-Rwanda,2012,0,RWA
-Rwanda,2013,0,RWA
-Rwanda,2014,0,RWA
-Rwanda,2015,0,RWA
-Rwanda,2016,0,RWA
-Rwanda,2017,0,RWA
-Rwanda,2018,0,RWA
-Rwanda,2019,0,RWA
-Réunion,2010,0,REU
-Réunion,2011,0,REU
-Réunion,2012,0,REU
-Réunion,2013,0,REU
-Réunion,2014,0,REU
-Réunion,2015,0,REU
-Réunion,2016,0,REU
-Réunion,2017,0,REU
-Réunion,2018,0,REU
-Réunion,2019,0,REU
-Saint Barthélemy,2010,0,BLM
-Saint Barthélemy,2011,0,BLM
-Saint Barthélemy,2012,0,BLM
-Saint Barthélemy,2013,0,BLM
-Saint Barthélemy,2014,0,BLM
-Saint Barthélemy,2015,0,BLM
-Saint Barthélemy,2016,0,BLM
-Saint Barthélemy,2017,0,BLM
-Saint Barthélemy,2018,0,BLM
-Saint Barthélemy,2019,0,BLM
-"Saint Helena, Ascension and Tristan da Cunha",2010,0,SHN
-"Saint Helena, Ascension and Tristan da Cunha",2011,0,SHN
-"Saint Helena, Ascension and Tristan da Cunha",2012,0,SHN
-"Saint Helena, Ascension and Tristan da Cunha",2013,0,SHN
-"Saint Helena, Ascension and Tristan da Cunha",2014,0,SHN
-"Saint Helena, Ascension and Tristan da Cunha",2015,0,SHN
-"Saint Helena, Ascension and Tristan da Cunha",2016,0,SHN
-"Saint Helena, Ascension and Tristan da Cunha",2017,0,SHN
-"Saint Helena, Ascension and Tristan da Cunha",2018,0,SHN
-"Saint Helena, Ascension and Tristan da Cunha",2019,0,SHN
-Saint Kitts and Nevis,2010,0,KNA
-Saint Kitts and Nevis,2011,0,KNA
-Saint Kitts and Nevis,2012,0,KNA
-Saint Kitts and Nevis,2013,0,KNA
-Saint Kitts and Nevis,2014,0,KNA
-Saint Kitts and Nevis,2015,0,KNA
-Saint Kitts and Nevis,2016,0,KNA
-Saint Kitts and Nevis,2017,0,KNA
-Saint Kitts and Nevis,2018,0,KNA
-Saint Kitts and Nevis,2019,0,KNA
-Saint Lucia,2010,0,LCA
-Saint Lucia,2011,0,LCA
-Saint Lucia,2012,0,LCA
-Saint Lucia,2013,0,LCA
-Saint Lucia,2014,0,LCA
-Saint Lucia,2015,0,LCA
-Saint Lucia,2016,0,LCA
-Saint Lucia,2017,0,LCA
-Saint Lucia,2018,0,LCA
-Saint Lucia,2019,0,LCA
-Saint Martin (French part),2010,0,MAF
-Saint Martin (French part),2011,0,MAF
-Saint Martin (French part),2012,0,MAF
-Saint Martin (French part),2013,0,MAF
-Saint Martin (French part),2014,0,MAF
-Saint Martin (French part),2015,0,MAF
-Saint Martin (French part),2016,0,MAF
-Saint Martin (French part),2017,0,MAF
-Saint Martin (French part),2018,0,MAF
-Saint Martin (French part),2019,0,MAF
-Saint Pierre and Miquelon,2010,0,SPM
-Saint Pierre and Miquelon,2011,0,SPM
-Saint Pierre and Miquelon,2012,0,SPM
-Saint Pierre and Miquelon,2013,0,SPM
-Saint Pierre and Miquelon,2014,0,SPM
-Saint Pierre and Miquelon,2015,0,SPM
-Saint Pierre and Miquelon,2016,0,SPM
-Saint Pierre and Miquelon,2017,0,SPM
-Saint Pierre and Miquelon,2018,0,SPM
-Saint Pierre and Miquelon,2019,0,SPM
-Saint Vincent and the Grenadines,2010,0,VCT
-Saint Vincent and the Grenadines,2011,0,VCT
-Saint Vincent and the Grenadines,2012,0,VCT
-Saint Vincent and the Grenadines,2013,0,VCT
-Saint Vincent and the Grenadines,2014,0,VCT
-Saint Vincent and the Grenadines,2015,0,VCT
-Saint Vincent and the Grenadines,2016,0,VCT
-Saint Vincent and the Grenadines,2017,0,VCT
-Saint Vincent and the Grenadines,2018,0,VCT
-Saint Vincent and the Grenadines,2019,0,VCT
-Samoa,2010,0,WSM
-Samoa,2011,0,WSM
-Samoa,2012,0,WSM
-Samoa,2013,0,WSM
-Samoa,2014,0,WSM
-Samoa,2015,0,WSM
-Samoa,2016,0,WSM
-Samoa,2017,0,WSM
-Samoa,2018,0,WSM
-Samoa,2019,0,WSM
-San Marino,2010,0,SMR
-San Marino,2011,0,SMR
-San Marino,2012,0,SMR
-San Marino,2013,0,SMR
-San Marino,2014,0,SMR
-San Marino,2015,0,SMR
-San Marino,2016,0,SMR
-San Marino,2017,0,SMR
-San Marino,2018,0,SMR
-San Marino,2019,0,SMR
-Sao Tome and Principe,2010,0,STP
-Sao Tome and Principe,2011,0,STP
-Sao Tome and Principe,2012,0,STP
-Sao Tome and Principe,2013,0,STP
-Sao Tome and Principe,2014,0,STP
-Sao Tome and Principe,2015,0,STP
-Sao Tome and Principe,2016,0,STP
-Sao Tome and Principe,2017,0,STP
-Sao Tome and Principe,2018,0,STP
-Sao Tome and Principe,2019,0,STP
-Saudi Arabia,2010,0,SAU
-Saudi Arabia,2011,0,SAU
-Saudi Arabia,2012,0,SAU
-Saudi Arabia,2013,0,SAU
-Saudi Arabia,2014,0,SAU
+Rwanda,2010,,RWA
+Rwanda,2011,,RWA
+Rwanda,2012,,RWA
+Rwanda,2013,,RWA
+Rwanda,2014,,RWA
+Rwanda,2015,,RWA
+Rwanda,2016,,RWA
+Rwanda,2017,,RWA
+Rwanda,2018,,RWA
+Rwanda,2019,,RWA
+Réunion,2010,,REU
+Réunion,2011,,REU
+Réunion,2012,,REU
+Réunion,2013,,REU
+Réunion,2014,,REU
+Réunion,2015,,REU
+Réunion,2016,,REU
+Réunion,2017,,REU
+Réunion,2018,,REU
+Réunion,2019,,REU
+Saint Barthélemy,2010,,BLM
+Saint Barthélemy,2011,,BLM
+Saint Barthélemy,2012,,BLM
+Saint Barthélemy,2013,,BLM
+Saint Barthélemy,2014,,BLM
+Saint Barthélemy,2015,,BLM
+Saint Barthélemy,2016,,BLM
+Saint Barthélemy,2017,,BLM
+Saint Barthélemy,2018,,BLM
+Saint Barthélemy,2019,,BLM
+"Saint Helena, Ascension and Tristan da Cunha",2010,,SHN
+"Saint Helena, Ascension and Tristan da Cunha",2011,,SHN
+"Saint Helena, Ascension and Tristan da Cunha",2012,,SHN
+"Saint Helena, Ascension and Tristan da Cunha",2013,,SHN
+"Saint Helena, Ascension and Tristan da Cunha",2014,,SHN
+"Saint Helena, Ascension and Tristan da Cunha",2015,,SHN
+"Saint Helena, Ascension and Tristan da Cunha",2016,,SHN
+"Saint Helena, Ascension and Tristan da Cunha",2017,,SHN
+"Saint Helena, Ascension and Tristan da Cunha",2018,,SHN
+"Saint Helena, Ascension and Tristan da Cunha",2019,,SHN
+Saint Kitts and Nevis,2010,,KNA
+Saint Kitts and Nevis,2011,,KNA
+Saint Kitts and Nevis,2012,,KNA
+Saint Kitts and Nevis,2013,,KNA
+Saint Kitts and Nevis,2014,,KNA
+Saint Kitts and Nevis,2015,,KNA
+Saint Kitts and Nevis,2016,,KNA
+Saint Kitts and Nevis,2017,,KNA
+Saint Kitts and Nevis,2018,,KNA
+Saint Kitts and Nevis,2019,,KNA
+Saint Lucia,2010,,LCA
+Saint Lucia,2011,,LCA
+Saint Lucia,2012,,LCA
+Saint Lucia,2013,,LCA
+Saint Lucia,2014,,LCA
+Saint Lucia,2015,,LCA
+Saint Lucia,2016,,LCA
+Saint Lucia,2017,,LCA
+Saint Lucia,2018,,LCA
+Saint Lucia,2019,,LCA
+Saint Martin (French part),2010,,MAF
+Saint Martin (French part),2011,,MAF
+Saint Martin (French part),2012,,MAF
+Saint Martin (French part),2013,,MAF
+Saint Martin (French part),2014,,MAF
+Saint Martin (French part),2015,,MAF
+Saint Martin (French part),2016,,MAF
+Saint Martin (French part),2017,,MAF
+Saint Martin (French part),2018,,MAF
+Saint Martin (French part),2019,,MAF
+Saint Pierre and Miquelon,2010,,SPM
+Saint Pierre and Miquelon,2011,,SPM
+Saint Pierre and Miquelon,2012,,SPM
+Saint Pierre and Miquelon,2013,,SPM
+Saint Pierre and Miquelon,2014,,SPM
+Saint Pierre and Miquelon,2015,,SPM
+Saint Pierre and Miquelon,2016,,SPM
+Saint Pierre and Miquelon,2017,,SPM
+Saint Pierre and Miquelon,2018,,SPM
+Saint Pierre and Miquelon,2019,,SPM
+Saint Vincent and the Grenadines,2010,,VCT
+Saint Vincent and the Grenadines,2011,,VCT
+Saint Vincent and the Grenadines,2012,,VCT
+Saint Vincent and the Grenadines,2013,,VCT
+Saint Vincent and the Grenadines,2014,,VCT
+Saint Vincent and the Grenadines,2015,,VCT
+Saint Vincent and the Grenadines,2016,,VCT
+Saint Vincent and the Grenadines,2017,,VCT
+Saint Vincent and the Grenadines,2018,,VCT
+Saint Vincent and the Grenadines,2019,,VCT
+Samoa,2010,,WSM
+Samoa,2011,,WSM
+Samoa,2012,,WSM
+Samoa,2013,,WSM
+Samoa,2014,,WSM
+Samoa,2015,,WSM
+Samoa,2016,,WSM
+Samoa,2017,,WSM
+Samoa,2018,,WSM
+Samoa,2019,,WSM
+San Marino,2010,,SMR
+San Marino,2011,,SMR
+San Marino,2012,,SMR
+San Marino,2013,,SMR
+San Marino,2014,,SMR
+San Marino,2015,,SMR
+San Marino,2016,,SMR
+San Marino,2017,,SMR
+San Marino,2018,,SMR
+San Marino,2019,,SMR
+Sao Tome and Principe,2010,,STP
+Sao Tome and Principe,2011,,STP
+Sao Tome and Principe,2012,,STP
+Sao Tome and Principe,2013,,STP
+Sao Tome and Principe,2014,,STP
+Sao Tome and Principe,2015,,STP
+Sao Tome and Principe,2016,,STP
+Sao Tome and Principe,2017,,STP
+Sao Tome and Principe,2018,,STP
+Sao Tome and Principe,2019,,STP
+Saudi Arabia,2010,,SAU
+Saudi Arabia,2011,,SAU
+Saudi Arabia,2012,,SAU
+Saudi Arabia,2013,,SAU
+Saudi Arabia,2014,,SAU
 Saudi Arabia,2015,1,SAU
-Saudi Arabia,2016,0,SAU
-Saudi Arabia,2017,0,SAU
-Saudi Arabia,2018,0,SAU
-Saudi Arabia,2019,0,SAU
-Senegal,2010,0,SEN
-Senegal,2011,0,SEN
-Senegal,2012,0,SEN
-Senegal,2013,0,SEN
-Senegal,2014,0,SEN
-Senegal,2015,0,SEN
-Senegal,2016,0,SEN
-Senegal,2017,0,SEN
-Senegal,2018,0,SEN
-Senegal,2019,0,SEN
+Saudi Arabia,2016,,SAU
+Saudi Arabia,2017,,SAU
+Saudi Arabia,2018,,SAU
+Saudi Arabia,2019,,SAU
+Senegal,2010,,SEN
+Senegal,2011,,SEN
+Senegal,2012,,SEN
+Senegal,2013,,SEN
+Senegal,2014,,SEN
+Senegal,2015,,SEN
+Senegal,2016,,SEN
+Senegal,2017,,SEN
+Senegal,2018,,SEN
+Senegal,2019,,SEN
 Serbia,2010,1,SRB
-Serbia,2011,0,SRB
-Serbia,2012,0,SRB
-Serbia,2013,0,SRB
+Serbia,2011,,SRB
+Serbia,2012,,SRB
+Serbia,2013,,SRB
 Serbia,2014,1,SRB
 Serbia,2015,3,SRB
-Serbia,2016,0,SRB
+Serbia,2016,,SRB
 Serbia,2017,2,SRB
 Serbia,2018,3,SRB
 Serbia,2019,1,SRB
-Seychelles,2010,0,SYC
-Seychelles,2011,0,SYC
-Seychelles,2012,0,SYC
-Seychelles,2013,0,SYC
-Seychelles,2014,0,SYC
-Seychelles,2015,0,SYC
-Seychelles,2016,0,SYC
-Seychelles,2017,0,SYC
-Seychelles,2018,0,SYC
-Seychelles,2019,0,SYC
-Sierra Leone,2010,0,SLE
-Sierra Leone,2011,0,SLE
-Sierra Leone,2012,0,SLE
-Sierra Leone,2013,0,SLE
-Sierra Leone,2014,0,SLE
-Sierra Leone,2015,0,SLE
-Sierra Leone,2016,0,SLE
-Sierra Leone,2017,0,SLE
-Sierra Leone,2018,0,SLE
-Sierra Leone,2019,0,SLE
+Seychelles,2010,,SYC
+Seychelles,2011,,SYC
+Seychelles,2012,,SYC
+Seychelles,2013,,SYC
+Seychelles,2014,,SYC
+Seychelles,2015,,SYC
+Seychelles,2016,,SYC
+Seychelles,2017,,SYC
+Seychelles,2018,,SYC
+Seychelles,2019,,SYC
+Sierra Leone,2010,,SLE
+Sierra Leone,2011,,SLE
+Sierra Leone,2012,,SLE
+Sierra Leone,2013,,SLE
+Sierra Leone,2014,,SLE
+Sierra Leone,2015,,SLE
+Sierra Leone,2016,,SLE
+Sierra Leone,2017,,SLE
+Sierra Leone,2018,,SLE
+Sierra Leone,2019,,SLE
 Singapore,2010,2,SGP
-Singapore,2011,0,SGP
+Singapore,2011,,SGP
 Singapore,2012,2,SGP
 Singapore,2013,2,SGP
 Singapore,2014,3,SGP
@@ -1999,88 +1999,88 @@ Singapore,2016,1,SGP
 Singapore,2017,2,SGP
 Singapore,2018,2,SGP
 Singapore,2019,1,SGP
-Sint Maarten (Dutch part),2010,0,SXM
-Sint Maarten (Dutch part),2011,0,SXM
-Sint Maarten (Dutch part),2012,0,SXM
-Sint Maarten (Dutch part),2013,0,SXM
-Sint Maarten (Dutch part),2014,0,SXM
-Sint Maarten (Dutch part),2015,0,SXM
-Sint Maarten (Dutch part),2016,0,SXM
-Sint Maarten (Dutch part),2017,0,SXM
-Sint Maarten (Dutch part),2018,0,SXM
-Sint Maarten (Dutch part),2019,0,SXM
+Sint Maarten (Dutch part),2010,,SXM
+Sint Maarten (Dutch part),2011,,SXM
+Sint Maarten (Dutch part),2012,,SXM
+Sint Maarten (Dutch part),2013,,SXM
+Sint Maarten (Dutch part),2014,,SXM
+Sint Maarten (Dutch part),2015,,SXM
+Sint Maarten (Dutch part),2016,,SXM
+Sint Maarten (Dutch part),2017,,SXM
+Sint Maarten (Dutch part),2018,,SXM
+Sint Maarten (Dutch part),2019,,SXM
 Slovakia,2010,1,SVK
-Slovakia,2011,0,SVK
-Slovakia,2012,0,SVK
-Slovakia,2013,0,SVK
+Slovakia,2011,,SVK
+Slovakia,2012,,SVK
+Slovakia,2013,,SVK
 Slovakia,2014,1,SVK
 Slovakia,2015,2,SVK
-Slovakia,2016,0,SVK
+Slovakia,2016,,SVK
 Slovakia,2017,3,SVK
 Slovakia,2018,2,SVK
 Slovakia,2019,1,SVK
-Slovenia,2010,0,SVN
-Slovenia,2011,0,SVN
-Slovenia,2012,0,SVN
-Slovenia,2013,0,SVN
-Slovenia,2014,0,SVN
+Slovenia,2010,,SVN
+Slovenia,2011,,SVN
+Slovenia,2012,,SVN
+Slovenia,2013,,SVN
+Slovenia,2014,,SVN
 Slovenia,2015,1,SVN
-Slovenia,2016,0,SVN
-Slovenia,2017,0,SVN
-Slovenia,2018,0,SVN
-Slovenia,2019,0,SVN
-Solomon Islands,2010,0,SLB
-Solomon Islands,2011,0,SLB
-Solomon Islands,2012,0,SLB
-Solomon Islands,2013,0,SLB
-Solomon Islands,2014,0,SLB
-Solomon Islands,2015,0,SLB
-Solomon Islands,2016,0,SLB
-Solomon Islands,2017,0,SLB
-Solomon Islands,2018,0,SLB
-Solomon Islands,2019,0,SLB
-Somalia,2010,0,SOM
-Somalia,2011,0,SOM
-Somalia,2012,0,SOM
-Somalia,2013,0,SOM
-Somalia,2014,0,SOM
-Somalia,2015,0,SOM
-Somalia,2016,0,SOM
-Somalia,2017,0,SOM
-Somalia,2018,0,SOM
-Somalia,2019,0,SOM
+Slovenia,2016,,SVN
+Slovenia,2017,,SVN
+Slovenia,2018,,SVN
+Slovenia,2019,,SVN
+Solomon Islands,2010,,SLB
+Solomon Islands,2011,,SLB
+Solomon Islands,2012,,SLB
+Solomon Islands,2013,,SLB
+Solomon Islands,2014,,SLB
+Solomon Islands,2015,,SLB
+Solomon Islands,2016,,SLB
+Solomon Islands,2017,,SLB
+Solomon Islands,2018,,SLB
+Solomon Islands,2019,,SLB
+Somalia,2010,,SOM
+Somalia,2011,,SOM
+Somalia,2012,,SOM
+Somalia,2013,,SOM
+Somalia,2014,,SOM
+Somalia,2015,,SOM
+Somalia,2016,,SOM
+Somalia,2017,,SOM
+Somalia,2018,,SOM
+Somalia,2019,,SOM
 South Africa,2010,1,ZAF
-South Africa,2011,0,ZAF
-South Africa,2012,0,ZAF
-South Africa,2013,0,ZAF
+South Africa,2011,,ZAF
+South Africa,2012,,ZAF
+South Africa,2013,,ZAF
 South Africa,2014,2,ZAF
 South Africa,2015,3,ZAF
-South Africa,2016,0,ZAF
+South Africa,2016,,ZAF
 South Africa,2017,1,ZAF
 South Africa,2018,3,ZAF
 South Africa,2019,1,ZAF
-South Georgia and the South Sandwich Islands,2010,0,SGS
-South Georgia and the South Sandwich Islands,2011,0,SGS
-South Georgia and the South Sandwich Islands,2012,0,SGS
-South Georgia and the South Sandwich Islands,2013,0,SGS
-South Georgia and the South Sandwich Islands,2014,0,SGS
-South Georgia and the South Sandwich Islands,2015,0,SGS
-South Georgia and the South Sandwich Islands,2016,0,SGS
-South Georgia and the South Sandwich Islands,2017,0,SGS
-South Georgia and the South Sandwich Islands,2018,0,SGS
-South Georgia and the South Sandwich Islands,2019,0,SGS
-South Sudan,2010,0,SSD
-South Sudan,2011,0,SSD
-South Sudan,2012,0,SSD
-South Sudan,2013,0,SSD
-South Sudan,2014,0,SSD
-South Sudan,2015,0,SSD
-South Sudan,2016,0,SSD
-South Sudan,2017,0,SSD
-South Sudan,2018,0,SSD
-South Sudan,2019,0,SSD
+South Georgia and the South Sandwich Islands,2010,,SGS
+South Georgia and the South Sandwich Islands,2011,,SGS
+South Georgia and the South Sandwich Islands,2012,,SGS
+South Georgia and the South Sandwich Islands,2013,,SGS
+South Georgia and the South Sandwich Islands,2014,,SGS
+South Georgia and the South Sandwich Islands,2015,,SGS
+South Georgia and the South Sandwich Islands,2016,,SGS
+South Georgia and the South Sandwich Islands,2017,,SGS
+South Georgia and the South Sandwich Islands,2018,,SGS
+South Georgia and the South Sandwich Islands,2019,,SGS
+South Sudan,2010,,SSD
+South Sudan,2011,,SSD
+South Sudan,2012,,SSD
+South Sudan,2013,,SSD
+South Sudan,2014,,SSD
+South Sudan,2015,,SSD
+South Sudan,2016,,SSD
+South Sudan,2017,,SSD
+South Sudan,2018,,SSD
+South Sudan,2019,,SSD
 Spain,2010,1,ESP
-Spain,2011,0,ESP
+Spain,2011,,ESP
 Spain,2012,3,ESP
 Spain,2013,4,ESP
 Spain,2014,7,ESP
@@ -2089,49 +2089,49 @@ Spain,2016,8,ESP
 Spain,2017,8,ESP
 Spain,2018,9,ESP
 Spain,2019,5,ESP
-Sri Lanka,2010,0,LKA
-Sri Lanka,2011,0,LKA
-Sri Lanka,2012,0,LKA
-Sri Lanka,2013,0,LKA
-Sri Lanka,2014,0,LKA
-Sri Lanka,2015,0,LKA
-Sri Lanka,2016,0,LKA
-Sri Lanka,2017,0,LKA
-Sri Lanka,2018,0,LKA
-Sri Lanka,2019,0,LKA
-Sudan,2010,0,SDN
-Sudan,2011,0,SDN
-Sudan,2012,0,SDN
-Sudan,2013,0,SDN
-Sudan,2014,0,SDN
-Sudan,2015,0,SDN
-Sudan,2016,0,SDN
-Sudan,2017,0,SDN
-Sudan,2018,0,SDN
-Sudan,2019,0,SDN
-Suriname,2010,0,SUR
-Suriname,2011,0,SUR
-Suriname,2012,0,SUR
-Suriname,2013,0,SUR
-Suriname,2014,0,SUR
-Suriname,2015,0,SUR
-Suriname,2016,0,SUR
-Suriname,2017,0,SUR
-Suriname,2018,0,SUR
-Suriname,2019,0,SUR
-Svalbard and Jan Mayen,2010,0,SJM
-Svalbard and Jan Mayen,2011,0,SJM
-Svalbard and Jan Mayen,2012,0,SJM
-Svalbard and Jan Mayen,2013,0,SJM
-Svalbard and Jan Mayen,2014,0,SJM
-Svalbard and Jan Mayen,2015,0,SJM
-Svalbard and Jan Mayen,2016,0,SJM
-Svalbard and Jan Mayen,2017,0,SJM
-Svalbard and Jan Mayen,2018,0,SJM
-Svalbard and Jan Mayen,2019,0,SJM
-Sweden,2010,0,SWE
-Sweden,2011,0,SWE
-Sweden,2012,0,SWE
+Sri Lanka,2010,,LKA
+Sri Lanka,2011,,LKA
+Sri Lanka,2012,,LKA
+Sri Lanka,2013,,LKA
+Sri Lanka,2014,,LKA
+Sri Lanka,2015,,LKA
+Sri Lanka,2016,,LKA
+Sri Lanka,2017,,LKA
+Sri Lanka,2018,,LKA
+Sri Lanka,2019,,LKA
+Sudan,2010,,SDN
+Sudan,2011,,SDN
+Sudan,2012,,SDN
+Sudan,2013,,SDN
+Sudan,2014,,SDN
+Sudan,2015,,SDN
+Sudan,2016,,SDN
+Sudan,2017,,SDN
+Sudan,2018,,SDN
+Sudan,2019,,SDN
+Suriname,2010,,SUR
+Suriname,2011,,SUR
+Suriname,2012,,SUR
+Suriname,2013,,SUR
+Suriname,2014,,SUR
+Suriname,2015,,SUR
+Suriname,2016,,SUR
+Suriname,2017,,SUR
+Suriname,2018,,SUR
+Suriname,2019,,SUR
+Svalbard and Jan Mayen,2010,,SJM
+Svalbard and Jan Mayen,2011,,SJM
+Svalbard and Jan Mayen,2012,,SJM
+Svalbard and Jan Mayen,2013,,SJM
+Svalbard and Jan Mayen,2014,,SJM
+Svalbard and Jan Mayen,2015,,SJM
+Svalbard and Jan Mayen,2016,,SJM
+Svalbard and Jan Mayen,2017,,SJM
+Svalbard and Jan Mayen,2018,,SJM
+Svalbard and Jan Mayen,2019,,SJM
+Sweden,2010,,SWE
+Sweden,2011,,SWE
+Sweden,2012,,SWE
 Sweden,2013,2,SWE
 Sweden,2014,2,SWE
 Sweden,2015,1,SWE
@@ -2139,8 +2139,8 @@ Sweden,2016,1,SWE
 Sweden,2017,1,SWE
 Sweden,2018,2,SWE
 Sweden,2019,1,SWE
-Switzerland,2010,0,CHE
-Switzerland,2011,0,CHE
+Switzerland,2010,,CHE
+Switzerland,2011,,CHE
 Switzerland,2012,1,CHE
 Switzerland,2013,1,CHE
 Switzerland,2014,3,CHE
@@ -2149,18 +2149,18 @@ Switzerland,2016,2,CHE
 Switzerland,2017,2,CHE
 Switzerland,2018,2,CHE
 Switzerland,2019,2,CHE
-Syrian Arab Republic,2010,0,SYR
-Syrian Arab Republic,2011,0,SYR
-Syrian Arab Republic,2012,0,SYR
-Syrian Arab Republic,2013,0,SYR
-Syrian Arab Republic,2014,0,SYR
-Syrian Arab Republic,2015,0,SYR
-Syrian Arab Republic,2016,0,SYR
-Syrian Arab Republic,2017,0,SYR
-Syrian Arab Republic,2018,0,SYR
-Syrian Arab Republic,2019,0,SYR
+Syrian Arab Republic,2010,,SYR
+Syrian Arab Republic,2011,,SYR
+Syrian Arab Republic,2012,,SYR
+Syrian Arab Republic,2013,,SYR
+Syrian Arab Republic,2014,,SYR
+Syrian Arab Republic,2015,,SYR
+Syrian Arab Republic,2016,,SYR
+Syrian Arab Republic,2017,,SYR
+Syrian Arab Republic,2018,,SYR
+Syrian Arab Republic,2019,,SYR
 "Taiwan, Province of China",2010,1,TWN
-"Taiwan, Province of China",2011,0,TWN
+"Taiwan, Province of China",2011,,TWN
 "Taiwan, Province of China",2012,3,TWN
 "Taiwan, Province of China",2013,1,TWN
 "Taiwan, Province of China",2014,7,TWN
@@ -2169,28 +2169,28 @@ Syrian Arab Republic,2019,0,SYR
 "Taiwan, Province of China",2017,8,TWN
 "Taiwan, Province of China",2018,9,TWN
 "Taiwan, Province of China",2019,3,TWN
-Tajikistan,2010,0,TJK
-Tajikistan,2011,0,TJK
-Tajikistan,2012,0,TJK
-Tajikistan,2013,0,TJK
-Tajikistan,2014,0,TJK
-Tajikistan,2015,0,TJK
-Tajikistan,2016,0,TJK
-Tajikistan,2017,0,TJK
-Tajikistan,2018,0,TJK
-Tajikistan,2019,0,TJK
-"Tanzania, United Republic of",2010,0,TZA
-"Tanzania, United Republic of",2011,0,TZA
-"Tanzania, United Republic of",2012,0,TZA
-"Tanzania, United Republic of",2013,0,TZA
-"Tanzania, United Republic of",2014,0,TZA
-"Tanzania, United Republic of",2015,0,TZA
-"Tanzania, United Republic of",2016,0,TZA
-"Tanzania, United Republic of",2017,0,TZA
-"Tanzania, United Republic of",2018,0,TZA
-"Tanzania, United Republic of",2019,0,TZA
+Tajikistan,2010,,TJK
+Tajikistan,2011,,TJK
+Tajikistan,2012,,TJK
+Tajikistan,2013,,TJK
+Tajikistan,2014,,TJK
+Tajikistan,2015,,TJK
+Tajikistan,2016,,TJK
+Tajikistan,2017,,TJK
+Tajikistan,2018,,TJK
+Tajikistan,2019,,TJK
+"Tanzania, United Republic of",2010,,TZA
+"Tanzania, United Republic of",2011,,TZA
+"Tanzania, United Republic of",2012,,TZA
+"Tanzania, United Republic of",2013,,TZA
+"Tanzania, United Republic of",2014,,TZA
+"Tanzania, United Republic of",2015,,TZA
+"Tanzania, United Republic of",2016,,TZA
+"Tanzania, United Republic of",2017,,TZA
+"Tanzania, United Republic of",2018,,TZA
+"Tanzania, United Republic of",2019,,TZA
 Thailand,2010,2,THA
-Thailand,2011,0,THA
+Thailand,2011,,THA
 Thailand,2012,2,THA
 Thailand,2013,1,THA
 Thailand,2014,3,THA
@@ -2199,69 +2199,69 @@ Thailand,2016,1,THA
 Thailand,2017,5,THA
 Thailand,2018,7,THA
 Thailand,2019,2,THA
-Timor-Leste,2010,0,TLS
-Timor-Leste,2011,0,TLS
-Timor-Leste,2012,0,TLS
-Timor-Leste,2013,0,TLS
-Timor-Leste,2014,0,TLS
-Timor-Leste,2015,0,TLS
-Timor-Leste,2016,0,TLS
-Timor-Leste,2017,0,TLS
-Timor-Leste,2018,0,TLS
-Timor-Leste,2019,0,TLS
-Togo,2010,0,TGO
-Togo,2011,0,TGO
-Togo,2012,0,TGO
-Togo,2013,0,TGO
-Togo,2014,0,TGO
-Togo,2015,0,TGO
-Togo,2016,0,TGO
-Togo,2017,0,TGO
-Togo,2018,0,TGO
-Togo,2019,0,TGO
-Tokelau,2010,0,TKL
-Tokelau,2011,0,TKL
-Tokelau,2012,0,TKL
-Tokelau,2013,0,TKL
-Tokelau,2014,0,TKL
-Tokelau,2015,0,TKL
-Tokelau,2016,0,TKL
-Tokelau,2017,0,TKL
-Tokelau,2018,0,TKL
-Tokelau,2019,0,TKL
-Tonga,2010,0,TON
-Tonga,2011,0,TON
-Tonga,2012,0,TON
-Tonga,2013,0,TON
-Tonga,2014,0,TON
-Tonga,2015,0,TON
-Tonga,2016,0,TON
-Tonga,2017,0,TON
-Tonga,2018,0,TON
-Tonga,2019,0,TON
-Trinidad and Tobago,2010,0,TTO
-Trinidad and Tobago,2011,0,TTO
-Trinidad and Tobago,2012,0,TTO
-Trinidad and Tobago,2013,0,TTO
-Trinidad and Tobago,2014,0,TTO
-Trinidad and Tobago,2015,0,TTO
-Trinidad and Tobago,2016,0,TTO
-Trinidad and Tobago,2017,0,TTO
-Trinidad and Tobago,2018,0,TTO
-Trinidad and Tobago,2019,0,TTO
-Tunisia,2010,0,TUN
-Tunisia,2011,0,TUN
-Tunisia,2012,0,TUN
-Tunisia,2013,0,TUN
-Tunisia,2014,0,TUN
-Tunisia,2015,0,TUN
-Tunisia,2016,0,TUN
-Tunisia,2017,0,TUN
-Tunisia,2018,0,TUN
-Tunisia,2019,0,TUN
-Turkey,2010,0,TUR
-Turkey,2011,0,TUR
-Turkey,2012,0,TUR
+Timor-Leste,2010,,TLS
+Timor-Leste,2011,,TLS
+Timor-Leste,2012,,TLS
+Timor-Leste,2013,,TLS
+Timor-Leste,2014,,TLS
+Timor-Leste,2015,,TLS
+Timor-Leste,2016,,TLS
+Timor-Leste,2017,,TLS
+Timor-Leste,2018,,TLS
+Timor-Leste,2019,,TLS
+Togo,2010,,TGO
+Togo,2011,,TGO
+Togo,2012,,TGO
+Togo,2013,,TGO
+Togo,2014,,TGO
+Togo,2015,,TGO
+Togo,2016,,TGO
+Togo,2017,,TGO
+Togo,2018,,TGO
+Togo,2019,,TGO
+Tokelau,2010,,TKL
+Tokelau,2011,,TKL
+Tokelau,2012,,TKL
+Tokelau,2013,,TKL
+Tokelau,2014,,TKL
+Tokelau,2015,,TKL
+Tokelau,2016,,TKL
+Tokelau,2017,,TKL
+Tokelau,2018,,TKL
+Tokelau,2019,,TKL
+Tonga,2010,,TON
+Tonga,2011,,TON
+Tonga,2012,,TON
+Tonga,2013,,TON
+Tonga,2014,,TON
+Tonga,2015,,TON
+Tonga,2016,,TON
+Tonga,2017,,TON
+Tonga,2018,,TON
+Tonga,2019,,TON
+Trinidad and Tobago,2010,,TTO
+Trinidad and Tobago,2011,,TTO
+Trinidad and Tobago,2012,,TTO
+Trinidad and Tobago,2013,,TTO
+Trinidad and Tobago,2014,,TTO
+Trinidad and Tobago,2015,,TTO
+Trinidad and Tobago,2016,,TTO
+Trinidad and Tobago,2017,,TTO
+Trinidad and Tobago,2018,,TTO
+Trinidad and Tobago,2019,,TTO
+Tunisia,2010,,TUN
+Tunisia,2011,,TUN
+Tunisia,2012,,TUN
+Tunisia,2013,,TUN
+Tunisia,2014,,TUN
+Tunisia,2015,,TUN
+Tunisia,2016,,TUN
+Tunisia,2017,,TUN
+Tunisia,2018,,TUN
+Tunisia,2019,,TUN
+Turkey,2010,,TUR
+Turkey,2011,,TUR
+Turkey,2012,,TUR
 Turkey,2013,3,TUR
 Turkey,2014,6,TUR
 Turkey,2015,4,TUR
@@ -2269,48 +2269,48 @@ Turkey,2016,1,TUR
 Turkey,2017,6,TUR
 Turkey,2018,7,TUR
 Turkey,2019,6,TUR
-Turkmenistan,2010,0,TKM
-Turkmenistan,2011,0,TKM
-Turkmenistan,2012,0,TKM
-Turkmenistan,2013,0,TKM
-Turkmenistan,2014,0,TKM
-Turkmenistan,2015,0,TKM
-Turkmenistan,2016,0,TKM
-Turkmenistan,2017,0,TKM
-Turkmenistan,2018,0,TKM
-Turkmenistan,2019,0,TKM
-Turks and Caicos Islands,2010,0,TCA
-Turks and Caicos Islands,2011,0,TCA
-Turks and Caicos Islands,2012,0,TCA
-Turks and Caicos Islands,2013,0,TCA
-Turks and Caicos Islands,2014,0,TCA
-Turks and Caicos Islands,2015,0,TCA
-Turks and Caicos Islands,2016,0,TCA
-Turks and Caicos Islands,2017,0,TCA
-Turks and Caicos Islands,2018,0,TCA
-Turks and Caicos Islands,2019,0,TCA
-Tuvalu,2010,0,TUV
-Tuvalu,2011,0,TUV
-Tuvalu,2012,0,TUV
-Tuvalu,2013,0,TUV
-Tuvalu,2014,0,TUV
-Tuvalu,2015,0,TUV
-Tuvalu,2016,0,TUV
-Tuvalu,2017,0,TUV
-Tuvalu,2018,0,TUV
-Tuvalu,2019,0,TUV
-Uganda,2010,0,UGA
-Uganda,2011,0,UGA
-Uganda,2012,0,UGA
-Uganda,2013,0,UGA
-Uganda,2014,0,UGA
-Uganda,2015,0,UGA
-Uganda,2016,0,UGA
-Uganda,2017,0,UGA
-Uganda,2018,0,UGA
-Uganda,2019,0,UGA
-Ukraine,2010,0,UKR
-Ukraine,2011,0,UKR
+Turkmenistan,2010,,TKM
+Turkmenistan,2011,,TKM
+Turkmenistan,2012,,TKM
+Turkmenistan,2013,,TKM
+Turkmenistan,2014,,TKM
+Turkmenistan,2015,,TKM
+Turkmenistan,2016,,TKM
+Turkmenistan,2017,,TKM
+Turkmenistan,2018,,TKM
+Turkmenistan,2019,,TKM
+Turks and Caicos Islands,2010,,TCA
+Turks and Caicos Islands,2011,,TCA
+Turks and Caicos Islands,2012,,TCA
+Turks and Caicos Islands,2013,,TCA
+Turks and Caicos Islands,2014,,TCA
+Turks and Caicos Islands,2015,,TCA
+Turks and Caicos Islands,2016,,TCA
+Turks and Caicos Islands,2017,,TCA
+Turks and Caicos Islands,2018,,TCA
+Turks and Caicos Islands,2019,,TCA
+Tuvalu,2010,,TUV
+Tuvalu,2011,,TUV
+Tuvalu,2012,,TUV
+Tuvalu,2013,,TUV
+Tuvalu,2014,,TUV
+Tuvalu,2015,,TUV
+Tuvalu,2016,,TUV
+Tuvalu,2017,,TUV
+Tuvalu,2018,,TUV
+Tuvalu,2019,,TUV
+Uganda,2010,,UGA
+Uganda,2011,,UGA
+Uganda,2012,,UGA
+Uganda,2013,,UGA
+Uganda,2014,,UGA
+Uganda,2015,,UGA
+Uganda,2016,,UGA
+Uganda,2017,,UGA
+Uganda,2018,,UGA
+Uganda,2019,,UGA
+Ukraine,2010,,UKR
+Ukraine,2011,,UKR
 Ukraine,2012,1,UKR
 Ukraine,2013,1,UKR
 Ukraine,2014,4,UKR
@@ -2319,18 +2319,18 @@ Ukraine,2016,1,UKR
 Ukraine,2017,4,UKR
 Ukraine,2018,4,UKR
 Ukraine,2019,4,UKR
-United Arab Emirates,2010,0,ARE
-United Arab Emirates,2011,0,ARE
-United Arab Emirates,2012,0,ARE
-United Arab Emirates,2013,0,ARE
-United Arab Emirates,2014,0,ARE
+United Arab Emirates,2010,,ARE
+United Arab Emirates,2011,,ARE
+United Arab Emirates,2012,,ARE
+United Arab Emirates,2013,,ARE
+United Arab Emirates,2014,,ARE
 United Arab Emirates,2015,1,ARE
-United Arab Emirates,2016,0,ARE
-United Arab Emirates,2017,0,ARE
-United Arab Emirates,2018,0,ARE
-United Arab Emirates,2019,0,ARE
+United Arab Emirates,2016,,ARE
+United Arab Emirates,2017,,ARE
+United Arab Emirates,2018,,ARE
+United Arab Emirates,2019,,ARE
 United Kingdom,2010,1,GBR
-United Kingdom,2011,0,GBR
+United Kingdom,2011,,GBR
 United Kingdom,2012,2,GBR
 United Kingdom,2013,3,GBR
 United Kingdom,2014,5,GBR
@@ -2340,7 +2340,7 @@ United Kingdom,2017,6,GBR
 United Kingdom,2018,4,GBR
 United Kingdom,2019,5,GBR
 United States,2010,1,USA
-United States,2011,0,USA
+United States,2011,,USA
 United States,2012,5,USA
 United States,2013,2,USA
 United States,2014,8,USA
@@ -2349,143 +2349,143 @@ United States,2016,9,USA
 United States,2017,11,USA
 United States,2018,14,USA
 United States,2019,8,USA
-United States Minor Outlying Islands,2010,0,UMI
-United States Minor Outlying Islands,2011,0,UMI
-United States Minor Outlying Islands,2012,0,UMI
-United States Minor Outlying Islands,2013,0,UMI
-United States Minor Outlying Islands,2014,0,UMI
-United States Minor Outlying Islands,2015,0,UMI
-United States Minor Outlying Islands,2016,0,UMI
-United States Minor Outlying Islands,2017,0,UMI
-United States Minor Outlying Islands,2018,0,UMI
-United States Minor Outlying Islands,2019,0,UMI
-Uruguay,2010,0,URY
-Uruguay,2011,0,URY
-Uruguay,2012,0,URY
-Uruguay,2013,0,URY
-Uruguay,2014,0,URY
-Uruguay,2015,0,URY
-Uruguay,2016,0,URY
-Uruguay,2017,0,URY
-Uruguay,2018,0,URY
-Uruguay,2019,0,URY
-Uzbekistan,2010,0,UZB
-Uzbekistan,2011,0,UZB
-Uzbekistan,2012,0,UZB
-Uzbekistan,2013,0,UZB
-Uzbekistan,2014,0,UZB
-Uzbekistan,2015,0,UZB
-Uzbekistan,2016,0,UZB
-Uzbekistan,2017,0,UZB
-Uzbekistan,2018,0,UZB
-Uzbekistan,2019,0,UZB
-Vanuatu,2010,0,VUT
-Vanuatu,2011,0,VUT
-Vanuatu,2012,0,VUT
-Vanuatu,2013,0,VUT
-Vanuatu,2014,0,VUT
-Vanuatu,2015,0,VUT
-Vanuatu,2016,0,VUT
-Vanuatu,2017,0,VUT
-Vanuatu,2018,0,VUT
-Vanuatu,2019,0,VUT
-"Venezuela, Bolivarian Republic of",2010,0,VEN
-"Venezuela, Bolivarian Republic of",2011,0,VEN
-"Venezuela, Bolivarian Republic of",2012,0,VEN
-"Venezuela, Bolivarian Republic of",2013,0,VEN
-"Venezuela, Bolivarian Republic of",2014,0,VEN
-"Venezuela, Bolivarian Republic of",2015,0,VEN
-"Venezuela, Bolivarian Republic of",2016,0,VEN
-"Venezuela, Bolivarian Republic of",2017,0,VEN
-"Venezuela, Bolivarian Republic of",2018,0,VEN
-"Venezuela, Bolivarian Republic of",2019,0,VEN
-Viet Nam,2010,0,VNM
-Viet Nam,2011,0,VNM
-Viet Nam,2012,0,VNM
-Viet Nam,2013,0,VNM
-Viet Nam,2014,0,VNM
-Viet Nam,2015,0,VNM
-Viet Nam,2016,0,VNM
-Viet Nam,2017,0,VNM
-Viet Nam,2018,0,VNM
-Viet Nam,2019,0,VNM
-"Virgin Islands, British",2010,0,VGB
-"Virgin Islands, British",2011,0,VGB
-"Virgin Islands, British",2012,0,VGB
-"Virgin Islands, British",2013,0,VGB
-"Virgin Islands, British",2014,0,VGB
-"Virgin Islands, British",2015,0,VGB
-"Virgin Islands, British",2016,0,VGB
-"Virgin Islands, British",2017,0,VGB
-"Virgin Islands, British",2018,0,VGB
-"Virgin Islands, British",2019,0,VGB
-"Virgin Islands, U.S.",2010,0,VIR
-"Virgin Islands, U.S.",2011,0,VIR
-"Virgin Islands, U.S.",2012,0,VIR
-"Virgin Islands, U.S.",2013,0,VIR
-"Virgin Islands, U.S.",2014,0,VIR
-"Virgin Islands, U.S.",2015,0,VIR
-"Virgin Islands, U.S.",2016,0,VIR
-"Virgin Islands, U.S.",2017,0,VIR
-"Virgin Islands, U.S.",2018,0,VIR
-"Virgin Islands, U.S.",2019,0,VIR
-Wallis and Futuna,2010,0,WLF
-Wallis and Futuna,2011,0,WLF
-Wallis and Futuna,2012,0,WLF
-Wallis and Futuna,2013,0,WLF
-Wallis and Futuna,2014,0,WLF
-Wallis and Futuna,2015,0,WLF
-Wallis and Futuna,2016,0,WLF
-Wallis and Futuna,2017,0,WLF
-Wallis and Futuna,2018,0,WLF
-Wallis and Futuna,2019,0,WLF
-Western Sahara,2010,0,ESH
-Western Sahara,2011,0,ESH
-Western Sahara,2012,0,ESH
-Western Sahara,2013,0,ESH
-Western Sahara,2014,0,ESH
-Western Sahara,2015,0,ESH
-Western Sahara,2016,0,ESH
-Western Sahara,2017,0,ESH
-Western Sahara,2018,0,ESH
-Western Sahara,2019,0,ESH
-Yemen,2010,0,YEM
-Yemen,2011,0,YEM
-Yemen,2012,0,YEM
-Yemen,2013,0,YEM
-Yemen,2014,0,YEM
-Yemen,2015,0,YEM
-Yemen,2016,0,YEM
-Yemen,2017,0,YEM
-Yemen,2018,0,YEM
-Yemen,2019,0,YEM
-Zambia,2010,0,ZMB
-Zambia,2011,0,ZMB
-Zambia,2012,0,ZMB
-Zambia,2013,0,ZMB
-Zambia,2014,0,ZMB
-Zambia,2015,0,ZMB
-Zambia,2016,0,ZMB
-Zambia,2017,0,ZMB
-Zambia,2018,0,ZMB
-Zambia,2019,0,ZMB
-Zimbabwe,2010,0,ZWE
-Zimbabwe,2011,0,ZWE
-Zimbabwe,2012,0,ZWE
-Zimbabwe,2013,0,ZWE
-Zimbabwe,2014,0,ZWE
-Zimbabwe,2015,0,ZWE
-Zimbabwe,2016,0,ZWE
-Zimbabwe,2017,0,ZWE
-Zimbabwe,2018,0,ZWE
-Zimbabwe,2019,0,ZWE
-Åland Islands,2010,0,ALA
-Åland Islands,2011,0,ALA
-Åland Islands,2012,0,ALA
-Åland Islands,2013,0,ALA
-Åland Islands,2014,0,ALA
-Åland Islands,2015,0,ALA
-Åland Islands,2016,0,ALA
-Åland Islands,2017,0,ALA
-Åland Islands,2018,0,ALA
-Åland Islands,2019,0,ALA
+United States Minor Outlying Islands,2010,,UMI
+United States Minor Outlying Islands,2011,,UMI
+United States Minor Outlying Islands,2012,,UMI
+United States Minor Outlying Islands,2013,,UMI
+United States Minor Outlying Islands,2014,,UMI
+United States Minor Outlying Islands,2015,,UMI
+United States Minor Outlying Islands,2016,,UMI
+United States Minor Outlying Islands,2017,,UMI
+United States Minor Outlying Islands,2018,,UMI
+United States Minor Outlying Islands,2019,,UMI
+Uruguay,2010,,URY
+Uruguay,2011,,URY
+Uruguay,2012,,URY
+Uruguay,2013,,URY
+Uruguay,2014,,URY
+Uruguay,2015,,URY
+Uruguay,2016,,URY
+Uruguay,2017,,URY
+Uruguay,2018,,URY
+Uruguay,2019,,URY
+Uzbekistan,2010,,UZB
+Uzbekistan,2011,,UZB
+Uzbekistan,2012,,UZB
+Uzbekistan,2013,,UZB
+Uzbekistan,2014,,UZB
+Uzbekistan,2015,,UZB
+Uzbekistan,2016,,UZB
+Uzbekistan,2017,,UZB
+Uzbekistan,2018,,UZB
+Uzbekistan,2019,,UZB
+Vanuatu,2010,,VUT
+Vanuatu,2011,,VUT
+Vanuatu,2012,,VUT
+Vanuatu,2013,,VUT
+Vanuatu,2014,,VUT
+Vanuatu,2015,,VUT
+Vanuatu,2016,,VUT
+Vanuatu,2017,,VUT
+Vanuatu,2018,,VUT
+Vanuatu,2019,,VUT
+"Venezuela, Bolivarian Republic of",2010,,VEN
+"Venezuela, Bolivarian Republic of",2011,,VEN
+"Venezuela, Bolivarian Republic of",2012,,VEN
+"Venezuela, Bolivarian Republic of",2013,,VEN
+"Venezuela, Bolivarian Republic of",2014,,VEN
+"Venezuela, Bolivarian Republic of",2015,,VEN
+"Venezuela, Bolivarian Republic of",2016,,VEN
+"Venezuela, Bolivarian Republic of",2017,,VEN
+"Venezuela, Bolivarian Republic of",2018,,VEN
+"Venezuela, Bolivarian Republic of",2019,,VEN
+Viet Nam,2010,,VNM
+Viet Nam,2011,,VNM
+Viet Nam,2012,,VNM
+Viet Nam,2013,,VNM
+Viet Nam,2014,,VNM
+Viet Nam,2015,,VNM
+Viet Nam,2016,,VNM
+Viet Nam,2017,,VNM
+Viet Nam,2018,,VNM
+Viet Nam,2019,,VNM
+"Virgin Islands, British",2010,,VGB
+"Virgin Islands, British",2011,,VGB
+"Virgin Islands, British",2012,,VGB
+"Virgin Islands, British",2013,,VGB
+"Virgin Islands, British",2014,,VGB
+"Virgin Islands, British",2015,,VGB
+"Virgin Islands, British",2016,,VGB
+"Virgin Islands, British",2017,,VGB
+"Virgin Islands, British",2018,,VGB
+"Virgin Islands, British",2019,,VGB
+"Virgin Islands, U.S.",2010,,VIR
+"Virgin Islands, U.S.",2011,,VIR
+"Virgin Islands, U.S.",2012,,VIR
+"Virgin Islands, U.S.",2013,,VIR
+"Virgin Islands, U.S.",2014,,VIR
+"Virgin Islands, U.S.",2015,,VIR
+"Virgin Islands, U.S.",2016,,VIR
+"Virgin Islands, U.S.",2017,,VIR
+"Virgin Islands, U.S.",2018,,VIR
+"Virgin Islands, U.S.",2019,,VIR
+Wallis and Futuna,2010,,WLF
+Wallis and Futuna,2011,,WLF
+Wallis and Futuna,2012,,WLF
+Wallis and Futuna,2013,,WLF
+Wallis and Futuna,2014,,WLF
+Wallis and Futuna,2015,,WLF
+Wallis and Futuna,2016,,WLF
+Wallis and Futuna,2017,,WLF
+Wallis and Futuna,2018,,WLF
+Wallis and Futuna,2019,,WLF
+Western Sahara,2010,,ESH
+Western Sahara,2011,,ESH
+Western Sahara,2012,,ESH
+Western Sahara,2013,,ESH
+Western Sahara,2014,,ESH
+Western Sahara,2015,,ESH
+Western Sahara,2016,,ESH
+Western Sahara,2017,,ESH
+Western Sahara,2018,,ESH
+Western Sahara,2019,,ESH
+Yemen,2010,,YEM
+Yemen,2011,,YEM
+Yemen,2012,,YEM
+Yemen,2013,,YEM
+Yemen,2014,,YEM
+Yemen,2015,,YEM
+Yemen,2016,,YEM
+Yemen,2017,,YEM
+Yemen,2018,,YEM
+Yemen,2019,,YEM
+Zambia,2010,,ZMB
+Zambia,2011,,ZMB
+Zambia,2012,,ZMB
+Zambia,2013,,ZMB
+Zambia,2014,,ZMB
+Zambia,2015,,ZMB
+Zambia,2016,,ZMB
+Zambia,2017,,ZMB
+Zambia,2018,,ZMB
+Zambia,2019,,ZMB
+Zimbabwe,2010,,ZWE
+Zimbabwe,2011,,ZWE
+Zimbabwe,2012,,ZWE
+Zimbabwe,2013,,ZWE
+Zimbabwe,2014,,ZWE
+Zimbabwe,2015,,ZWE
+Zimbabwe,2016,,ZWE
+Zimbabwe,2017,,ZWE
+Zimbabwe,2018,,ZWE
+Zimbabwe,2019,,ZWE
+Åland Islands,2010,,ALA
+Åland Islands,2011,,ALA
+Åland Islands,2012,,ALA
+Åland Islands,2013,,ALA
+Åland Islands,2014,,ALA
+Åland Islands,2015,,ALA
+Åland Islands,2016,,ALA
+Åland Islands,2017,,ALA
+Åland Islands,2018,,ALA
+Åland Islands,2019,,ALA
