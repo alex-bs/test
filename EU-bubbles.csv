@@ -3,13 +3,13 @@ Austria-1,Austria,Breast Cancer,2010,0,0,1,AUT,EU
 Austria-1,Austria,Breast Cancer,2011,0,0,1,AUT,EU
 Austria-1,Austria,Breast Cancer,2012,0,0,1,AUT,EU
 Austria-1,Austria,Breast Cancer,2013,0,0,1,AUT,EU
-Austria-1,Austria,Breast Cancer,2014,0,0,1,AUT,EU
+Austria-1,Austria,Breast Cancer,2014,973.0,1,1,AUT,EU
 Austria-1,Austria,Breast Cancer,2015,0,0,1,AUT,EU
 Austria-1,Austria,Breast Cancer,2016,0,0,1,AUT,EU
 Austria-1,Austria,Breast Cancer,2017,0,0,1,AUT,EU
 Austria-1,Austria,Breast Cancer,2018,0,0,1,AUT,EU
 Austria-1,Austria,Breast Cancer,2019,0,0,1,AUT,EU
-Austria-1,Austria,Lung Cancer,2010,0,0,1,AUT,EU
+Austria-1,Austria,Lung Cancer,2010,1175.0,1,1,AUT,EU
 Austria-1,Austria,Lung Cancer,2011,0,0,1,AUT,EU
 Austria-1,Austria,Lung Cancer,2012,0,0,1,AUT,EU
 Austria-1,Austria,Lung Cancer,2013,0,0,1,AUT,EU
@@ -42,25 +42,25 @@ Austria-1,Austria,Prostate Cancer,2019,0,0,1,AUT,EU
 Austria-2,Austria,Breast Cancer,2010,0,0,2,AUT,EU
 Austria-2,Austria,Breast Cancer,2011,1035.0,1,2,AUT,EU
 Austria-2,Austria,Breast Cancer,2012,0,0,2,AUT,EU
-Austria-2,Austria,Breast Cancer,2013,1281.3333333333333,3,2,AUT,EU
-Austria-2,Austria,Breast Cancer,2014,1033.5,2,2,AUT,EU
+Austria-2,Austria,Breast Cancer,2013,1094.25,4,2,AUT,EU
+Austria-2,Austria,Breast Cancer,2014,1013.3333333333334,3,2,AUT,EU
 Austria-2,Austria,Breast Cancer,2015,1292.5,2,2,AUT,EU
 Austria-2,Austria,Breast Cancer,2016,0,0,2,AUT,EU
 Austria-2,Austria,Breast Cancer,2017,0,0,2,AUT,EU
 Austria-2,Austria,Breast Cancer,2018,363.0,1,2,AUT,EU
 Austria-2,Austria,Breast Cancer,2019,0,0,2,AUT,EU
-Austria-2,Austria,Lung Cancer,2010,0,0,2,AUT,EU
+Austria-2,Austria,Lung Cancer,2010,1175.0,1,2,AUT,EU
 Austria-2,Austria,Lung Cancer,2011,0,0,2,AUT,EU
 Austria-2,Austria,Lung Cancer,2012,0,0,2,AUT,EU
 Austria-2,Austria,Lung Cancer,2013,0,0,2,AUT,EU
-Austria-2,Austria,Lung Cancer,2014,0,0,2,AUT,EU
-Austria-2,Austria,Lung Cancer,2015,0,0,2,AUT,EU
+Austria-2,Austria,Lung Cancer,2014,1310.0,1,2,AUT,EU
+Austria-2,Austria,Lung Cancer,2015,1663.0,1,2,AUT,EU
 Austria-2,Austria,Lung Cancer,2016,0,0,2,AUT,EU
 Austria-2,Austria,Lung Cancer,2017,0,0,2,AUT,EU
-Austria-2,Austria,Lung Cancer,2018,0,0,2,AUT,EU
+Austria-2,Austria,Lung Cancer,2018,363.0,1,2,AUT,EU
 Austria-2,Austria,Lung Cancer,2019,0,0,2,AUT,EU
-Austria-2,Austria,Melanoma,2010,0,0,2,AUT,EU
-Austria-2,Austria,Melanoma,2011,0,0,2,AUT,EU
+Austria-2,Austria,Melanoma,2010,1249.0,1,2,AUT,EU
+Austria-2,Austria,Melanoma,2011,1430.0,1,2,AUT,EU
 Austria-2,Austria,Melanoma,2012,0,0,2,AUT,EU
 Austria-2,Austria,Melanoma,2013,0,0,2,AUT,EU
 Austria-2,Austria,Melanoma,2014,1564.0,1,2,AUT,EU
@@ -80,7 +80,7 @@ Austria-2,Austria,Prostate Cancer,2017,0,0,2,AUT,EU
 Austria-2,Austria,Prostate Cancer,2018,363.0,1,2,AUT,EU
 Austria-2,Austria,Prostate Cancer,2019,0,0,2,AUT,EU
 Austria-3,Austria,Breast Cancer,2010,2750.0,1,3,AUT,EU
-Austria-3,Austria,Breast Cancer,2011,1489.0,1,3,AUT,EU
+Austria-3,Austria,Breast Cancer,2011,1971.0,2,3,AUT,EU
 Austria-3,Austria,Breast Cancer,2012,0,0,3,AUT,EU
 Austria-3,Austria,Breast Cancer,2013,1128.0,1,3,AUT,EU
 Austria-3,Austria,Breast Cancer,2014,0,0,3,AUT,EU
@@ -89,11 +89,11 @@ Austria-3,Austria,Breast Cancer,2016,1074.0,1,3,AUT,EU
 Austria-3,Austria,Breast Cancer,2017,0,0,3,AUT,EU
 Austria-3,Austria,Breast Cancer,2018,0,0,3,AUT,EU
 Austria-3,Austria,Breast Cancer,2019,0,0,3,AUT,EU
-Austria-3,Austria,Lung Cancer,2010,0,0,3,AUT,EU
-Austria-3,Austria,Lung Cancer,2011,0,0,3,AUT,EU
+Austria-3,Austria,Lung Cancer,2010,2131.0,2,3,AUT,EU
+Austria-3,Austria,Lung Cancer,2011,1689.0,2,3,AUT,EU
 Austria-3,Austria,Lung Cancer,2012,0,0,3,AUT,EU
 Austria-3,Austria,Lung Cancer,2013,0,0,3,AUT,EU
-Austria-3,Austria,Lung Cancer,2014,0,0,3,AUT,EU
+Austria-3,Austria,Lung Cancer,2014,1765.0,1,3,AUT,EU
 Austria-3,Austria,Lung Cancer,2015,1309.0,1,3,AUT,EU
 Austria-3,Austria,Lung Cancer,2016,0,0,3,AUT,EU
 Austria-3,Austria,Lung Cancer,2017,0,0,3,AUT,EU
@@ -102,15 +102,15 @@ Austria-3,Austria,Lung Cancer,2019,0,0,3,AUT,EU
 Austria-3,Austria,Melanoma,2010,2216.0,1,3,AUT,EU
 Austria-3,Austria,Melanoma,2011,0,0,3,AUT,EU
 Austria-3,Austria,Melanoma,2012,2516.0,1,3,AUT,EU
-Austria-3,Austria,Melanoma,2013,0,0,3,AUT,EU
+Austria-3,Austria,Melanoma,2013,2384.0,1,3,AUT,EU
 Austria-3,Austria,Melanoma,2014,0,0,3,AUT,EU
 Austria-3,Austria,Melanoma,2015,0,0,3,AUT,EU
 Austria-3,Austria,Melanoma,2016,0,0,3,AUT,EU
 Austria-3,Austria,Melanoma,2017,0,0,3,AUT,EU
 Austria-3,Austria,Melanoma,2018,0,0,3,AUT,EU
 Austria-3,Austria,Melanoma,2019,0,0,3,AUT,EU
-Austria-3,Austria,Prostate Cancer,2010,3075.0,1,3,AUT,EU
-Austria-3,Austria,Prostate Cancer,2011,0,0,3,AUT,EU
+Austria-3,Austria,Prostate Cancer,2010,2268.0,2,3,AUT,EU
+Austria-3,Austria,Prostate Cancer,2011,2453.0,1,3,AUT,EU
 Austria-3,Austria,Prostate Cancer,2012,973.0,1,3,AUT,EU
 Austria-3,Austria,Prostate Cancer,2013,0,0,3,AUT,EU
 Austria-3,Austria,Prostate Cancer,2014,0,0,3,AUT,EU
@@ -119,102 +119,102 @@ Austria-3,Austria,Prostate Cancer,2016,0,0,3,AUT,EU
 Austria-3,Austria,Prostate Cancer,2017,0,0,3,AUT,EU
 Austria-3,Austria,Prostate Cancer,2018,0,0,3,AUT,EU
 Austria-3,Austria,Prostate Cancer,2019,0,0,3,AUT,EU
-Belgium-1,Belgium,Breast Cancer,2010,852.0,1,1,BEL,EU
-Belgium-1,Belgium,Breast Cancer,2011,1249.0,1,1,BEL,EU
-Belgium-1,Belgium,Breast Cancer,2012,0,0,1,BEL,EU
-Belgium-1,Belgium,Breast Cancer,2013,1760.0,1,1,BEL,EU
-Belgium-1,Belgium,Breast Cancer,2014,0,0,1,BEL,EU
+Belgium-1,Belgium,Breast Cancer,2010,1126.0,2,1,BEL,EU
+Belgium-1,Belgium,Breast Cancer,2011,1080.5,2,1,BEL,EU
+Belgium-1,Belgium,Breast Cancer,2012,1302.3333333333333,3,1,BEL,EU
+Belgium-1,Belgium,Breast Cancer,2013,1239.4,5,1,BEL,EU
+Belgium-1,Belgium,Breast Cancer,2014,973.0,1,1,BEL,EU
 Belgium-1,Belgium,Breast Cancer,2015,0,0,1,BEL,EU
 Belgium-1,Belgium,Breast Cancer,2016,488.0,1,1,BEL,EU
 Belgium-1,Belgium,Breast Cancer,2017,0,0,1,BEL,EU
 Belgium-1,Belgium,Breast Cancer,2018,0,0,1,BEL,EU
 Belgium-1,Belgium,Breast Cancer,2019,0,0,1,BEL,EU
-Belgium-1,Belgium,Lung Cancer,2010,0,0,1,BEL,EU
+Belgium-1,Belgium,Lung Cancer,2010,1175.0,1,1,BEL,EU
 Belgium-1,Belgium,Lung Cancer,2011,1249.0,1,1,BEL,EU
-Belgium-1,Belgium,Lung Cancer,2012,0,0,1,BEL,EU
-Belgium-1,Belgium,Lung Cancer,2013,2153.0,1,1,BEL,EU
-Belgium-1,Belgium,Lung Cancer,2014,0,0,1,BEL,EU
-Belgium-1,Belgium,Lung Cancer,2015,0,0,1,BEL,EU
-Belgium-1,Belgium,Lung Cancer,2016,0,0,1,BEL,EU
+Belgium-1,Belgium,Lung Cancer,2012,1187.0,1,1,BEL,EU
+Belgium-1,Belgium,Lung Cancer,2013,1857.6666666666667,3,1,BEL,EU
+Belgium-1,Belgium,Lung Cancer,2014,1647.0,1,1,BEL,EU
+Belgium-1,Belgium,Lung Cancer,2015,744.0,1,1,BEL,EU
+Belgium-1,Belgium,Lung Cancer,2016,1128.0,1,1,BEL,EU
 Belgium-1,Belgium,Lung Cancer,2017,0,0,1,BEL,EU
 Belgium-1,Belgium,Lung Cancer,2018,0,0,1,BEL,EU
 Belgium-1,Belgium,Lung Cancer,2019,0,0,1,BEL,EU
 Belgium-1,Belgium,Melanoma,2010,0,0,1,BEL,EU
 Belgium-1,Belgium,Melanoma,2011,1249.0,1,1,BEL,EU
 Belgium-1,Belgium,Melanoma,2012,0,0,1,BEL,EU
-Belgium-1,Belgium,Melanoma,2013,1760.0,1,1,BEL,EU
+Belgium-1,Belgium,Melanoma,2013,986.0,2,1,BEL,EU
 Belgium-1,Belgium,Melanoma,2014,0,0,1,BEL,EU
 Belgium-1,Belgium,Melanoma,2015,519.0,1,1,BEL,EU
-Belgium-1,Belgium,Melanoma,2016,0,0,1,BEL,EU
+Belgium-1,Belgium,Melanoma,2016,1036.0,1,1,BEL,EU
 Belgium-1,Belgium,Melanoma,2017,0,0,1,BEL,EU
 Belgium-1,Belgium,Melanoma,2018,0,0,1,BEL,EU
 Belgium-1,Belgium,Melanoma,2019,0,0,1,BEL,EU
 Belgium-1,Belgium,Prostate Cancer,2010,0,0,1,BEL,EU
-Belgium-1,Belgium,Prostate Cancer,2011,0,0,1,BEL,EU
-Belgium-1,Belgium,Prostate Cancer,2012,0,0,1,BEL,EU
-Belgium-1,Belgium,Prostate Cancer,2013,0,0,1,BEL,EU
+Belgium-1,Belgium,Prostate Cancer,2011,912.0,1,1,BEL,EU
+Belgium-1,Belgium,Prostate Cancer,2012,1033.0,1,1,BEL,EU
+Belgium-1,Belgium,Prostate Cancer,2013,1996.0,1,1,BEL,EU
 Belgium-1,Belgium,Prostate Cancer,2014,0,0,1,BEL,EU
-Belgium-1,Belgium,Prostate Cancer,2015,0,0,1,BEL,EU
+Belgium-1,Belgium,Prostate Cancer,2015,744.0,1,1,BEL,EU
 Belgium-1,Belgium,Prostate Cancer,2016,0,0,1,BEL,EU
 Belgium-1,Belgium,Prostate Cancer,2017,0,0,1,BEL,EU
 Belgium-1,Belgium,Prostate Cancer,2018,84.0,1,1,BEL,EU
 Belgium-1,Belgium,Prostate Cancer,2019,0,0,1,BEL,EU
-Belgium-2,Belgium,Breast Cancer,2010,1263.5,4,2,BEL,EU
-Belgium-2,Belgium,Breast Cancer,2011,1241.25,4,2,BEL,EU
+Belgium-2,Belgium,Breast Cancer,2010,1243.0,6,2,BEL,EU
+Belgium-2,Belgium,Breast Cancer,2011,1740.5,6,2,BEL,EU
 Belgium-2,Belgium,Breast Cancer,2012,1126.0,1,2,BEL,EU
-Belgium-2,Belgium,Breast Cancer,2013,1415.75,4,2,BEL,EU
-Belgium-2,Belgium,Breast Cancer,2014,1021.8,5,2,BEL,EU
+Belgium-2,Belgium,Breast Cancer,2013,1334.5,6,2,BEL,EU
+Belgium-2,Belgium,Breast Cancer,2014,1096.7142857142858,7,2,BEL,EU
 Belgium-2,Belgium,Breast Cancer,2015,1105.3333333333333,3,2,BEL,EU
 Belgium-2,Belgium,Breast Cancer,2016,0,0,2,BEL,EU
-Belgium-2,Belgium,Breast Cancer,2017,0,0,2,BEL,EU
+Belgium-2,Belgium,Breast Cancer,2017,517.0,1,2,BEL,EU
 Belgium-2,Belgium,Breast Cancer,2018,0,0,2,BEL,EU
 Belgium-2,Belgium,Breast Cancer,2019,0,0,2,BEL,EU
-Belgium-2,Belgium,Lung Cancer,2010,0,0,2,BEL,EU
-Belgium-2,Belgium,Lung Cancer,2011,1249.0,1,2,BEL,EU
-Belgium-2,Belgium,Lung Cancer,2012,0,0,2,BEL,EU
-Belgium-2,Belgium,Lung Cancer,2013,0,0,2,BEL,EU
-Belgium-2,Belgium,Lung Cancer,2014,0,0,2,BEL,EU
-Belgium-2,Belgium,Lung Cancer,2015,0,0,2,BEL,EU
-Belgium-2,Belgium,Lung Cancer,2016,0,0,2,BEL,EU
+Belgium-2,Belgium,Lung Cancer,2010,869.0,3,2,BEL,EU
+Belgium-2,Belgium,Lung Cancer,2011,1276.0,3,2,BEL,EU
+Belgium-2,Belgium,Lung Cancer,2012,1523.0,2,2,BEL,EU
+Belgium-2,Belgium,Lung Cancer,2013,1838.6666666666667,3,2,BEL,EU
+Belgium-2,Belgium,Lung Cancer,2014,1481.75,4,2,BEL,EU
+Belgium-2,Belgium,Lung Cancer,2015,1271.3333333333333,3,2,BEL,EU
+Belgium-2,Belgium,Lung Cancer,2016,1128.0,1,2,BEL,EU
 Belgium-2,Belgium,Lung Cancer,2017,0,0,2,BEL,EU
 Belgium-2,Belgium,Lung Cancer,2018,0,0,2,BEL,EU
 Belgium-2,Belgium,Lung Cancer,2019,0,0,2,BEL,EU
 Belgium-2,Belgium,Melanoma,2010,1644.0,1,2,BEL,EU
-Belgium-2,Belgium,Melanoma,2011,1249.0,1,2,BEL,EU
-Belgium-2,Belgium,Melanoma,2012,0,0,2,BEL,EU
+Belgium-2,Belgium,Melanoma,2011,1705.0,2,2,BEL,EU
+Belgium-2,Belgium,Melanoma,2012,1425.0,2,2,BEL,EU
 Belgium-2,Belgium,Melanoma,2013,0,0,2,BEL,EU
-Belgium-2,Belgium,Melanoma,2014,1564.0,1,2,BEL,EU
+Belgium-2,Belgium,Melanoma,2014,1360.5,2,2,BEL,EU
 Belgium-2,Belgium,Melanoma,2015,1663.0,1,2,BEL,EU
-Belgium-2,Belgium,Melanoma,2016,0,0,2,BEL,EU
+Belgium-2,Belgium,Melanoma,2016,1083.0,2,2,BEL,EU
 Belgium-2,Belgium,Melanoma,2017,0,0,2,BEL,EU
 Belgium-2,Belgium,Melanoma,2018,0,0,2,BEL,EU
 Belgium-2,Belgium,Melanoma,2019,0,0,2,BEL,EU
 Belgium-2,Belgium,Prostate Cancer,2010,1096.0,1,2,BEL,EU
-Belgium-2,Belgium,Prostate Cancer,2011,2183.0,1,2,BEL,EU
+Belgium-2,Belgium,Prostate Cancer,2011,1685.0,2,2,BEL,EU
 Belgium-2,Belgium,Prostate Cancer,2012,487.0,1,2,BEL,EU
-Belgium-2,Belgium,Prostate Cancer,2013,1785.0,1,2,BEL,EU
+Belgium-2,Belgium,Prostate Cancer,2013,1890.5,2,2,BEL,EU
 Belgium-2,Belgium,Prostate Cancer,2014,0,0,2,BEL,EU
-Belgium-2,Belgium,Prostate Cancer,2015,0,0,2,BEL,EU
-Belgium-2,Belgium,Prostate Cancer,2016,0,0,2,BEL,EU
+Belgium-2,Belgium,Prostate Cancer,2015,744.0,1,2,BEL,EU
+Belgium-2,Belgium,Prostate Cancer,2016,940.0,1,2,BEL,EU
 Belgium-2,Belgium,Prostate Cancer,2017,0,0,2,BEL,EU
 Belgium-2,Belgium,Prostate Cancer,2018,248.0,1,2,BEL,EU
 Belgium-2,Belgium,Prostate Cancer,2019,0,0,2,BEL,EU
 Belgium-3,Belgium,Breast Cancer,2010,2750.0,1,3,BEL,EU
-Belgium-3,Belgium,Breast Cancer,2011,0,0,3,BEL,EU
-Belgium-3,Belgium,Breast Cancer,2012,0,0,3,BEL,EU
-Belgium-3,Belgium,Breast Cancer,2013,1338.0,1,3,BEL,EU
+Belgium-3,Belgium,Breast Cancer,2011,2048.5,2,3,BEL,EU
+Belgium-3,Belgium,Breast Cancer,2012,1912.0,1,3,BEL,EU
+Belgium-3,Belgium,Breast Cancer,2013,1688.0,2,3,BEL,EU
 Belgium-3,Belgium,Breast Cancer,2014,0,0,3,BEL,EU
 Belgium-3,Belgium,Breast Cancer,2015,1388.0,1,3,BEL,EU
 Belgium-3,Belgium,Breast Cancer,2016,1074.0,1,3,BEL,EU
 Belgium-3,Belgium,Breast Cancer,2017,0,0,3,BEL,EU
 Belgium-3,Belgium,Breast Cancer,2018,0,0,3,BEL,EU
 Belgium-3,Belgium,Breast Cancer,2019,0,0,3,BEL,EU
-Belgium-3,Belgium,Lung Cancer,2010,0,0,3,BEL,EU
-Belgium-3,Belgium,Lung Cancer,2011,0,0,3,BEL,EU
+Belgium-3,Belgium,Lung Cancer,2010,1659.5,2,3,BEL,EU
+Belgium-3,Belgium,Lung Cancer,2011,1500.0,4,3,BEL,EU
 Belgium-3,Belgium,Lung Cancer,2012,0,0,3,BEL,EU
-Belgium-3,Belgium,Lung Cancer,2013,0,0,3,BEL,EU
+Belgium-3,Belgium,Lung Cancer,2013,1186.0,1,3,BEL,EU
 Belgium-3,Belgium,Lung Cancer,2014,0,0,3,BEL,EU
-Belgium-3,Belgium,Lung Cancer,2015,1309.0,1,3,BEL,EU
+Belgium-3,Belgium,Lung Cancer,2015,1161.5,2,3,BEL,EU
 Belgium-3,Belgium,Lung Cancer,2016,0,0,3,BEL,EU
 Belgium-3,Belgium,Lung Cancer,2017,0,0,3,BEL,EU
 Belgium-3,Belgium,Lung Cancer,2018,0,0,3,BEL,EU
@@ -222,15 +222,15 @@ Belgium-3,Belgium,Lung Cancer,2019,0,0,3,BEL,EU
 Belgium-3,Belgium,Melanoma,2010,2216.0,1,3,BEL,EU
 Belgium-3,Belgium,Melanoma,2011,0,0,3,BEL,EU
 Belgium-3,Belgium,Melanoma,2012,2516.0,1,3,BEL,EU
-Belgium-3,Belgium,Melanoma,2013,0,0,3,BEL,EU
-Belgium-3,Belgium,Melanoma,2014,0,0,3,BEL,EU
+Belgium-3,Belgium,Melanoma,2013,2384.0,1,3,BEL,EU
+Belgium-3,Belgium,Melanoma,2014,914.0,1,3,BEL,EU
 Belgium-3,Belgium,Melanoma,2015,0,0,3,BEL,EU
 Belgium-3,Belgium,Melanoma,2016,0,0,3,BEL,EU
 Belgium-3,Belgium,Melanoma,2017,0,0,3,BEL,EU
 Belgium-3,Belgium,Melanoma,2018,0,0,3,BEL,EU
 Belgium-3,Belgium,Melanoma,2019,0,0,3,BEL,EU
-Belgium-3,Belgium,Prostate Cancer,2010,2105.0,3,3,BEL,EU
-Belgium-3,Belgium,Prostate Cancer,2011,1642.0,1,3,BEL,EU
+Belgium-3,Belgium,Prostate Cancer,2010,1944.0,4,3,BEL,EU
+Belgium-3,Belgium,Prostate Cancer,2011,2101.3333333333335,3,3,BEL,EU
 Belgium-3,Belgium,Prostate Cancer,2012,973.0,1,3,BEL,EU
 Belgium-3,Belgium,Prostate Cancer,2013,0,0,3,BEL,EU
 Belgium-3,Belgium,Prostate Cancer,2014,0,0,3,BEL,EU
@@ -242,20 +242,20 @@ Belgium-3,Belgium,Prostate Cancer,2019,0,0,3,BEL,EU
 Denmark-1,Denmark,Breast Cancer,2010,2283.0,1,1,DNK,EU
 Denmark-1,Denmark,Breast Cancer,2011,0,0,1,DNK,EU
 Denmark-1,Denmark,Breast Cancer,2012,0,0,1,DNK,EU
-Denmark-1,Denmark,Breast Cancer,2013,989.5,2,1,DNK,EU
+Denmark-1,Denmark,Breast Cancer,2013,829.75,4,1,DNK,EU
 Denmark-1,Denmark,Breast Cancer,2014,153.0,1,1,DNK,EU
 Denmark-1,Denmark,Breast Cancer,2015,92.0,1,1,DNK,EU
-Denmark-1,Denmark,Breast Cancer,2016,426.0,1,1,DNK,EU
+Denmark-1,Denmark,Breast Cancer,2016,487.0,2,1,DNK,EU
 Denmark-1,Denmark,Breast Cancer,2017,0,0,1,DNK,EU
 Denmark-1,Denmark,Breast Cancer,2018,0,0,1,DNK,EU
 Denmark-1,Denmark,Breast Cancer,2019,0,0,1,DNK,EU
 Denmark-1,Denmark,Lung Cancer,2010,792.0,1,1,DNK,EU
 Denmark-1,Denmark,Lung Cancer,2011,0,0,1,DNK,EU
 Denmark-1,Denmark,Lung Cancer,2012,0,0,1,DNK,EU
-Denmark-1,Denmark,Lung Cancer,2013,0,0,1,DNK,EU
+Denmark-1,Denmark,Lung Cancer,2013,1996.0,1,1,DNK,EU
 Denmark-1,Denmark,Lung Cancer,2014,0,0,1,DNK,EU
-Denmark-1,Denmark,Lung Cancer,2015,0,0,1,DNK,EU
-Denmark-1,Denmark,Lung Cancer,2016,0,0,1,DNK,EU
+Denmark-1,Denmark,Lung Cancer,2015,744.0,1,1,DNK,EU
+Denmark-1,Denmark,Lung Cancer,2016,308.0,1,1,DNK,EU
 Denmark-1,Denmark,Lung Cancer,2017,0,0,1,DNK,EU
 Denmark-1,Denmark,Lung Cancer,2018,0,0,1,DNK,EU
 Denmark-1,Denmark,Lung Cancer,2019,0,0,1,DNK,EU
@@ -263,19 +263,19 @@ Denmark-1,Denmark,Melanoma,2010,0,0,1,DNK,EU
 Denmark-1,Denmark,Melanoma,2011,0,0,1,DNK,EU
 Denmark-1,Denmark,Melanoma,2012,0,0,1,DNK,EU
 Denmark-1,Denmark,Melanoma,2013,0,0,1,DNK,EU
-Denmark-1,Denmark,Melanoma,2014,0,0,1,DNK,EU
+Denmark-1,Denmark,Melanoma,2014,1627.0,3,1,DNK,EU
 Denmark-1,Denmark,Melanoma,2015,0,0,1,DNK,EU
 Denmark-1,Denmark,Melanoma,2016,0,0,1,DNK,EU
 Denmark-1,Denmark,Melanoma,2017,0,0,1,DNK,EU
 Denmark-1,Denmark,Melanoma,2018,0,0,1,DNK,EU
 Denmark-1,Denmark,Melanoma,2019,0,0,1,DNK,EU
 Denmark-1,Denmark,Prostate Cancer,2010,0,0,1,DNK,EU
-Denmark-1,Denmark,Prostate Cancer,2011,0,0,1,DNK,EU
+Denmark-1,Denmark,Prostate Cancer,2011,427.0,1,1,DNK,EU
 Denmark-1,Denmark,Prostate Cancer,2012,0,0,1,DNK,EU
-Denmark-1,Denmark,Prostate Cancer,2013,883.0,1,1,DNK,EU
+Denmark-1,Denmark,Prostate Cancer,2013,1439.5,2,1,DNK,EU
 Denmark-1,Denmark,Prostate Cancer,2014,153.0,1,1,DNK,EU
-Denmark-1,Denmark,Prostate Cancer,2015,92.0,1,1,DNK,EU
-Denmark-1,Denmark,Prostate Cancer,2016,0,0,1,DNK,EU
+Denmark-1,Denmark,Prostate Cancer,2015,418.0,2,1,DNK,EU
+Denmark-1,Denmark,Prostate Cancer,2016,548.0,1,1,DNK,EU
 Denmark-1,Denmark,Prostate Cancer,2017,729.0,1,1,DNK,EU
 Denmark-1,Denmark,Prostate Cancer,2018,0,0,1,DNK,EU
 Denmark-1,Denmark,Prostate Cancer,2019,0,0,1,DNK,EU
@@ -292,9 +292,9 @@ Denmark-2,Denmark,Breast Cancer,2019,0,0,2,DNK,EU
 Denmark-2,Denmark,Lung Cancer,2010,0,0,2,DNK,EU
 Denmark-2,Denmark,Lung Cancer,2011,0,0,2,DNK,EU
 Denmark-2,Denmark,Lung Cancer,2012,760.0,1,2,DNK,EU
-Denmark-2,Denmark,Lung Cancer,2013,0,0,2,DNK,EU
+Denmark-2,Denmark,Lung Cancer,2013,1996.0,1,2,DNK,EU
 Denmark-2,Denmark,Lung Cancer,2014,0,0,2,DNK,EU
-Denmark-2,Denmark,Lung Cancer,2015,0,0,2,DNK,EU
+Denmark-2,Denmark,Lung Cancer,2015,744.0,1,2,DNK,EU
 Denmark-2,Denmark,Lung Cancer,2016,0,0,2,DNK,EU
 Denmark-2,Denmark,Lung Cancer,2017,0,0,2,DNK,EU
 Denmark-2,Denmark,Lung Cancer,2018,0,0,2,DNK,EU
@@ -303,7 +303,7 @@ Denmark-2,Denmark,Melanoma,2010,0,0,2,DNK,EU
 Denmark-2,Denmark,Melanoma,2011,0,0,2,DNK,EU
 Denmark-2,Denmark,Melanoma,2012,0,0,2,DNK,EU
 Denmark-2,Denmark,Melanoma,2013,0,0,2,DNK,EU
-Denmark-2,Denmark,Melanoma,2014,0,0,2,DNK,EU
+Denmark-2,Denmark,Melanoma,2014,1473.5,2,2,DNK,EU
 Denmark-2,Denmark,Melanoma,2015,0,0,2,DNK,EU
 Denmark-2,Denmark,Melanoma,2016,0,0,2,DNK,EU
 Denmark-2,Denmark,Melanoma,2017,0,0,2,DNK,EU
@@ -312,9 +312,9 @@ Denmark-2,Denmark,Melanoma,2019,0,0,2,DNK,EU
 Denmark-2,Denmark,Prostate Cancer,2010,0,0,2,DNK,EU
 Denmark-2,Denmark,Prostate Cancer,2011,2183.0,1,2,DNK,EU
 Denmark-2,Denmark,Prostate Cancer,2012,0,0,2,DNK,EU
-Denmark-2,Denmark,Prostate Cancer,2013,0,0,2,DNK,EU
+Denmark-2,Denmark,Prostate Cancer,2013,1996.0,1,2,DNK,EU
 Denmark-2,Denmark,Prostate Cancer,2014,0,0,2,DNK,EU
-Denmark-2,Denmark,Prostate Cancer,2015,0,0,2,DNK,EU
+Denmark-2,Denmark,Prostate Cancer,2015,744.0,1,2,DNK,EU
 Denmark-2,Denmark,Prostate Cancer,2016,0,0,2,DNK,EU
 Denmark-2,Denmark,Prostate Cancer,2017,729.0,1,2,DNK,EU
 Denmark-2,Denmark,Prostate Cancer,2018,0,0,2,DNK,EU
@@ -329,8 +329,8 @@ Denmark-3,Denmark,Breast Cancer,2016,1074.0,1,3,DNK,EU
 Denmark-3,Denmark,Breast Cancer,2017,0,0,3,DNK,EU
 Denmark-3,Denmark,Breast Cancer,2018,0,0,3,DNK,EU
 Denmark-3,Denmark,Breast Cancer,2019,0,0,3,DNK,EU
-Denmark-3,Denmark,Lung Cancer,2010,0,0,3,DNK,EU
-Denmark-3,Denmark,Lung Cancer,2011,0,0,3,DNK,EU
+Denmark-3,Denmark,Lung Cancer,2010,1705.5,2,3,DNK,EU
+Denmark-3,Denmark,Lung Cancer,2011,1689.0,2,3,DNK,EU
 Denmark-3,Denmark,Lung Cancer,2012,0,0,3,DNK,EU
 Denmark-3,Denmark,Lung Cancer,2013,0,0,3,DNK,EU
 Denmark-3,Denmark,Lung Cancer,2014,0,0,3,DNK,EU
@@ -349,8 +349,8 @@ Denmark-3,Denmark,Melanoma,2016,0,0,3,DNK,EU
 Denmark-3,Denmark,Melanoma,2017,0,0,3,DNK,EU
 Denmark-3,Denmark,Melanoma,2018,0,0,3,DNK,EU
 Denmark-3,Denmark,Melanoma,2019,0,0,3,DNK,EU
-Denmark-3,Denmark,Prostate Cancer,2010,3075.0,1,3,DNK,EU
-Denmark-3,Denmark,Prostate Cancer,2011,2557.0,1,3,DNK,EU
+Denmark-3,Denmark,Prostate Cancer,2010,2268.0,2,3,DNK,EU
+Denmark-3,Denmark,Prostate Cancer,2011,2383.0,2,3,DNK,EU
 Denmark-3,Denmark,Prostate Cancer,2012,0,0,3,DNK,EU
 Denmark-3,Denmark,Prostate Cancer,2013,0,0,3,DNK,EU
 Denmark-3,Denmark,Prostate Cancer,2014,0,0,3,DNK,EU
@@ -382,7 +382,7 @@ Finland-1,Finland,Lung Cancer,2019,0,0,1,FIN,EU
 Finland-1,Finland,Melanoma,2010,0,0,1,FIN,EU
 Finland-1,Finland,Melanoma,2011,0,0,1,FIN,EU
 Finland-1,Finland,Melanoma,2012,0,0,1,FIN,EU
-Finland-1,Finland,Melanoma,2013,0,0,1,FIN,EU
+Finland-1,Finland,Melanoma,2013,212.0,1,1,FIN,EU
 Finland-1,Finland,Melanoma,2014,0,0,1,FIN,EU
 Finland-1,Finland,Melanoma,2015,0,0,1,FIN,EU
 Finland-1,Finland,Melanoma,2016,0,0,1,FIN,EU
@@ -413,7 +413,7 @@ Finland-2,Finland,Lung Cancer,2010,0,0,2,FIN,EU
 Finland-2,Finland,Lung Cancer,2011,0,0,2,FIN,EU
 Finland-2,Finland,Lung Cancer,2012,0,0,2,FIN,EU
 Finland-2,Finland,Lung Cancer,2013,0,0,2,FIN,EU
-Finland-2,Finland,Lung Cancer,2014,0,0,2,FIN,EU
+Finland-2,Finland,Lung Cancer,2014,1211.0,1,2,FIN,EU
 Finland-2,Finland,Lung Cancer,2015,0,0,2,FIN,EU
 Finland-2,Finland,Lung Cancer,2016,0,0,2,FIN,EU
 Finland-2,Finland,Lung Cancer,2017,0,0,2,FIN,EU
@@ -430,7 +430,7 @@ Finland-2,Finland,Melanoma,2017,0,0,2,FIN,EU
 Finland-2,Finland,Melanoma,2018,0,0,2,FIN,EU
 Finland-2,Finland,Melanoma,2019,0,0,2,FIN,EU
 Finland-2,Finland,Prostate Cancer,2010,0,0,2,FIN,EU
-Finland-2,Finland,Prostate Cancer,2011,1233.5,2,2,FIN,EU
+Finland-2,Finland,Prostate Cancer,2011,1197.6666666666667,3,2,FIN,EU
 Finland-2,Finland,Prostate Cancer,2012,1095.0,1,2,FIN,EU
 Finland-2,Finland,Prostate Cancer,2013,0,0,2,FIN,EU
 Finland-2,Finland,Prostate Cancer,2014,547.0,1,2,FIN,EU
@@ -450,10 +450,10 @@ Finland-3,Finland,Breast Cancer,2017,0,0,3,FIN,EU
 Finland-3,Finland,Breast Cancer,2018,0,0,3,FIN,EU
 Finland-3,Finland,Breast Cancer,2019,0,0,3,FIN,EU
 Finland-3,Finland,Lung Cancer,2010,0,0,3,FIN,EU
-Finland-3,Finland,Lung Cancer,2011,0,0,3,FIN,EU
+Finland-3,Finland,Lung Cancer,2011,1551.0,1,3,FIN,EU
 Finland-3,Finland,Lung Cancer,2012,0,0,3,FIN,EU
 Finland-3,Finland,Lung Cancer,2013,0,0,3,FIN,EU
-Finland-3,Finland,Lung Cancer,2014,0,0,3,FIN,EU
+Finland-3,Finland,Lung Cancer,2014,1765.0,1,3,FIN,EU
 Finland-3,Finland,Lung Cancer,2015,0,0,3,FIN,EU
 Finland-3,Finland,Lung Cancer,2016,0,0,3,FIN,EU
 Finland-3,Finland,Lung Cancer,2017,0,0,3,FIN,EU
@@ -463,13 +463,13 @@ Finland-3,Finland,Melanoma,2010,0,0,3,FIN,EU
 Finland-3,Finland,Melanoma,2011,0,0,3,FIN,EU
 Finland-3,Finland,Melanoma,2012,2516.0,1,3,FIN,EU
 Finland-3,Finland,Melanoma,2013,0,0,3,FIN,EU
-Finland-3,Finland,Melanoma,2014,0,0,3,FIN,EU
+Finland-3,Finland,Melanoma,2014,914.0,1,3,FIN,EU
 Finland-3,Finland,Melanoma,2015,0,0,3,FIN,EU
 Finland-3,Finland,Melanoma,2016,0,0,3,FIN,EU
 Finland-3,Finland,Melanoma,2017,0,0,3,FIN,EU
 Finland-3,Finland,Melanoma,2018,0,0,3,FIN,EU
 Finland-3,Finland,Melanoma,2019,0,0,3,FIN,EU
-Finland-3,Finland,Prostate Cancer,2010,2503.5,2,3,FIN,EU
+Finland-3,Finland,Prostate Cancer,2010,2156.0,3,3,FIN,EU
 Finland-3,Finland,Prostate Cancer,2011,2099.5,2,3,FIN,EU
 Finland-3,Finland,Prostate Cancer,2012,0,0,3,FIN,EU
 Finland-3,Finland,Prostate Cancer,2013,0,0,3,FIN,EU
@@ -479,39 +479,39 @@ Finland-3,Finland,Prostate Cancer,2016,0,0,3,FIN,EU
 Finland-3,Finland,Prostate Cancer,2017,0,0,3,FIN,EU
 Finland-3,Finland,Prostate Cancer,2018,0,0,3,FIN,EU
 Finland-3,Finland,Prostate Cancer,2019,0,0,3,FIN,EU
-France-1,France,Breast Cancer,2010,1659.0,2,1,FRA,EU
-France-1,France,Breast Cancer,2011,1249.0,1,1,FRA,EU
-France-1,France,Breast Cancer,2012,1019.0,2,1,FRA,EU
+France-1,France,Breast Cancer,2010,1763.0,4,1,FRA,EU
+France-1,France,Breast Cancer,2011,1883.0,2,1,FRA,EU
+France-1,France,Breast Cancer,2012,1158.4,5,1,FRA,EU
 France-1,France,Breast Cancer,2013,1459.0,2,1,FRA,EU
-France-1,France,Breast Cancer,2014,1429.0,1,1,FRA,EU
-France-1,France,Breast Cancer,2015,1157.0,1,1,FRA,EU
+France-1,France,Breast Cancer,2014,1175.3333333333333,3,1,FRA,EU
+France-1,France,Breast Cancer,2015,1173.0,2,1,FRA,EU
 France-1,France,Breast Cancer,2016,0,0,1,FRA,EU
 France-1,France,Breast Cancer,2017,0,0,1,FRA,EU
 France-1,France,Breast Cancer,2018,0,0,1,FRA,EU
 France-1,France,Breast Cancer,2019,0,0,1,FRA,EU
-France-1,France,Lung Cancer,2010,0,0,1,FRA,EU
-France-1,France,Lung Cancer,2011,1249.0,1,1,FRA,EU
-France-1,France,Lung Cancer,2012,0,0,1,FRA,EU
+France-1,France,Lung Cancer,2010,1732.0,3,1,FRA,EU
+France-1,France,Lung Cancer,2011,1507.5,2,1,FRA,EU
+France-1,France,Lung Cancer,2012,1684.0,1,1,FRA,EU
 France-1,France,Lung Cancer,2013,2153.0,1,1,FRA,EU
-France-1,France,Lung Cancer,2014,0,0,1,FRA,EU
-France-1,France,Lung Cancer,2015,0,0,1,FRA,EU
-France-1,France,Lung Cancer,2016,0,0,1,FRA,EU
-France-1,France,Lung Cancer,2017,0,0,1,FRA,EU
+France-1,France,Lung Cancer,2014,1218.5,2,1,FRA,EU
+France-1,France,Lung Cancer,2015,1302.75,4,1,FRA,EU
+France-1,France,Lung Cancer,2016,308.0,1,1,FRA,EU
+France-1,France,Lung Cancer,2017,825.0,1,1,FRA,EU
 France-1,France,Lung Cancer,2018,0,0,1,FRA,EU
 France-1,France,Lung Cancer,2019,0,0,1,FRA,EU
 France-1,France,Melanoma,2010,2363.0,1,1,FRA,EU
-France-1,France,Melanoma,2011,1941.0,2,1,FRA,EU
+France-1,France,Melanoma,2011,2152.4,5,1,FRA,EU
 France-1,France,Melanoma,2012,0,0,1,FRA,EU
 France-1,France,Melanoma,2013,1632.75,4,1,FRA,EU
 France-1,France,Melanoma,2014,0,0,1,FRA,EU
-France-1,France,Melanoma,2015,0,0,1,FRA,EU
+France-1,France,Melanoma,2015,1441.0,1,1,FRA,EU
 France-1,France,Melanoma,2016,0,0,1,FRA,EU
 France-1,France,Melanoma,2017,0,0,1,FRA,EU
 France-1,France,Melanoma,2018,0,0,1,FRA,EU
 France-1,France,Melanoma,2019,0,0,1,FRA,EU
-France-1,France,Prostate Cancer,2010,1765.0,1,1,FRA,EU
+France-1,France,Prostate Cancer,2010,1780.5,2,1,FRA,EU
 France-1,France,Prostate Cancer,2011,853.0,1,1,FRA,EU
-France-1,France,Prostate Cancer,2012,1005.0,1,1,FRA,EU
+France-1,France,Prostate Cancer,2012,1019.0,2,1,FRA,EU
 France-1,France,Prostate Cancer,2013,0,0,1,FRA,EU
 France-1,France,Prostate Cancer,2014,0,0,1,FRA,EU
 France-1,France,Prostate Cancer,2015,1430.0,1,1,FRA,EU
@@ -519,48 +519,48 @@ France-1,France,Prostate Cancer,2016,0,0,1,FRA,EU
 France-1,France,Prostate Cancer,2017,0,0,1,FRA,EU
 France-1,France,Prostate Cancer,2018,0,0,1,FRA,EU
 France-1,France,Prostate Cancer,2019,0,0,1,FRA,EU
-France-2,France,Breast Cancer,2010,1562.4444444444443,9,2,FRA,EU
-France-2,France,Breast Cancer,2011,1538.0,2,2,FRA,EU
-France-2,France,Breast Cancer,2012,1546.8,5,2,FRA,EU
-France-2,France,Breast Cancer,2013,1333.2,5,2,FRA,EU
-France-2,France,Breast Cancer,2014,1224.5,2,2,FRA,EU
+France-2,France,Breast Cancer,2010,1582.1333333333334,15,2,FRA,EU
+France-2,France,Breast Cancer,2011,2027.8333333333333,6,2,FRA,EU
+France-2,France,Breast Cancer,2012,1430.8333333333333,6,2,FRA,EU
+France-2,France,Breast Cancer,2013,1394.25,8,2,FRA,EU
+France-2,France,Breast Cancer,2014,1149.4,5,2,FRA,EU
 France-2,France,Breast Cancer,2015,1663.0,1,2,FRA,EU
 France-2,France,Breast Cancer,2016,688.0,1,2,FRA,EU
 France-2,France,Breast Cancer,2017,0,0,2,FRA,EU
 France-2,France,Breast Cancer,2018,337.0,2,2,FRA,EU
 France-2,France,Breast Cancer,2019,0,0,2,FRA,EU
-France-2,France,Lung Cancer,2010,0,0,2,FRA,EU
-France-2,France,Lung Cancer,2011,1249.0,1,2,FRA,EU
-France-2,France,Lung Cancer,2012,2339.0,1,2,FRA,EU
-France-2,France,Lung Cancer,2013,0,0,2,FRA,EU
-France-2,France,Lung Cancer,2014,0,0,2,FRA,EU
-France-2,France,Lung Cancer,2015,0,0,2,FRA,EU
-France-2,France,Lung Cancer,2016,0,0,2,FRA,EU
-France-2,France,Lung Cancer,2017,0,0,2,FRA,EU
-France-2,France,Lung Cancer,2018,0,0,2,FRA,EU
+France-2,France,Lung Cancer,2010,1559.0,8,2,FRA,EU
+France-2,France,Lung Cancer,2011,1583.5,8,2,FRA,EU
+France-2,France,Lung Cancer,2012,1532.9,10,2,FRA,EU
+France-2,France,Lung Cancer,2013,1446.6666666666667,6,2,FRA,EU
+France-2,France,Lung Cancer,2014,1539.0,3,2,FRA,EU
+France-2,France,Lung Cancer,2015,1477.5,4,2,FRA,EU
+France-2,France,Lung Cancer,2016,929.5,2,2,FRA,EU
+France-2,France,Lung Cancer,2017,825.0,1,2,FRA,EU
+France-2,France,Lung Cancer,2018,363.0,1,2,FRA,EU
 France-2,France,Lung Cancer,2019,0,0,2,FRA,EU
 France-2,France,Melanoma,2010,2123.0,1,2,FRA,EU
-France-2,France,Melanoma,2011,1249.0,1,2,FRA,EU
-France-2,France,Melanoma,2012,1186.0,1,2,FRA,EU
+France-2,France,Melanoma,2011,1116.3333333333333,3,2,FRA,EU
+France-2,France,Melanoma,2012,1226.0,3,2,FRA,EU
 France-2,France,Melanoma,2013,1798.0,1,2,FRA,EU
-France-2,France,Melanoma,2014,0,0,2,FRA,EU
-France-2,France,Melanoma,2015,1663.0,1,2,FRA,EU
+France-2,France,Melanoma,2014,1078.0,2,2,FRA,EU
+France-2,France,Melanoma,2015,1512.0,3,2,FRA,EU
 France-2,France,Melanoma,2016,0,0,2,FRA,EU
 France-2,France,Melanoma,2017,0,0,2,FRA,EU
 France-2,France,Melanoma,2018,0,0,2,FRA,EU
 France-2,France,Melanoma,2019,0,0,2,FRA,EU
-France-2,France,Prostate Cancer,2010,2330.5,2,2,FRA,EU
-France-2,France,Prostate Cancer,2011,1233.5,2,2,FRA,EU
+France-2,France,Prostate Cancer,2010,2152.3333333333335,3,2,FRA,EU
+France-2,France,Prostate Cancer,2011,1218.0,3,2,FRA,EU
 France-2,France,Prostate Cancer,2012,867.5,2,2,FRA,EU
-France-2,France,Prostate Cancer,2013,0,0,2,FRA,EU
+France-2,France,Prostate Cancer,2013,1142.5,2,2,FRA,EU
 France-2,France,Prostate Cancer,2014,744.0,1,2,FRA,EU
 France-2,France,Prostate Cancer,2015,1430.0,1,2,FRA,EU
 France-2,France,Prostate Cancer,2016,0,0,2,FRA,EU
 France-2,France,Prostate Cancer,2017,0,0,2,FRA,EU
 France-2,France,Prostate Cancer,2018,363.0,1,2,FRA,EU
 France-2,France,Prostate Cancer,2019,0,0,2,FRA,EU
-France-3,France,Breast Cancer,2010,1959.8333333333333,6,3,FRA,EU
-France-3,France,Breast Cancer,2011,1597.75,4,3,FRA,EU
+France-3,France,Breast Cancer,2010,2132.8571428571427,7,3,FRA,EU
+France-3,France,Breast Cancer,2011,1752.857142857143,7,3,FRA,EU
 France-3,France,Breast Cancer,2012,0,0,3,FRA,EU
 France-3,France,Breast Cancer,2013,1636.3333333333333,3,3,FRA,EU
 France-3,France,Breast Cancer,2014,0,0,3,FRA,EU
@@ -569,28 +569,28 @@ France-3,France,Breast Cancer,2016,1074.0,1,3,FRA,EU
 France-3,France,Breast Cancer,2017,0,0,3,FRA,EU
 France-3,France,Breast Cancer,2018,0,0,3,FRA,EU
 France-3,France,Breast Cancer,2019,0,0,3,FRA,EU
-France-3,France,Lung Cancer,2010,0,0,3,FRA,EU
-France-3,France,Lung Cancer,2011,0,0,3,FRA,EU
-France-3,France,Lung Cancer,2012,0,0,3,FRA,EU
-France-3,France,Lung Cancer,2013,0,0,3,FRA,EU
-France-3,France,Lung Cancer,2014,1371.0,1,3,FRA,EU
-France-3,France,Lung Cancer,2015,0,0,3,FRA,EU
+France-3,France,Lung Cancer,2010,1650.0,5,3,FRA,EU
+France-3,France,Lung Cancer,2011,1521.2,5,3,FRA,EU
+France-3,France,Lung Cancer,2012,2390.0,2,3,FRA,EU
+France-3,France,Lung Cancer,2013,1014.6666666666666,3,3,FRA,EU
+France-3,France,Lung Cancer,2014,1568.0,2,3,FRA,EU
+France-3,France,Lung Cancer,2015,1014.0,1,3,FRA,EU
 France-3,France,Lung Cancer,2016,0,0,3,FRA,EU
 France-3,France,Lung Cancer,2017,0,0,3,FRA,EU
 France-3,France,Lung Cancer,2018,0,0,3,FRA,EU
 France-3,France,Lung Cancer,2019,0,0,3,FRA,EU
-France-3,France,Melanoma,2010,2216.0,1,3,FRA,EU
+France-3,France,Melanoma,2010,2111.5,2,3,FRA,EU
 France-3,France,Melanoma,2011,0,0,3,FRA,EU
 France-3,France,Melanoma,2012,2503.5,2,3,FRA,EU
-France-3,France,Melanoma,2013,0,0,3,FRA,EU
-France-3,France,Melanoma,2014,0,0,3,FRA,EU
+France-3,France,Melanoma,2013,2384.0,1,3,FRA,EU
+France-3,France,Melanoma,2014,914.0,1,3,FRA,EU
 France-3,France,Melanoma,2015,0,0,3,FRA,EU
 France-3,France,Melanoma,2016,1093.0,1,3,FRA,EU
 France-3,France,Melanoma,2017,0,0,3,FRA,EU
 France-3,France,Melanoma,2018,0,0,3,FRA,EU
 France-3,France,Melanoma,2019,0,0,3,FRA,EU
 France-3,France,Prostate Cancer,2010,2105.0,3,3,FRA,EU
-France-3,France,Prostate Cancer,2011,2099.5,2,3,FRA,EU
+France-3,France,Prostate Cancer,2011,2215.25,4,3,FRA,EU
 France-3,France,Prostate Cancer,2012,1201.5,2,3,FRA,EU
 France-3,France,Prostate Cancer,2013,763.5,2,3,FRA,EU
 France-3,France,Prostate Cancer,2014,0,0,3,FRA,EU
@@ -599,78 +599,78 @@ France-3,France,Prostate Cancer,2016,0,0,3,FRA,EU
 France-3,France,Prostate Cancer,2017,0,0,3,FRA,EU
 France-3,France,Prostate Cancer,2018,0,0,3,FRA,EU
 France-3,France,Prostate Cancer,2019,0,0,3,FRA,EU
-Germany-1,Germany,Breast Cancer,2010,0,0,1,DEU,EU
+Germany-1,Germany,Breast Cancer,2010,1354.0,2,1,DEU,EU
 Germany-1,Germany,Breast Cancer,2011,0,0,1,DEU,EU
-Germany-1,Germany,Breast Cancer,2012,0,0,1,DEU,EU
+Germany-1,Germany,Breast Cancer,2012,1004.0,1,1,DEU,EU
 Germany-1,Germany,Breast Cancer,2013,1158.0,1,1,DEU,EU
 Germany-1,Germany,Breast Cancer,2014,1316.0,1,1,DEU,EU
 Germany-1,Germany,Breast Cancer,2015,0,0,1,DEU,EU
 Germany-1,Germany,Breast Cancer,2016,0,0,1,DEU,EU
-Germany-1,Germany,Breast Cancer,2017,0,0,1,DEU,EU
+Germany-1,Germany,Breast Cancer,2017,524.5,2,1,DEU,EU
 Germany-1,Germany,Breast Cancer,2018,0,0,1,DEU,EU
 Germany-1,Germany,Breast Cancer,2019,0,0,1,DEU,EU
-Germany-1,Germany,Lung Cancer,2010,0,0,1,DEU,EU
-Germany-1,Germany,Lung Cancer,2011,2170.0,1,1,DEU,EU
+Germany-1,Germany,Lung Cancer,2010,1090.0,2,1,DEU,EU
+Germany-1,Germany,Lung Cancer,2011,1723.5,2,1,DEU,EU
 Germany-1,Germany,Lung Cancer,2012,0,0,1,DEU,EU
 Germany-1,Germany,Lung Cancer,2013,0,0,1,DEU,EU
 Germany-1,Germany,Lung Cancer,2014,0,0,1,DEU,EU
 Germany-1,Germany,Lung Cancer,2015,0,0,1,DEU,EU
-Germany-1,Germany,Lung Cancer,2016,0,0,1,DEU,EU
-Germany-1,Germany,Lung Cancer,2017,0,0,1,DEU,EU
+Germany-1,Germany,Lung Cancer,2016,703.0,2,1,DEU,EU
+Germany-1,Germany,Lung Cancer,2017,825.0,1,1,DEU,EU
 Germany-1,Germany,Lung Cancer,2018,0,0,1,DEU,EU
 Germany-1,Germany,Lung Cancer,2019,0,0,1,DEU,EU
-Germany-1,Germany,Melanoma,2010,2363.0,1,1,DEU,EU
+Germany-1,Germany,Melanoma,2010,2019.0,2,1,DEU,EU
 Germany-1,Germany,Melanoma,2011,2633.0,1,1,DEU,EU
-Germany-1,Germany,Melanoma,2012,1125.0,1,1,DEU,EU
-Germany-1,Germany,Melanoma,2013,2130.0,1,1,DEU,EU
+Germany-1,Germany,Melanoma,2012,1003.0,2,1,DEU,EU
+Germany-1,Germany,Melanoma,2013,1091.75,4,1,DEU,EU
 Germany-1,Germany,Melanoma,2014,0,0,1,DEU,EU
-Germany-1,Germany,Melanoma,2015,0,0,1,DEU,EU
+Germany-1,Germany,Melanoma,2015,1694.0,1,1,DEU,EU
 Germany-1,Germany,Melanoma,2016,0,0,1,DEU,EU
 Germany-1,Germany,Melanoma,2017,0,0,1,DEU,EU
 Germany-1,Germany,Melanoma,2018,0,0,1,DEU,EU
 Germany-1,Germany,Melanoma,2019,0,0,1,DEU,EU
 Germany-1,Germany,Prostate Cancer,2010,0,0,1,DEU,EU
 Germany-1,Germany,Prostate Cancer,2011,0,0,1,DEU,EU
-Germany-1,Germany,Prostate Cancer,2012,0,0,1,DEU,EU
-Germany-1,Germany,Prostate Cancer,2013,0,0,1,DEU,EU
+Germany-1,Germany,Prostate Cancer,2012,120.0,1,1,DEU,EU
+Germany-1,Germany,Prostate Cancer,2013,2076.0,1,1,DEU,EU
 Germany-1,Germany,Prostate Cancer,2014,0,0,1,DEU,EU
 Germany-1,Germany,Prostate Cancer,2015,0,0,1,DEU,EU
 Germany-1,Germany,Prostate Cancer,2016,0,0,1,DEU,EU
 Germany-1,Germany,Prostate Cancer,2017,0,0,1,DEU,EU
 Germany-1,Germany,Prostate Cancer,2018,0,0,1,DEU,EU
 Germany-1,Germany,Prostate Cancer,2019,0,0,1,DEU,EU
-Germany-2,Germany,Breast Cancer,2010,974.0,1,2,DEU,EU
-Germany-2,Germany,Breast Cancer,2011,1842.0,2,2,DEU,EU
-Germany-2,Germany,Breast Cancer,2012,1156.0,2,2,DEU,EU
-Germany-2,Germany,Breast Cancer,2013,1258.0,3,2,DEU,EU
+Germany-2,Germany,Breast Cancer,2010,1486.6666666666667,6,2,DEU,EU
+Germany-2,Germany,Breast Cancer,2011,1838.0,4,2,DEU,EU
+Germany-2,Germany,Breast Cancer,2012,1185.5,4,2,DEU,EU
+Germany-2,Germany,Breast Cancer,2013,1084.7142857142858,7,2,DEU,EU
 Germany-2,Germany,Breast Cancer,2014,1038.6666666666667,3,2,DEU,EU
 Germany-2,Germany,Breast Cancer,2015,922.0,1,2,DEU,EU
-Germany-2,Germany,Breast Cancer,2016,610.0,1,2,DEU,EU
+Germany-2,Germany,Breast Cancer,2016,713.5,2,2,DEU,EU
 Germany-2,Germany,Breast Cancer,2017,0,0,2,DEU,EU
 Germany-2,Germany,Breast Cancer,2018,0,0,2,DEU,EU
 Germany-2,Germany,Breast Cancer,2019,0,0,2,DEU,EU
-Germany-2,Germany,Lung Cancer,2010,0,0,2,DEU,EU
-Germany-2,Germany,Lung Cancer,2011,2170.0,1,2,DEU,EU
-Germany-2,Germany,Lung Cancer,2012,2339.0,1,2,DEU,EU
-Germany-2,Germany,Lung Cancer,2013,0,0,2,DEU,EU
-Germany-2,Germany,Lung Cancer,2014,0,0,2,DEU,EU
-Germany-2,Germany,Lung Cancer,2015,0,0,2,DEU,EU
-Germany-2,Germany,Lung Cancer,2016,0,0,2,DEU,EU
-Germany-2,Germany,Lung Cancer,2017,0,0,2,DEU,EU
+Germany-2,Germany,Lung Cancer,2010,992.125,8,2,DEU,EU
+Germany-2,Germany,Lung Cancer,2011,1554.7142857142858,7,2,DEU,EU
+Germany-2,Germany,Lung Cancer,2012,1431.5714285714287,7,2,DEU,EU
+Germany-2,Germany,Lung Cancer,2013,1524.0,4,2,DEU,EU
+Germany-2,Germany,Lung Cancer,2014,1406.0,4,2,DEU,EU
+Germany-2,Germany,Lung Cancer,2015,1455.0,2,2,DEU,EU
+Germany-2,Germany,Lung Cancer,2016,1067.5,2,2,DEU,EU
+Germany-2,Germany,Lung Cancer,2017,825.0,1,2,DEU,EU
 Germany-2,Germany,Lung Cancer,2018,0,0,2,DEU,EU
 Germany-2,Germany,Lung Cancer,2019,0,0,2,DEU,EU
-Germany-2,Germany,Melanoma,2010,1883.5,2,2,DEU,EU
-Germany-2,Germany,Melanoma,2011,0,0,2,DEU,EU
-Germany-2,Germany,Melanoma,2012,0,0,2,DEU,EU
-Germany-2,Germany,Melanoma,2013,0,0,2,DEU,EU
-Germany-2,Germany,Melanoma,2014,1564.0,1,2,DEU,EU
-Germany-2,Germany,Melanoma,2015,0,0,2,DEU,EU
+Germany-2,Germany,Melanoma,2010,1724.0,6,2,DEU,EU
+Germany-2,Germany,Melanoma,2011,875.25,4,2,DEU,EU
+Germany-2,Germany,Melanoma,2012,1317.5,2,2,DEU,EU
+Germany-2,Germany,Melanoma,2013,1721.0,1,2,DEU,EU
+Germany-2,Germany,Melanoma,2014,1509.0,2,2,DEU,EU
+Germany-2,Germany,Melanoma,2015,1694.0,1,2,DEU,EU
 Germany-2,Germany,Melanoma,2016,0,0,2,DEU,EU
 Germany-2,Germany,Melanoma,2017,0,0,2,DEU,EU
 Germany-2,Germany,Melanoma,2018,0,0,2,DEU,EU
 Germany-2,Germany,Melanoma,2019,0,0,2,DEU,EU
 Germany-2,Germany,Prostate Cancer,2010,806.5,2,2,DEU,EU
-Germany-2,Germany,Prostate Cancer,2011,2183.0,1,2,DEU,EU
+Germany-2,Germany,Prostate Cancer,2011,1685.0,2,2,DEU,EU
 Germany-2,Germany,Prostate Cancer,2012,1550.0,2,2,DEU,EU
 Germany-2,Germany,Prostate Cancer,2013,1785.0,1,2,DEU,EU
 Germany-2,Germany,Prostate Cancer,2014,744.0,1,2,DEU,EU
@@ -680,37 +680,37 @@ Germany-2,Germany,Prostate Cancer,2017,0,0,2,DEU,EU
 Germany-2,Germany,Prostate Cancer,2018,0,0,2,DEU,EU
 Germany-2,Germany,Prostate Cancer,2019,0,0,2,DEU,EU
 Germany-3,Germany,Breast Cancer,2010,1615.75,4,3,DEU,EU
-Germany-3,Germany,Breast Cancer,2011,1489.0,1,3,DEU,EU
-Germany-3,Germany,Breast Cancer,2012,0,0,3,DEU,EU
+Germany-3,Germany,Breast Cancer,2011,1411.5,4,3,DEU,EU
+Germany-3,Germany,Breast Cancer,2012,1509.6666666666667,3,3,DEU,EU
 Germany-3,Germany,Breast Cancer,2013,1248.5,2,3,DEU,EU
-Germany-3,Germany,Breast Cancer,2014,0,0,3,DEU,EU
+Germany-3,Germany,Breast Cancer,2014,787.0,1,3,DEU,EU
 Germany-3,Germany,Breast Cancer,2015,1388.0,1,3,DEU,EU
 Germany-3,Germany,Breast Cancer,2016,0,0,3,DEU,EU
 Germany-3,Germany,Breast Cancer,2017,0,0,3,DEU,EU
 Germany-3,Germany,Breast Cancer,2018,0,0,3,DEU,EU
 Germany-3,Germany,Breast Cancer,2019,0,0,3,DEU,EU
-Germany-3,Germany,Lung Cancer,2010,0,0,3,DEU,EU
-Germany-3,Germany,Lung Cancer,2011,0,0,3,DEU,EU
-Germany-3,Germany,Lung Cancer,2012,0,0,3,DEU,EU
-Germany-3,Germany,Lung Cancer,2013,0,0,3,DEU,EU
-Germany-3,Germany,Lung Cancer,2014,0,0,3,DEU,EU
-Germany-3,Germany,Lung Cancer,2015,0,0,3,DEU,EU
+Germany-3,Germany,Lung Cancer,2010,1652.0,4,3,DEU,EU
+Germany-3,Germany,Lung Cancer,2011,1521.2,5,3,DEU,EU
+Germany-3,Germany,Lung Cancer,2012,2806.0,1,3,DEU,EU
+Germany-3,Germany,Lung Cancer,2013,806.5,2,3,DEU,EU
+Germany-3,Germany,Lung Cancer,2014,1531.5,2,3,DEU,EU
+Germany-3,Germany,Lung Cancer,2015,1014.0,1,3,DEU,EU
 Germany-3,Germany,Lung Cancer,2016,826.0,1,3,DEU,EU
 Germany-3,Germany,Lung Cancer,2017,0,0,3,DEU,EU
 Germany-3,Germany,Lung Cancer,2018,0,0,3,DEU,EU
 Germany-3,Germany,Lung Cancer,2019,0,0,3,DEU,EU
-Germany-3,Germany,Melanoma,2010,2216.0,1,3,DEU,EU
+Germany-3,Germany,Melanoma,2010,2111.5,2,3,DEU,EU
 Germany-3,Germany,Melanoma,2011,0,0,3,DEU,EU
 Germany-3,Germany,Melanoma,2012,2503.5,2,3,DEU,EU
-Germany-3,Germany,Melanoma,2013,0,0,3,DEU,EU
-Germany-3,Germany,Melanoma,2014,0,0,3,DEU,EU
+Germany-3,Germany,Melanoma,2013,2384.0,1,3,DEU,EU
+Germany-3,Germany,Melanoma,2014,914.0,1,3,DEU,EU
 Germany-3,Germany,Melanoma,2015,0,0,3,DEU,EU
 Germany-3,Germany,Melanoma,2016,0,0,3,DEU,EU
 Germany-3,Germany,Melanoma,2017,0,0,3,DEU,EU
 Germany-3,Germany,Melanoma,2018,0,0,3,DEU,EU
 Germany-3,Germany,Melanoma,2019,0,0,3,DEU,EU
 Germany-3,Germany,Prostate Cancer,2010,2191.5,2,3,DEU,EU
-Germany-3,Germany,Prostate Cancer,2011,2099.5,2,3,DEU,EU
+Germany-3,Germany,Prostate Cancer,2011,2136.0,3,3,DEU,EU
 Germany-3,Germany,Prostate Cancer,2012,973.0,1,3,DEU,EU
 Germany-3,Germany,Prostate Cancer,2013,0,0,3,DEU,EU
 Germany-3,Germany,Prostate Cancer,2014,0,0,3,DEU,EU
@@ -760,7 +760,7 @@ Ireland-1,Ireland,Prostate Cancer,2017,0,0,1,IRL,EU
 Ireland-1,Ireland,Prostate Cancer,2018,0,0,1,IRL,EU
 Ireland-1,Ireland,Prostate Cancer,2019,0,0,1,IRL,EU
 Ireland-2,Ireland,Breast Cancer,2010,2769.0,1,2,IRL,EU
-Ireland-2,Ireland,Breast Cancer,2011,0,0,2,IRL,EU
+Ireland-2,Ireland,Breast Cancer,2011,2541.0,1,2,IRL,EU
 Ireland-2,Ireland,Breast Cancer,2012,0,0,2,IRL,EU
 Ireland-2,Ireland,Breast Cancer,2013,1980.0,1,2,IRL,EU
 Ireland-2,Ireland,Breast Cancer,2014,0,0,2,IRL,EU
@@ -810,7 +810,7 @@ Ireland-3,Ireland,Breast Cancer,2017,0,0,3,IRL,EU
 Ireland-3,Ireland,Breast Cancer,2018,0,0,3,IRL,EU
 Ireland-3,Ireland,Breast Cancer,2019,0,0,3,IRL,EU
 Ireland-3,Ireland,Lung Cancer,2010,0,0,3,IRL,EU
-Ireland-3,Ireland,Lung Cancer,2011,0,0,3,IRL,EU
+Ireland-3,Ireland,Lung Cancer,2011,1551.0,1,3,IRL,EU
 Ireland-3,Ireland,Lung Cancer,2012,0,0,3,IRL,EU
 Ireland-3,Ireland,Lung Cancer,2013,0,0,3,IRL,EU
 Ireland-3,Ireland,Lung Cancer,2014,0,0,3,IRL,EU
@@ -829,7 +829,7 @@ Ireland-3,Ireland,Melanoma,2016,0,0,3,IRL,EU
 Ireland-3,Ireland,Melanoma,2017,0,0,3,IRL,EU
 Ireland-3,Ireland,Melanoma,2018,0,0,3,IRL,EU
 Ireland-3,Ireland,Melanoma,2019,0,0,3,IRL,EU
-Ireland-3,Ireland,Prostate Cancer,2010,0,0,3,IRL,EU
+Ireland-3,Ireland,Prostate Cancer,2010,1461.0,1,3,IRL,EU
 Ireland-3,Ireland,Prostate Cancer,2011,0,0,3,IRL,EU
 Ireland-3,Ireland,Prostate Cancer,2012,973.0,1,3,IRL,EU
 Ireland-3,Ireland,Prostate Cancer,2013,0,0,3,IRL,EU
@@ -839,30 +839,30 @@ Ireland-3,Ireland,Prostate Cancer,2016,0,0,3,IRL,EU
 Ireland-3,Ireland,Prostate Cancer,2017,0,0,3,IRL,EU
 Ireland-3,Ireland,Prostate Cancer,2018,0,0,3,IRL,EU
 Ireland-3,Ireland,Prostate Cancer,2019,0,0,3,IRL,EU
-Italy-1,Italy,Breast Cancer,2010,0,0,1,ITA,EU
-Italy-1,Italy,Breast Cancer,2011,1431.0,1,1,ITA,EU
-Italy-1,Italy,Breast Cancer,2012,943.0,1,1,ITA,EU
+Italy-1,Italy,Breast Cancer,2010,1400.0,1,1,ITA,EU
+Italy-1,Italy,Breast Cancer,2011,1171.5,2,1,ITA,EU
+Italy-1,Italy,Breast Cancer,2012,1212.5,4,1,ITA,EU
 Italy-1,Italy,Breast Cancer,2013,1760.0,1,1,ITA,EU
-Italy-1,Italy,Breast Cancer,2014,1429.0,1,1,ITA,EU
-Italy-1,Italy,Breast Cancer,2015,0,0,1,ITA,EU
+Italy-1,Italy,Breast Cancer,2014,1201.0,2,1,ITA,EU
+Italy-1,Italy,Breast Cancer,2015,1189.0,1,1,ITA,EU
 Italy-1,Italy,Breast Cancer,2016,0,0,1,ITA,EU
 Italy-1,Italy,Breast Cancer,2017,0,0,1,ITA,EU
 Italy-1,Italy,Breast Cancer,2018,0,0,1,ITA,EU
 Italy-1,Italy,Breast Cancer,2019,0,0,1,ITA,EU
-Italy-1,Italy,Lung Cancer,2010,0,0,1,ITA,EU
-Italy-1,Italy,Lung Cancer,2011,0,0,1,ITA,EU
+Italy-1,Italy,Lung Cancer,2010,1175.0,1,1,ITA,EU
+Italy-1,Italy,Lung Cancer,2011,1431.0,1,1,ITA,EU
 Italy-1,Italy,Lung Cancer,2012,0,0,1,ITA,EU
-Italy-1,Italy,Lung Cancer,2013,2153.0,1,1,ITA,EU
+Italy-1,Italy,Lung Cancer,2013,1548.5,2,1,ITA,EU
 Italy-1,Italy,Lung Cancer,2014,0,0,1,ITA,EU
-Italy-1,Italy,Lung Cancer,2015,0,0,1,ITA,EU
+Italy-1,Italy,Lung Cancer,2015,1231.0,1,1,ITA,EU
 Italy-1,Italy,Lung Cancer,2016,0,0,1,ITA,EU
-Italy-1,Italy,Lung Cancer,2017,0,0,1,ITA,EU
+Italy-1,Italy,Lung Cancer,2017,825.0,1,1,ITA,EU
 Italy-1,Italy,Lung Cancer,2018,0,0,1,ITA,EU
 Italy-1,Italy,Lung Cancer,2019,0,0,1,ITA,EU
-Italy-1,Italy,Melanoma,2010,2363.0,1,1,ITA,EU
-Italy-1,Italy,Melanoma,2011,2032.0,2,1,ITA,EU
+Italy-1,Italy,Melanoma,2010,2019.0,2,1,ITA,EU
+Italy-1,Italy,Melanoma,2011,2288.3333333333335,3,1,ITA,EU
 Italy-1,Italy,Melanoma,2012,0,0,1,ITA,EU
-Italy-1,Italy,Melanoma,2013,1714.6666666666667,3,1,ITA,EU
+Italy-1,Italy,Melanoma,2013,1716.25,4,1,ITA,EU
 Italy-1,Italy,Melanoma,2014,1453.0,1,1,ITA,EU
 Italy-1,Italy,Melanoma,2015,0,0,1,ITA,EU
 Italy-1,Italy,Melanoma,2016,0,0,1,ITA,EU
@@ -870,7 +870,7 @@ Italy-1,Italy,Melanoma,2017,0,0,1,ITA,EU
 Italy-1,Italy,Melanoma,2018,0,0,1,ITA,EU
 Italy-1,Italy,Melanoma,2019,0,0,1,ITA,EU
 Italy-1,Italy,Prostate Cancer,2010,0,0,1,ITA,EU
-Italy-1,Italy,Prostate Cancer,2011,517.0,1,1,ITA,EU
+Italy-1,Italy,Prostate Cancer,2011,714.5,2,1,ITA,EU
 Italy-1,Italy,Prostate Cancer,2012,0,0,1,ITA,EU
 Italy-1,Italy,Prostate Cancer,2013,0,0,1,ITA,EU
 Italy-1,Italy,Prostate Cancer,2014,0,0,1,ITA,EU
@@ -879,31 +879,31 @@ Italy-1,Italy,Prostate Cancer,2016,0,0,1,ITA,EU
 Italy-1,Italy,Prostate Cancer,2017,0,0,1,ITA,EU
 Italy-1,Italy,Prostate Cancer,2018,0,0,1,ITA,EU
 Italy-1,Italy,Prostate Cancer,2019,0,0,1,ITA,EU
-Italy-2,Italy,Breast Cancer,2010,1608.5,2,2,ITA,EU
+Italy-2,Italy,Breast Cancer,2010,1357.6666666666667,6,2,ITA,EU
 Italy-2,Italy,Breast Cancer,2011,1354.0,2,2,ITA,EU
 Italy-2,Italy,Breast Cancer,2012,1755.25,4,2,ITA,EU
-Italy-2,Italy,Breast Cancer,2013,1371.3333333333333,3,2,ITA,EU
-Italy-2,Italy,Breast Cancer,2014,1033.5,2,2,ITA,EU
+Italy-2,Italy,Breast Cancer,2013,1462.5,4,2,ITA,EU
+Italy-2,Italy,Breast Cancer,2014,1154.8,5,2,ITA,EU
 Italy-2,Italy,Breast Cancer,2015,1292.5,2,2,ITA,EU
 Italy-2,Italy,Breast Cancer,2016,0,0,2,ITA,EU
-Italy-2,Italy,Breast Cancer,2017,0,0,2,ITA,EU
+Italy-2,Italy,Breast Cancer,2017,517.0,1,2,ITA,EU
 Italy-2,Italy,Breast Cancer,2018,0,0,2,ITA,EU
 Italy-2,Italy,Breast Cancer,2019,0,0,2,ITA,EU
-Italy-2,Italy,Lung Cancer,2010,0,0,2,ITA,EU
-Italy-2,Italy,Lung Cancer,2011,761.0,1,2,ITA,EU
-Italy-2,Italy,Lung Cancer,2012,1534.5,2,2,ITA,EU
-Italy-2,Italy,Lung Cancer,2013,518.0,1,2,ITA,EU
-Italy-2,Italy,Lung Cancer,2014,0,0,2,ITA,EU
-Italy-2,Italy,Lung Cancer,2015,0,0,2,ITA,EU
-Italy-2,Italy,Lung Cancer,2016,0,0,2,ITA,EU
-Italy-2,Italy,Lung Cancer,2017,0,0,2,ITA,EU
+Italy-2,Italy,Lung Cancer,2010,1159.0,7,2,ITA,EU
+Italy-2,Italy,Lung Cancer,2011,1135.3333333333333,6,2,ITA,EU
+Italy-2,Italy,Lung Cancer,2012,1401.111111111111,9,2,ITA,EU
+Italy-2,Italy,Lung Cancer,2013,1473.25,4,2,ITA,EU
+Italy-2,Italy,Lung Cancer,2014,1438.0,3,2,ITA,EU
+Italy-2,Italy,Lung Cancer,2015,1419.3333333333333,3,2,ITA,EU
+Italy-2,Italy,Lung Cancer,2016,852.0,1,2,ITA,EU
+Italy-2,Italy,Lung Cancer,2017,825.0,1,2,ITA,EU
 Italy-2,Italy,Lung Cancer,2018,0,0,2,ITA,EU
 Italy-2,Italy,Lung Cancer,2019,0,0,2,ITA,EU
-Italy-2,Italy,Melanoma,2010,1883.5,2,2,ITA,EU
-Italy-2,Italy,Melanoma,2011,0,0,2,ITA,EU
-Italy-2,Italy,Melanoma,2012,0,0,2,ITA,EU
-Italy-2,Italy,Melanoma,2013,1798.0,1,2,ITA,EU
-Italy-2,Italy,Melanoma,2014,1508.5,2,2,ITA,EU
+Italy-2,Italy,Melanoma,2010,1748.75,4,2,ITA,EU
+Italy-2,Italy,Melanoma,2011,1050.0,2,2,ITA,EU
+Italy-2,Italy,Melanoma,2012,1150.0,2,2,ITA,EU
+Italy-2,Italy,Melanoma,2013,1487.0,3,2,ITA,EU
+Italy-2,Italy,Melanoma,2014,1490.3333333333333,3,2,ITA,EU
 Italy-2,Italy,Melanoma,2015,1663.0,1,2,ITA,EU
 Italy-2,Italy,Melanoma,2016,0,0,2,ITA,EU
 Italy-2,Italy,Melanoma,2017,0,0,2,ITA,EU
@@ -920,37 +920,37 @@ Italy-2,Italy,Prostate Cancer,2017,0,0,2,ITA,EU
 Italy-2,Italy,Prostate Cancer,2018,0,0,2,ITA,EU
 Italy-2,Italy,Prostate Cancer,2019,0,0,2,ITA,EU
 Italy-3,Italy,Breast Cancer,2010,1724.5,2,3,ITA,EU
-Italy-3,Italy,Breast Cancer,2011,1489.0,1,3,ITA,EU
-Italy-3,Italy,Breast Cancer,2012,0,0,3,ITA,EU
+Italy-3,Italy,Breast Cancer,2011,1862.0,3,3,ITA,EU
+Italy-3,Italy,Breast Cancer,2012,1912.0,1,3,ITA,EU
 Italy-3,Italy,Breast Cancer,2013,1363.3333333333333,3,3,ITA,EU
-Italy-3,Italy,Breast Cancer,2014,0,0,3,ITA,EU
-Italy-3,Italy,Breast Cancer,2015,1388.0,1,3,ITA,EU
+Italy-3,Italy,Breast Cancer,2014,533.0,1,3,ITA,EU
+Italy-3,Italy,Breast Cancer,2015,1059.0,2,3,ITA,EU
 Italy-3,Italy,Breast Cancer,2016,1074.0,1,3,ITA,EU
 Italy-3,Italy,Breast Cancer,2017,0,0,3,ITA,EU
 Italy-3,Italy,Breast Cancer,2018,0,0,3,ITA,EU
 Italy-3,Italy,Breast Cancer,2019,0,0,3,ITA,EU
-Italy-3,Italy,Lung Cancer,2010,0,0,3,ITA,EU
-Italy-3,Italy,Lung Cancer,2011,0,0,3,ITA,EU
-Italy-3,Italy,Lung Cancer,2012,0,0,3,ITA,EU
-Italy-3,Italy,Lung Cancer,2013,0,0,3,ITA,EU
-Italy-3,Italy,Lung Cancer,2014,0,0,3,ITA,EU
-Italy-3,Italy,Lung Cancer,2015,1309.0,1,3,ITA,EU
+Italy-3,Italy,Lung Cancer,2010,1796.3333333333333,3,3,ITA,EU
+Italy-3,Italy,Lung Cancer,2011,1513.75,4,3,ITA,EU
+Italy-3,Italy,Lung Cancer,2012,2806.0,1,3,ITA,EU
+Italy-3,Italy,Lung Cancer,2013,1186.0,1,3,ITA,EU
+Italy-3,Italy,Lung Cancer,2014,1765.0,1,3,ITA,EU
+Italy-3,Italy,Lung Cancer,2015,1161.5,2,3,ITA,EU
 Italy-3,Italy,Lung Cancer,2016,0,0,3,ITA,EU
 Italy-3,Italy,Lung Cancer,2017,364.0,1,3,ITA,EU
 Italy-3,Italy,Lung Cancer,2018,0,0,3,ITA,EU
 Italy-3,Italy,Lung Cancer,2019,0,0,3,ITA,EU
-Italy-3,Italy,Melanoma,2010,2216.0,1,3,ITA,EU
+Italy-3,Italy,Melanoma,2010,2111.5,2,3,ITA,EU
 Italy-3,Italy,Melanoma,2011,0,0,3,ITA,EU
 Italy-3,Italy,Melanoma,2012,2503.5,2,3,ITA,EU
-Italy-3,Italy,Melanoma,2013,0,0,3,ITA,EU
+Italy-3,Italy,Melanoma,2013,2384.0,1,3,ITA,EU
 Italy-3,Italy,Melanoma,2014,0,0,3,ITA,EU
 Italy-3,Italy,Melanoma,2015,0,0,3,ITA,EU
 Italy-3,Italy,Melanoma,2016,1093.0,1,3,ITA,EU
 Italy-3,Italy,Melanoma,2017,0,0,3,ITA,EU
 Italy-3,Italy,Melanoma,2018,0,0,3,ITA,EU
 Italy-3,Italy,Melanoma,2019,0,0,3,ITA,EU
-Italy-3,Italy,Prostate Cancer,2010,2105.0,3,3,ITA,EU
-Italy-3,Italy,Prostate Cancer,2011,2099.5,2,3,ITA,EU
+Italy-3,Italy,Prostate Cancer,2010,1944.0,4,3,ITA,EU
+Italy-3,Italy,Prostate Cancer,2011,2217.3333333333335,3,3,ITA,EU
 Italy-3,Italy,Prostate Cancer,2012,973.0,1,3,ITA,EU
 Italy-3,Italy,Prostate Cancer,2013,0,0,3,ITA,EU
 Italy-3,Italy,Prostate Cancer,2014,0,0,3,ITA,EU
@@ -961,8 +961,8 @@ Italy-3,Italy,Prostate Cancer,2018,0,0,3,ITA,EU
 Italy-3,Italy,Prostate Cancer,2019,0,0,3,ITA,EU
 Netherlands-1,Netherlands,Breast Cancer,2010,670.5,2,1,NLD,EU
 Netherlands-1,Netherlands,Breast Cancer,2011,1218.5,2,1,NLD,EU
-Netherlands-1,Netherlands,Breast Cancer,2012,0,0,1,NLD,EU
-Netherlands-1,Netherlands,Breast Cancer,2013,700.0,2,1,NLD,EU
+Netherlands-1,Netherlands,Breast Cancer,2012,1776.0,1,1,NLD,EU
+Netherlands-1,Netherlands,Breast Cancer,2013,619.0,3,1,NLD,EU
 Netherlands-1,Netherlands,Breast Cancer,2014,0,0,1,NLD,EU
 Netherlands-1,Netherlands,Breast Cancer,2015,915.0,2,1,NLD,EU
 Netherlands-1,Netherlands,Breast Cancer,2016,0,0,1,NLD,EU
@@ -972,17 +972,17 @@ Netherlands-1,Netherlands,Breast Cancer,2019,0,0,1,NLD,EU
 Netherlands-1,Netherlands,Lung Cancer,2010,0,0,1,NLD,EU
 Netherlands-1,Netherlands,Lung Cancer,2011,1709.5,2,1,NLD,EU
 Netherlands-1,Netherlands,Lung Cancer,2012,0,0,1,NLD,EU
-Netherlands-1,Netherlands,Lung Cancer,2013,700.0,2,1,NLD,EU
-Netherlands-1,Netherlands,Lung Cancer,2014,0,0,1,NLD,EU
+Netherlands-1,Netherlands,Lung Cancer,2013,1160.6666666666667,3,1,NLD,EU
+Netherlands-1,Netherlands,Lung Cancer,2014,1647.0,1,1,NLD,EU
 Netherlands-1,Netherlands,Lung Cancer,2015,0,0,1,NLD,EU
 Netherlands-1,Netherlands,Lung Cancer,2016,0,0,1,NLD,EU
 Netherlands-1,Netherlands,Lung Cancer,2017,0,0,1,NLD,EU
 Netherlands-1,Netherlands,Lung Cancer,2018,0,0,1,NLD,EU
 Netherlands-1,Netherlands,Lung Cancer,2019,0,0,1,NLD,EU
 Netherlands-1,Netherlands,Melanoma,2010,1675.0,1,1,NLD,EU
-Netherlands-1,Netherlands,Melanoma,2011,1941.0,2,1,NLD,EU
-Netherlands-1,Netherlands,Melanoma,2012,0,0,1,NLD,EU
-Netherlands-1,Netherlands,Melanoma,2013,0,0,1,NLD,EU
+Netherlands-1,Netherlands,Melanoma,2011,2197.3333333333335,3,1,NLD,EU
+Netherlands-1,Netherlands,Melanoma,2012,2219.0,1,1,NLD,EU
+Netherlands-1,Netherlands,Melanoma,2013,745.6666666666666,3,1,NLD,EU
 Netherlands-1,Netherlands,Melanoma,2014,0,0,1,NLD,EU
 Netherlands-1,Netherlands,Melanoma,2015,0,0,1,NLD,EU
 Netherlands-1,Netherlands,Melanoma,2016,0,0,1,NLD,EU
@@ -999,30 +999,30 @@ Netherlands-1,Netherlands,Prostate Cancer,2016,0,0,1,NLD,EU
 Netherlands-1,Netherlands,Prostate Cancer,2017,0,0,1,NLD,EU
 Netherlands-1,Netherlands,Prostate Cancer,2018,0,0,1,NLD,EU
 Netherlands-1,Netherlands,Prostate Cancer,2019,0,0,1,NLD,EU
-Netherlands-2,Netherlands,Breast Cancer,2010,0,0,2,NLD,EU
-Netherlands-2,Netherlands,Breast Cancer,2011,1249.0,1,2,NLD,EU
+Netherlands-2,Netherlands,Breast Cancer,2010,1004.0,1,2,NLD,EU
+Netherlands-2,Netherlands,Breast Cancer,2011,1537.6666666666667,3,2,NLD,EU
 Netherlands-2,Netherlands,Breast Cancer,2012,0,0,2,NLD,EU
-Netherlands-2,Netherlands,Breast Cancer,2013,0,0,2,NLD,EU
-Netherlands-2,Netherlands,Breast Cancer,2014,1474.5,2,2,NLD,EU
+Netherlands-2,Netherlands,Breast Cancer,2013,944.0,1,2,NLD,EU
+Netherlands-2,Netherlands,Breast Cancer,2014,1115.0,3,2,NLD,EU
 Netherlands-2,Netherlands,Breast Cancer,2015,705.5,2,2,NLD,EU
 Netherlands-2,Netherlands,Breast Cancer,2016,1389.0,1,2,NLD,EU
-Netherlands-2,Netherlands,Breast Cancer,2017,0,0,2,NLD,EU
+Netherlands-2,Netherlands,Breast Cancer,2017,517.0,1,2,NLD,EU
 Netherlands-2,Netherlands,Breast Cancer,2018,363.0,1,2,NLD,EU
 Netherlands-2,Netherlands,Breast Cancer,2019,0,0,2,NLD,EU
-Netherlands-2,Netherlands,Lung Cancer,2010,0,0,2,NLD,EU
-Netherlands-2,Netherlands,Lung Cancer,2011,1709.5,2,2,NLD,EU
-Netherlands-2,Netherlands,Lung Cancer,2012,0,0,2,NLD,EU
-Netherlands-2,Netherlands,Lung Cancer,2013,0,0,2,NLD,EU
-Netherlands-2,Netherlands,Lung Cancer,2014,0,0,2,NLD,EU
-Netherlands-2,Netherlands,Lung Cancer,2015,0,0,2,NLD,EU
-Netherlands-2,Netherlands,Lung Cancer,2016,0,0,2,NLD,EU
+Netherlands-2,Netherlands,Lung Cancer,2010,806.0,2,2,NLD,EU
+Netherlands-2,Netherlands,Lung Cancer,2011,1621.8,5,2,NLD,EU
+Netherlands-2,Netherlands,Lung Cancer,2012,1375.0,2,2,NLD,EU
+Netherlands-2,Netherlands,Lung Cancer,2013,1365.3333333333333,3,2,NLD,EU
+Netherlands-2,Netherlands,Lung Cancer,2014,1731.0,2,2,NLD,EU
+Netherlands-2,Netherlands,Lung Cancer,2015,1407.0,1,2,NLD,EU
+Netherlands-2,Netherlands,Lung Cancer,2016,1007.0,1,2,NLD,EU
 Netherlands-2,Netherlands,Lung Cancer,2017,575.0,1,2,NLD,EU
-Netherlands-2,Netherlands,Lung Cancer,2018,0,0,2,NLD,EU
+Netherlands-2,Netherlands,Lung Cancer,2018,363.0,1,2,NLD,EU
 Netherlands-2,Netherlands,Lung Cancer,2019,0,0,2,NLD,EU
 Netherlands-2,Netherlands,Melanoma,2010,1659.5,2,2,NLD,EU
-Netherlands-2,Netherlands,Melanoma,2011,1567.5,2,2,NLD,EU
-Netherlands-2,Netherlands,Melanoma,2012,0,0,2,NLD,EU
-Netherlands-2,Netherlands,Melanoma,2013,0,0,2,NLD,EU
+Netherlands-2,Netherlands,Melanoma,2011,1532.0,3,2,NLD,EU
+Netherlands-2,Netherlands,Melanoma,2012,1419.0,1,2,NLD,EU
+Netherlands-2,Netherlands,Melanoma,2013,1721.0,1,2,NLD,EU
 Netherlands-2,Netherlands,Melanoma,2014,1564.0,1,2,NLD,EU
 Netherlands-2,Netherlands,Melanoma,2015,0,0,2,NLD,EU
 Netherlands-2,Netherlands,Melanoma,2016,0,0,2,NLD,EU
@@ -1030,47 +1030,47 @@ Netherlands-2,Netherlands,Melanoma,2017,0,0,2,NLD,EU
 Netherlands-2,Netherlands,Melanoma,2018,0,0,2,NLD,EU
 Netherlands-2,Netherlands,Melanoma,2019,0,0,2,NLD,EU
 Netherlands-2,Netherlands,Prostate Cancer,2010,0,0,2,NLD,EU
-Netherlands-2,Netherlands,Prostate Cancer,2011,0,0,2,NLD,EU
+Netherlands-2,Netherlands,Prostate Cancer,2011,1187.0,1,2,NLD,EU
 Netherlands-2,Netherlands,Prostate Cancer,2012,608.5,2,2,NLD,EU
 Netherlands-2,Netherlands,Prostate Cancer,2013,0,0,2,NLD,EU
 Netherlands-2,Netherlands,Prostate Cancer,2014,744.0,1,2,NLD,EU
 Netherlands-2,Netherlands,Prostate Cancer,2015,0,0,2,NLD,EU
-Netherlands-2,Netherlands,Prostate Cancer,2016,0,0,2,NLD,EU
+Netherlands-2,Netherlands,Prostate Cancer,2016,940.0,1,2,NLD,EU
 Netherlands-2,Netherlands,Prostate Cancer,2017,0,0,2,NLD,EU
 Netherlands-2,Netherlands,Prostate Cancer,2018,363.0,1,2,NLD,EU
 Netherlands-2,Netherlands,Prostate Cancer,2019,0,0,2,NLD,EU
-Netherlands-3,Netherlands,Breast Cancer,2010,1536.3333333333333,3,3,NLD,EU
-Netherlands-3,Netherlands,Breast Cancer,2011,0,0,3,NLD,EU
-Netherlands-3,Netherlands,Breast Cancer,2012,0,0,3,NLD,EU
+Netherlands-3,Netherlands,Breast Cancer,2010,1919.5,4,3,NLD,EU
+Netherlands-3,Netherlands,Breast Cancer,2011,1644.0,1,3,NLD,EU
+Netherlands-3,Netherlands,Breast Cancer,2012,1826.0,1,3,NLD,EU
 Netherlands-3,Netherlands,Breast Cancer,2013,0,0,3,NLD,EU
 Netherlands-3,Netherlands,Breast Cancer,2014,1700.0,2,3,NLD,EU
-Netherlands-3,Netherlands,Breast Cancer,2015,0,0,3,NLD,EU
+Netherlands-3,Netherlands,Breast Cancer,2015,1461.0,1,3,NLD,EU
 Netherlands-3,Netherlands,Breast Cancer,2016,1074.0,1,3,NLD,EU
 Netherlands-3,Netherlands,Breast Cancer,2017,0,0,3,NLD,EU
 Netherlands-3,Netherlands,Breast Cancer,2018,0,0,3,NLD,EU
 Netherlands-3,Netherlands,Breast Cancer,2019,0,0,3,NLD,EU
-Netherlands-3,Netherlands,Lung Cancer,2010,0,0,3,NLD,EU
-Netherlands-3,Netherlands,Lung Cancer,2011,0,0,3,NLD,EU
+Netherlands-3,Netherlands,Lung Cancer,2010,1652.0,4,3,NLD,EU
+Netherlands-3,Netherlands,Lung Cancer,2011,1569.0,2,3,NLD,EU
 Netherlands-3,Netherlands,Lung Cancer,2012,0,0,3,NLD,EU
 Netherlands-3,Netherlands,Lung Cancer,2013,0,0,3,NLD,EU
-Netherlands-3,Netherlands,Lung Cancer,2014,0,0,3,NLD,EU
+Netherlands-3,Netherlands,Lung Cancer,2014,1765.0,1,3,NLD,EU
 Netherlands-3,Netherlands,Lung Cancer,2015,0,0,3,NLD,EU
 Netherlands-3,Netherlands,Lung Cancer,2016,0,0,3,NLD,EU
 Netherlands-3,Netherlands,Lung Cancer,2017,0,0,3,NLD,EU
 Netherlands-3,Netherlands,Lung Cancer,2018,0,0,3,NLD,EU
 Netherlands-3,Netherlands,Lung Cancer,2019,0,0,3,NLD,EU
-Netherlands-3,Netherlands,Melanoma,2010,0,0,3,NLD,EU
+Netherlands-3,Netherlands,Melanoma,2010,2007.0,1,3,NLD,EU
 Netherlands-3,Netherlands,Melanoma,2011,0,0,3,NLD,EU
 Netherlands-3,Netherlands,Melanoma,2012,2503.5,2,3,NLD,EU
-Netherlands-3,Netherlands,Melanoma,2013,0,0,3,NLD,EU
-Netherlands-3,Netherlands,Melanoma,2014,0,0,3,NLD,EU
+Netherlands-3,Netherlands,Melanoma,2013,2384.0,1,3,NLD,EU
+Netherlands-3,Netherlands,Melanoma,2014,914.0,1,3,NLD,EU
 Netherlands-3,Netherlands,Melanoma,2015,0,0,3,NLD,EU
 Netherlands-3,Netherlands,Melanoma,2016,0,0,3,NLD,EU
 Netherlands-3,Netherlands,Melanoma,2017,0,0,3,NLD,EU
 Netherlands-3,Netherlands,Melanoma,2018,0,0,3,NLD,EU
 Netherlands-3,Netherlands,Melanoma,2019,0,0,3,NLD,EU
 Netherlands-3,Netherlands,Prostate Cancer,2010,2105.0,3,3,NLD,EU
-Netherlands-3,Netherlands,Prostate Cancer,2011,1642.0,1,3,NLD,EU
+Netherlands-3,Netherlands,Prostate Cancer,2011,1925.5,2,3,NLD,EU
 Netherlands-3,Netherlands,Prostate Cancer,2012,973.0,1,3,NLD,EU
 Netherlands-3,Netherlands,Prostate Cancer,2013,0,0,3,NLD,EU
 Netherlands-3,Netherlands,Prostate Cancer,2014,0,0,3,NLD,EU
@@ -1089,12 +1089,12 @@ Poland-1,Poland,Breast Cancer,2016,0,0,1,POL,EU
 Poland-1,Poland,Breast Cancer,2017,0,0,1,POL,EU
 Poland-1,Poland,Breast Cancer,2018,0,0,1,POL,EU
 Poland-1,Poland,Breast Cancer,2019,0,0,1,POL,EU
-Poland-1,Poland,Lung Cancer,2010,0,0,1,POL,EU
+Poland-1,Poland,Lung Cancer,2010,898.5,2,1,POL,EU
 Poland-1,Poland,Lung Cancer,2011,0,0,1,POL,EU
-Poland-1,Poland,Lung Cancer,2012,0,0,1,POL,EU
+Poland-1,Poland,Lung Cancer,2012,2055.0,1,1,POL,EU
 Poland-1,Poland,Lung Cancer,2013,0,0,1,POL,EU
 Poland-1,Poland,Lung Cancer,2014,0,0,1,POL,EU
-Poland-1,Poland,Lung Cancer,2015,0,0,1,POL,EU
+Poland-1,Poland,Lung Cancer,2015,1337.0,1,1,POL,EU
 Poland-1,Poland,Lung Cancer,2016,0,0,1,POL,EU
 Poland-1,Poland,Lung Cancer,2017,0,0,1,POL,EU
 Poland-1,Poland,Lung Cancer,2018,0,0,1,POL,EU
@@ -1109,7 +1109,7 @@ Poland-1,Poland,Melanoma,2016,0,0,1,POL,EU
 Poland-1,Poland,Melanoma,2017,0,0,1,POL,EU
 Poland-1,Poland,Melanoma,2018,0,0,1,POL,EU
 Poland-1,Poland,Melanoma,2019,0,0,1,POL,EU
-Poland-1,Poland,Prostate Cancer,2010,0,0,1,POL,EU
+Poland-1,Poland,Prostate Cancer,2010,1126.0,1,1,POL,EU
 Poland-1,Poland,Prostate Cancer,2011,0,0,1,POL,EU
 Poland-1,Poland,Prostate Cancer,2012,0,0,1,POL,EU
 Poland-1,Poland,Prostate Cancer,2013,0,0,1,POL,EU
@@ -1120,22 +1120,22 @@ Poland-1,Poland,Prostate Cancer,2017,0,0,1,POL,EU
 Poland-1,Poland,Prostate Cancer,2018,0,0,1,POL,EU
 Poland-1,Poland,Prostate Cancer,2019,0,0,1,POL,EU
 Poland-2,Poland,Breast Cancer,2010,0,0,2,POL,EU
-Poland-2,Poland,Breast Cancer,2011,0,0,2,POL,EU
+Poland-2,Poland,Breast Cancer,2011,2739.0,2,2,POL,EU
 Poland-2,Poland,Breast Cancer,2012,0,0,2,POL,EU
-Poland-2,Poland,Breast Cancer,2013,0,0,2,POL,EU
+Poland-2,Poland,Breast Cancer,2013,1613.0,1,2,POL,EU
 Poland-2,Poland,Breast Cancer,2014,852.0,1,2,POL,EU
 Poland-2,Poland,Breast Cancer,2015,0,0,2,POL,EU
 Poland-2,Poland,Breast Cancer,2016,0,0,2,POL,EU
 Poland-2,Poland,Breast Cancer,2017,0,0,2,POL,EU
 Poland-2,Poland,Breast Cancer,2018,0,0,2,POL,EU
 Poland-2,Poland,Breast Cancer,2019,0,0,2,POL,EU
-Poland-2,Poland,Lung Cancer,2010,0,0,2,POL,EU
-Poland-2,Poland,Lung Cancer,2011,0,0,2,POL,EU
-Poland-2,Poland,Lung Cancer,2012,0,0,2,POL,EU
-Poland-2,Poland,Lung Cancer,2013,546.0,1,2,POL,EU
-Poland-2,Poland,Lung Cancer,2014,0,0,2,POL,EU
-Poland-2,Poland,Lung Cancer,2015,0,0,2,POL,EU
-Poland-2,Poland,Lung Cancer,2016,0,0,2,POL,EU
+Poland-2,Poland,Lung Cancer,2010,807.25,4,2,POL,EU
+Poland-2,Poland,Lung Cancer,2011,1660.75,4,2,POL,EU
+Poland-2,Poland,Lung Cancer,2012,1229.25,4,2,POL,EU
+Poland-2,Poland,Lung Cancer,2013,1303.5,4,2,POL,EU
+Poland-2,Poland,Lung Cancer,2014,1249.5,2,2,POL,EU
+Poland-2,Poland,Lung Cancer,2015,1262.5,2,2,POL,EU
+Poland-2,Poland,Lung Cancer,2016,852.0,1,2,POL,EU
 Poland-2,Poland,Lung Cancer,2017,0,0,2,POL,EU
 Poland-2,Poland,Lung Cancer,2018,0,0,2,POL,EU
 Poland-2,Poland,Lung Cancer,2019,0,0,2,POL,EU
@@ -1145,12 +1145,12 @@ Poland-2,Poland,Melanoma,2012,0,0,2,POL,EU
 Poland-2,Poland,Melanoma,2013,0,0,2,POL,EU
 Poland-2,Poland,Melanoma,2014,1564.0,1,2,POL,EU
 Poland-2,Poland,Melanoma,2015,0,0,2,POL,EU
-Poland-2,Poland,Melanoma,2016,0,0,2,POL,EU
+Poland-2,Poland,Melanoma,2016,1130.0,1,2,POL,EU
 Poland-2,Poland,Melanoma,2017,0,0,2,POL,EU
 Poland-2,Poland,Melanoma,2018,0,0,2,POL,EU
 Poland-2,Poland,Melanoma,2019,0,0,2,POL,EU
-Poland-2,Poland,Prostate Cancer,2010,1096.0,1,2,POL,EU
-Poland-2,Poland,Prostate Cancer,2011,0,0,2,POL,EU
+Poland-2,Poland,Prostate Cancer,2010,1111.0,2,2,POL,EU
+Poland-2,Poland,Prostate Cancer,2011,1187.0,1,2,POL,EU
 Poland-2,Poland,Prostate Cancer,2012,487.0,1,2,POL,EU
 Poland-2,Poland,Prostate Cancer,2013,0,0,2,POL,EU
 Poland-2,Poland,Prostate Cancer,2014,0,0,2,POL,EU
@@ -1160,21 +1160,21 @@ Poland-2,Poland,Prostate Cancer,2017,0,0,2,POL,EU
 Poland-2,Poland,Prostate Cancer,2018,0,0,2,POL,EU
 Poland-2,Poland,Prostate Cancer,2019,0,0,2,POL,EU
 Poland-3,Poland,Breast Cancer,2010,1680.0,2,3,POL,EU
-Poland-3,Poland,Breast Cancer,2011,0,0,3,POL,EU
+Poland-3,Poland,Breast Cancer,2011,2117.5,2,3,POL,EU
 Poland-3,Poland,Breast Cancer,2012,0,0,3,POL,EU
 Poland-3,Poland,Breast Cancer,2013,1369.0,1,3,POL,EU
-Poland-3,Poland,Breast Cancer,2014,0,0,3,POL,EU
+Poland-3,Poland,Breast Cancer,2014,533.0,1,3,POL,EU
 Poland-3,Poland,Breast Cancer,2015,1388.0,1,3,POL,EU
 Poland-3,Poland,Breast Cancer,2016,1074.0,1,3,POL,EU
 Poland-3,Poland,Breast Cancer,2017,0,0,3,POL,EU
 Poland-3,Poland,Breast Cancer,2018,0,0,3,POL,EU
 Poland-3,Poland,Breast Cancer,2019,0,0,3,POL,EU
-Poland-3,Poland,Lung Cancer,2010,0,0,3,POL,EU
-Poland-3,Poland,Lung Cancer,2011,0,0,3,POL,EU
+Poland-3,Poland,Lung Cancer,2010,1636.5,4,3,POL,EU
+Poland-3,Poland,Lung Cancer,2011,1418.0,5,3,POL,EU
 Poland-3,Poland,Lung Cancer,2012,0,0,3,POL,EU
 Poland-3,Poland,Lung Cancer,2013,0,0,3,POL,EU
-Poland-3,Poland,Lung Cancer,2014,0,0,3,POL,EU
-Poland-3,Poland,Lung Cancer,2015,0,0,3,POL,EU
+Poland-3,Poland,Lung Cancer,2014,1531.5,2,3,POL,EU
+Poland-3,Poland,Lung Cancer,2015,1014.0,1,3,POL,EU
 Poland-3,Poland,Lung Cancer,2016,826.0,1,3,POL,EU
 Poland-3,Poland,Lung Cancer,2017,0,0,3,POL,EU
 Poland-3,Poland,Lung Cancer,2018,0,0,3,POL,EU
@@ -1189,8 +1189,8 @@ Poland-3,Poland,Melanoma,2016,0,0,3,POL,EU
 Poland-3,Poland,Melanoma,2017,0,0,3,POL,EU
 Poland-3,Poland,Melanoma,2018,0,0,3,POL,EU
 Poland-3,Poland,Melanoma,2019,0,0,3,POL,EU
-Poland-3,Poland,Prostate Cancer,2010,2503.5,2,3,POL,EU
-Poland-3,Poland,Prostate Cancer,2011,2557.0,1,3,POL,EU
+Poland-3,Poland,Prostate Cancer,2010,2156.0,3,3,POL,EU
+Poland-3,Poland,Prostate Cancer,2011,2406.3333333333335,3,3,POL,EU
 Poland-3,Poland,Prostate Cancer,2012,0,0,3,POL,EU
 Poland-3,Poland,Prostate Cancer,2013,273.0,1,3,POL,EU
 Poland-3,Poland,Prostate Cancer,2014,0,0,3,POL,EU
@@ -1222,7 +1222,7 @@ Portugal-1,Portugal,Lung Cancer,2019,0,0,1,PRT,EU
 Portugal-1,Portugal,Melanoma,2010,0,0,1,PRT,EU
 Portugal-1,Portugal,Melanoma,2011,0,0,1,PRT,EU
 Portugal-1,Portugal,Melanoma,2012,0,0,1,PRT,EU
-Portugal-1,Portugal,Melanoma,2013,0,0,1,PRT,EU
+Portugal-1,Portugal,Melanoma,2013,304.0,1,1,PRT,EU
 Portugal-1,Portugal,Melanoma,2014,0,0,1,PRT,EU
 Portugal-1,Portugal,Melanoma,2015,0,0,1,PRT,EU
 Portugal-1,Portugal,Melanoma,2016,0,0,1,PRT,EU
@@ -1250,7 +1250,7 @@ Portugal-2,Portugal,Breast Cancer,2017,0,0,2,PRT,EU
 Portugal-2,Portugal,Breast Cancer,2018,0,0,2,PRT,EU
 Portugal-2,Portugal,Breast Cancer,2019,0,0,2,PRT,EU
 Portugal-2,Portugal,Lung Cancer,2010,0,0,2,PRT,EU
-Portugal-2,Portugal,Lung Cancer,2011,0,0,2,PRT,EU
+Portugal-2,Portugal,Lung Cancer,2011,2374.0,1,2,PRT,EU
 Portugal-2,Portugal,Lung Cancer,2012,0,0,2,PRT,EU
 Portugal-2,Portugal,Lung Cancer,2013,0,0,2,PRT,EU
 Portugal-2,Portugal,Lung Cancer,2014,0,0,2,PRT,EU
@@ -1293,8 +1293,8 @@ Portugal-3,Portugal,Lung Cancer,2010,0,0,3,PRT,EU
 Portugal-3,Portugal,Lung Cancer,2011,0,0,3,PRT,EU
 Portugal-3,Portugal,Lung Cancer,2012,0,0,3,PRT,EU
 Portugal-3,Portugal,Lung Cancer,2013,0,0,3,PRT,EU
-Portugal-3,Portugal,Lung Cancer,2014,0,0,3,PRT,EU
-Portugal-3,Portugal,Lung Cancer,2015,0,0,3,PRT,EU
+Portugal-3,Portugal,Lung Cancer,2014,1765.0,1,3,PRT,EU
+Portugal-3,Portugal,Lung Cancer,2015,1014.0,1,3,PRT,EU
 Portugal-3,Portugal,Lung Cancer,2016,0,0,3,PRT,EU
 Portugal-3,Portugal,Lung Cancer,2017,0,0,3,PRT,EU
 Portugal-3,Portugal,Lung Cancer,2018,0,0,3,PRT,EU
@@ -1309,7 +1309,7 @@ Portugal-3,Portugal,Melanoma,2016,0,0,3,PRT,EU
 Portugal-3,Portugal,Melanoma,2017,0,0,3,PRT,EU
 Portugal-3,Portugal,Melanoma,2018,0,0,3,PRT,EU
 Portugal-3,Portugal,Melanoma,2019,0,0,3,PRT,EU
-Portugal-3,Portugal,Prostate Cancer,2010,0,0,3,PRT,EU
+Portugal-3,Portugal,Prostate Cancer,2010,1461.0,1,3,PRT,EU
 Portugal-3,Portugal,Prostate Cancer,2011,2557.0,1,3,PRT,EU
 Portugal-3,Portugal,Prostate Cancer,2012,0,0,3,PRT,EU
 Portugal-3,Portugal,Prostate Cancer,2013,0,0,3,PRT,EU
@@ -1319,30 +1319,30 @@ Portugal-3,Portugal,Prostate Cancer,2016,0,0,3,PRT,EU
 Portugal-3,Portugal,Prostate Cancer,2017,0,0,3,PRT,EU
 Portugal-3,Portugal,Prostate Cancer,2018,0,0,3,PRT,EU
 Portugal-3,Portugal,Prostate Cancer,2019,0,0,3,PRT,EU
-Spain-1,Spain,Breast Cancer,2010,1450.6666666666667,3,1,ESP,EU
-Spain-1,Spain,Breast Cancer,2011,1172.0,2,1,ESP,EU
-Spain-1,Spain,Breast Cancer,2012,715.5,2,1,ESP,EU
-Spain-1,Spain,Breast Cancer,2013,898.0,4,1,ESP,EU
-Spain-1,Spain,Breast Cancer,2014,1429.0,1,1,ESP,EU
-Spain-1,Spain,Breast Cancer,2015,1246.0,3,1,ESP,EU
-Spain-1,Spain,Breast Cancer,2016,701.0,2,1,ESP,EU
+Spain-1,Spain,Breast Cancer,2010,1671.5,4,1,ESP,EU
+Spain-1,Spain,Breast Cancer,2011,1516.5,4,1,ESP,EU
+Spain-1,Spain,Breast Cancer,2012,864.75,8,1,ESP,EU
+Spain-1,Spain,Breast Cancer,2013,1168.857142857143,7,1,ESP,EU
+Spain-1,Spain,Breast Cancer,2014,994.0,3,1,ESP,EU
+Spain-1,Spain,Breast Cancer,2015,1231.75,4,1,ESP,EU
+Spain-1,Spain,Breast Cancer,2016,869.25,4,1,ESP,EU
 Spain-1,Spain,Breast Cancer,2017,0,0,1,ESP,EU
 Spain-1,Spain,Breast Cancer,2018,0,0,1,ESP,EU
 Spain-1,Spain,Breast Cancer,2019,0,0,1,ESP,EU
-Spain-1,Spain,Lung Cancer,2010,0,0,1,ESP,EU
-Spain-1,Spain,Lung Cancer,2011,0,0,1,ESP,EU
-Spain-1,Spain,Lung Cancer,2012,0,0,1,ESP,EU
-Spain-1,Spain,Lung Cancer,2013,1184.3333333333333,3,1,ESP,EU
-Spain-1,Spain,Lung Cancer,2014,0,0,1,ESP,EU
-Spain-1,Spain,Lung Cancer,2015,0,0,1,ESP,EU
-Spain-1,Spain,Lung Cancer,2016,0,0,1,ESP,EU
-Spain-1,Spain,Lung Cancer,2017,0,0,1,ESP,EU
+Spain-1,Spain,Lung Cancer,2010,2263.0,2,1,ESP,EU
+Spain-1,Spain,Lung Cancer,2011,1717.6,5,1,ESP,EU
+Spain-1,Spain,Lung Cancer,2012,1275.0,3,1,ESP,EU
+Spain-1,Spain,Lung Cancer,2013,1141.4285714285713,7,1,ESP,EU
+Spain-1,Spain,Lung Cancer,2014,1647.0,1,1,ESP,EU
+Spain-1,Spain,Lung Cancer,2015,1302.75,4,1,ESP,EU
+Spain-1,Spain,Lung Cancer,2016,718.0,2,1,ESP,EU
+Spain-1,Spain,Lung Cancer,2017,825.0,1,1,ESP,EU
 Spain-1,Spain,Lung Cancer,2018,0,0,1,ESP,EU
 Spain-1,Spain,Lung Cancer,2019,0,0,1,ESP,EU
-Spain-1,Spain,Melanoma,2010,0,0,1,ESP,EU
+Spain-1,Spain,Melanoma,2010,1675.0,1,1,ESP,EU
 Spain-1,Spain,Melanoma,2011,1431.0,1,1,ESP,EU
-Spain-1,Spain,Melanoma,2012,0,0,1,ESP,EU
-Spain-1,Spain,Melanoma,2013,1798.0,1,1,ESP,EU
+Spain-1,Spain,Melanoma,2012,2219.0,1,1,ESP,EU
+Spain-1,Spain,Melanoma,2013,970.0,4,1,ESP,EU
 Spain-1,Spain,Melanoma,2014,0,0,1,ESP,EU
 Spain-1,Spain,Melanoma,2015,0,0,1,ESP,EU
 Spain-1,Spain,Melanoma,2016,0,0,1,ESP,EU
@@ -1350,8 +1350,8 @@ Spain-1,Spain,Melanoma,2017,0,0,1,ESP,EU
 Spain-1,Spain,Melanoma,2018,0,0,1,ESP,EU
 Spain-1,Spain,Melanoma,2019,0,0,1,ESP,EU
 Spain-1,Spain,Prostate Cancer,2010,0,0,1,ESP,EU
-Spain-1,Spain,Prostate Cancer,2011,0,0,1,ESP,EU
-Spain-1,Spain,Prostate Cancer,2012,821.0,1,1,ESP,EU
+Spain-1,Spain,Prostate Cancer,2011,912.0,1,1,ESP,EU
+Spain-1,Spain,Prostate Cancer,2012,927.0,2,1,ESP,EU
 Spain-1,Spain,Prostate Cancer,2013,0,0,1,ESP,EU
 Spain-1,Spain,Prostate Cancer,2014,0,0,1,ESP,EU
 Spain-1,Spain,Prostate Cancer,2015,0,0,1,ESP,EU
@@ -1359,48 +1359,48 @@ Spain-1,Spain,Prostate Cancer,2016,0,0,1,ESP,EU
 Spain-1,Spain,Prostate Cancer,2017,0,0,1,ESP,EU
 Spain-1,Spain,Prostate Cancer,2018,0,0,1,ESP,EU
 Spain-1,Spain,Prostate Cancer,2019,0,0,1,ESP,EU
-Spain-2,Spain,Breast Cancer,2010,1513.8,5,2,ESP,EU
-Spain-2,Spain,Breast Cancer,2011,1370.0,2,2,ESP,EU
-Spain-2,Spain,Breast Cancer,2012,1554.5714285714287,7,2,ESP,EU
-Spain-2,Spain,Breast Cancer,2013,1135.5714285714287,7,2,ESP,EU
-Spain-2,Spain,Breast Cancer,2014,995.3333333333334,3,2,ESP,EU
-Spain-2,Spain,Breast Cancer,2015,1160.6666666666667,3,2,ESP,EU
-Spain-2,Spain,Breast Cancer,2016,0,0,2,ESP,EU
-Spain-2,Spain,Breast Cancer,2017,0,0,2,ESP,EU
+Spain-2,Spain,Breast Cancer,2010,1593.1,10,2,ESP,EU
+Spain-2,Spain,Breast Cancer,2011,2205.6,5,2,ESP,EU
+Spain-2,Spain,Breast Cancer,2012,1466.625,8,2,ESP,EU
+Spain-2,Spain,Breast Cancer,2013,1135.3333333333333,9,2,ESP,EU
+Spain-2,Spain,Breast Cancer,2014,1145.25,4,2,ESP,EU
+Spain-2,Spain,Breast Cancer,2015,1038.0,4,2,ESP,EU
+Spain-2,Spain,Breast Cancer,2016,919.0,1,2,ESP,EU
+Spain-2,Spain,Breast Cancer,2017,458.5,2,2,ESP,EU
 Spain-2,Spain,Breast Cancer,2018,0,0,2,ESP,EU
 Spain-2,Spain,Breast Cancer,2019,0,0,2,ESP,EU
-Spain-2,Spain,Lung Cancer,2010,0,0,2,ESP,EU
-Spain-2,Spain,Lung Cancer,2011,0,0,2,ESP,EU
-Spain-2,Spain,Lung Cancer,2012,2339.0,1,2,ESP,EU
-Spain-2,Spain,Lung Cancer,2013,0,0,2,ESP,EU
-Spain-2,Spain,Lung Cancer,2014,0,0,2,ESP,EU
-Spain-2,Spain,Lung Cancer,2015,0,0,2,ESP,EU
-Spain-2,Spain,Lung Cancer,2016,1340.0,1,2,ESP,EU
-Spain-2,Spain,Lung Cancer,2017,0,0,2,ESP,EU
+Spain-2,Spain,Lung Cancer,2010,1245.75,4,2,ESP,EU
+Spain-2,Spain,Lung Cancer,2011,1263.25,4,2,ESP,EU
+Spain-2,Spain,Lung Cancer,2012,1475.1,10,2,ESP,EU
+Spain-2,Spain,Lung Cancer,2013,1431.0,2,2,ESP,EU
+Spain-2,Spain,Lung Cancer,2014,1454.2,5,2,ESP,EU
+Spain-2,Spain,Lung Cancer,2015,1477.5,4,2,ESP,EU
+Spain-2,Spain,Lung Cancer,2016,1081.75,4,2,ESP,EU
+Spain-2,Spain,Lung Cancer,2017,825.0,1,2,ESP,EU
 Spain-2,Spain,Lung Cancer,2018,0,0,2,ESP,EU
 Spain-2,Spain,Lung Cancer,2019,0,0,2,ESP,EU
-Spain-2,Spain,Melanoma,2010,1644.0,1,2,ESP,EU
-Spain-2,Spain,Melanoma,2011,0,0,2,ESP,EU
-Spain-2,Spain,Melanoma,2012,0,0,2,ESP,EU
+Spain-2,Spain,Melanoma,2010,1659.5,2,2,ESP,EU
+Spain-2,Spain,Melanoma,2011,1461.0,1,2,ESP,EU
+Spain-2,Spain,Melanoma,2012,1419.0,1,2,ESP,EU
 Spain-2,Spain,Melanoma,2013,1798.0,1,2,ESP,EU
-Spain-2,Spain,Melanoma,2014,1571.5,2,2,ESP,EU
+Spain-2,Spain,Melanoma,2014,1532.3333333333333,3,2,ESP,EU
 Spain-2,Spain,Melanoma,2015,1663.0,1,2,ESP,EU
 Spain-2,Spain,Melanoma,2016,0,0,2,ESP,EU
 Spain-2,Spain,Melanoma,2017,0,0,2,ESP,EU
 Spain-2,Spain,Melanoma,2018,0,0,2,ESP,EU
 Spain-2,Spain,Melanoma,2019,0,0,2,ESP,EU
 Spain-2,Spain,Prostate Cancer,2010,1096.0,1,2,ESP,EU
-Spain-2,Spain,Prostate Cancer,2011,0,0,2,ESP,EU
-Spain-2,Spain,Prostate Cancer,2012,821.0,1,2,ESP,EU
+Spain-2,Spain,Prostate Cancer,2011,1187.0,1,2,ESP,EU
+Spain-2,Spain,Prostate Cancer,2012,1171.5,2,2,ESP,EU
 Spain-2,Spain,Prostate Cancer,2013,1310.0,1,2,ESP,EU
 Spain-2,Spain,Prostate Cancer,2014,744.0,1,2,ESP,EU
-Spain-2,Spain,Prostate Cancer,2015,0,0,2,ESP,EU
+Spain-2,Spain,Prostate Cancer,2015,1628.0,1,2,ESP,EU
 Spain-2,Spain,Prostate Cancer,2016,0,0,2,ESP,EU
 Spain-2,Spain,Prostate Cancer,2017,0,0,2,ESP,EU
 Spain-2,Spain,Prostate Cancer,2018,0,0,2,ESP,EU
 Spain-2,Spain,Prostate Cancer,2019,0,0,2,ESP,EU
 Spain-3,Spain,Breast Cancer,2010,1680.0,2,3,ESP,EU
-Spain-3,Spain,Breast Cancer,2011,1489.0,1,3,ESP,EU
+Spain-3,Spain,Breast Cancer,2011,1862.0,3,3,ESP,EU
 Spain-3,Spain,Breast Cancer,2012,640.0,1,3,ESP,EU
 Spain-3,Spain,Breast Cancer,2013,1248.5,2,3,ESP,EU
 Spain-3,Spain,Breast Cancer,2014,0,0,3,ESP,EU
@@ -1409,12 +1409,12 @@ Spain-3,Spain,Breast Cancer,2016,1074.0,1,3,ESP,EU
 Spain-3,Spain,Breast Cancer,2017,0,0,3,ESP,EU
 Spain-3,Spain,Breast Cancer,2018,0,0,3,ESP,EU
 Spain-3,Spain,Breast Cancer,2019,0,0,3,ESP,EU
-Spain-3,Spain,Lung Cancer,2010,0,0,3,ESP,EU
-Spain-3,Spain,Lung Cancer,2011,0,0,3,ESP,EU
-Spain-3,Spain,Lung Cancer,2012,0,0,3,ESP,EU
-Spain-3,Spain,Lung Cancer,2013,0,0,3,ESP,EU
-Spain-3,Spain,Lung Cancer,2014,0,0,3,ESP,EU
-Spain-3,Spain,Lung Cancer,2015,1309.0,1,3,ESP,EU
+Spain-3,Spain,Lung Cancer,2010,1652.0,4,3,ESP,EU
+Spain-3,Spain,Lung Cancer,2011,1521.2,5,3,ESP,EU
+Spain-3,Spain,Lung Cancer,2012,2806.0,1,3,ESP,EU
+Spain-3,Spain,Lung Cancer,2013,806.5,2,3,ESP,EU
+Spain-3,Spain,Lung Cancer,2014,1765.0,1,3,ESP,EU
+Spain-3,Spain,Lung Cancer,2015,1161.5,2,3,ESP,EU
 Spain-3,Spain,Lung Cancer,2016,826.0,1,3,ESP,EU
 Spain-3,Spain,Lung Cancer,2017,0,0,3,ESP,EU
 Spain-3,Spain,Lung Cancer,2018,0,0,3,ESP,EU
@@ -1422,15 +1422,15 @@ Spain-3,Spain,Lung Cancer,2019,0,0,3,ESP,EU
 Spain-3,Spain,Melanoma,2010,0,0,3,ESP,EU
 Spain-3,Spain,Melanoma,2011,0,0,3,ESP,EU
 Spain-3,Spain,Melanoma,2012,2503.5,2,3,ESP,EU
-Spain-3,Spain,Melanoma,2013,0,0,3,ESP,EU
-Spain-3,Spain,Melanoma,2014,0,0,3,ESP,EU
+Spain-3,Spain,Melanoma,2013,2384.0,1,3,ESP,EU
+Spain-3,Spain,Melanoma,2014,914.0,1,3,ESP,EU
 Spain-3,Spain,Melanoma,2015,0,0,3,ESP,EU
 Spain-3,Spain,Melanoma,2016,1093.0,1,3,ESP,EU
 Spain-3,Spain,Melanoma,2017,0,0,3,ESP,EU
 Spain-3,Spain,Melanoma,2018,0,0,3,ESP,EU
 Spain-3,Spain,Melanoma,2019,0,0,3,ESP,EU
-Spain-3,Spain,Prostate Cancer,2010,2105.0,3,3,ESP,EU
-Spain-3,Spain,Prostate Cancer,2011,2099.5,2,3,ESP,EU
+Spain-3,Spain,Prostate Cancer,2010,1944.0,4,3,ESP,EU
+Spain-3,Spain,Prostate Cancer,2011,2215.25,4,3,ESP,EU
 Spain-3,Spain,Prostate Cancer,2012,973.0,1,3,ESP,EU
 Spain-3,Spain,Prostate Cancer,2013,0,0,3,ESP,EU
 Spain-3,Spain,Prostate Cancer,2014,0,0,3,ESP,EU
@@ -1439,29 +1439,29 @@ Spain-3,Spain,Prostate Cancer,2016,0,0,3,ESP,EU
 Spain-3,Spain,Prostate Cancer,2017,0,0,3,ESP,EU
 Spain-3,Spain,Prostate Cancer,2018,0,0,3,ESP,EU
 Spain-3,Spain,Prostate Cancer,2019,0,0,3,ESP,EU
-United Kingdom-1,United Kingdom,Breast Cancer,2010,2283.0,1,1,GBR,EU
+United Kingdom-1,United Kingdom,Breast Cancer,2010,2090.0,4,1,GBR,EU
 United Kingdom-1,United Kingdom,Breast Cancer,2011,0,0,1,GBR,EU
-United Kingdom-1,United Kingdom,Breast Cancer,2012,2344.0,1,1,GBR,EU
+United Kingdom-1,United Kingdom,Breast Cancer,2012,1114.5714285714287,7,1,GBR,EU
 United Kingdom-1,United Kingdom,Breast Cancer,2013,1760.0,1,1,GBR,EU
-United Kingdom-1,United Kingdom,Breast Cancer,2014,1429.0,1,1,GBR,EU
+United Kingdom-1,United Kingdom,Breast Cancer,2014,1220.3333333333333,3,1,GBR,EU
 United Kingdom-1,United Kingdom,Breast Cancer,2015,0,0,1,GBR,EU
-United Kingdom-1,United Kingdom,Breast Cancer,2016,0,0,1,GBR,EU
-United Kingdom-1,United Kingdom,Breast Cancer,2017,0,0,1,GBR,EU
+United Kingdom-1,United Kingdom,Breast Cancer,2016,733.5,2,1,GBR,EU
+United Kingdom-1,United Kingdom,Breast Cancer,2017,495.0,1,1,GBR,EU
 United Kingdom-1,United Kingdom,Breast Cancer,2018,0,0,1,GBR,EU
 United Kingdom-1,United Kingdom,Breast Cancer,2019,0,0,1,GBR,EU
-United Kingdom-1,United Kingdom,Lung Cancer,2010,0,0,1,GBR,EU
-United Kingdom-1,United Kingdom,Lung Cancer,2011,0,0,1,GBR,EU
+United Kingdom-1,United Kingdom,Lung Cancer,2010,1983.3333333333333,3,1,GBR,EU
+United Kingdom-1,United Kingdom,Lung Cancer,2011,2268.0,1,1,GBR,EU
 United Kingdom-1,United Kingdom,Lung Cancer,2012,0,0,1,GBR,EU
-United Kingdom-1,United Kingdom,Lung Cancer,2013,2153.0,1,1,GBR,EU
+United Kingdom-1,United Kingdom,Lung Cancer,2013,2155.75,4,1,GBR,EU
 United Kingdom-1,United Kingdom,Lung Cancer,2014,0,0,1,GBR,EU
-United Kingdom-1,United Kingdom,Lung Cancer,2015,0,0,1,GBR,EU
+United Kingdom-1,United Kingdom,Lung Cancer,2015,956.5,2,1,GBR,EU
 United Kingdom-1,United Kingdom,Lung Cancer,2016,0,0,1,GBR,EU
-United Kingdom-1,United Kingdom,Lung Cancer,2017,0,0,1,GBR,EU
+United Kingdom-1,United Kingdom,Lung Cancer,2017,603.0,1,1,GBR,EU
 United Kingdom-1,United Kingdom,Lung Cancer,2018,0,0,1,GBR,EU
 United Kingdom-1,United Kingdom,Lung Cancer,2019,0,0,1,GBR,EU
-United Kingdom-1,United Kingdom,Melanoma,2010,184.0,1,1,GBR,EU
-United Kingdom-1,United Kingdom,Melanoma,2011,2610.5,2,1,GBR,EU
-United Kingdom-1,United Kingdom,Melanoma,2012,2707.0,1,1,GBR,EU
+United Kingdom-1,United Kingdom,Melanoma,2010,1397.3333333333333,3,1,GBR,EU
+United Kingdom-1,United Kingdom,Melanoma,2011,2643.6666666666665,3,1,GBR,EU
+United Kingdom-1,United Kingdom,Melanoma,2012,1992.0,2,1,GBR,EU
 United Kingdom-1,United Kingdom,Melanoma,2013,1779.0,2,1,GBR,EU
 United Kingdom-1,United Kingdom,Melanoma,2014,0,0,1,GBR,EU
 United Kingdom-1,United Kingdom,Melanoma,2015,1177.0,1,1,GBR,EU
@@ -1471,37 +1471,37 @@ United Kingdom-1,United Kingdom,Melanoma,2018,0,0,1,GBR,EU
 United Kingdom-1,United Kingdom,Melanoma,2019,0,0,1,GBR,EU
 United Kingdom-1,United Kingdom,Prostate Cancer,2010,1887.0,1,1,GBR,EU
 United Kingdom-1,United Kingdom,Prostate Cancer,2011,1536.0,2,1,GBR,EU
-United Kingdom-1,United Kingdom,Prostate Cancer,2012,913.0,2,1,GBR,EU
-United Kingdom-1,United Kingdom,Prostate Cancer,2013,396.0,1,1,GBR,EU
+United Kingdom-1,United Kingdom,Prostate Cancer,2012,705.6,5,1,GBR,EU
+United Kingdom-1,United Kingdom,Prostate Cancer,2013,1196.0,2,1,GBR,EU
 United Kingdom-1,United Kingdom,Prostate Cancer,2014,729.5,2,1,GBR,EU
-United Kingdom-1,United Kingdom,Prostate Cancer,2015,1430.0,1,1,GBR,EU
-United Kingdom-1,United Kingdom,Prostate Cancer,2016,881.0,1,1,GBR,EU
-United Kingdom-1,United Kingdom,Prostate Cancer,2017,0,0,1,GBR,EU
+United Kingdom-1,United Kingdom,Prostate Cancer,2015,1087.0,2,1,GBR,EU
+United Kingdom-1,United Kingdom,Prostate Cancer,2016,714.5,2,1,GBR,EU
+United Kingdom-1,United Kingdom,Prostate Cancer,2017,997.0,1,1,GBR,EU
 United Kingdom-1,United Kingdom,Prostate Cancer,2018,0,0,1,GBR,EU
 United Kingdom-1,United Kingdom,Prostate Cancer,2019,0,0,1,GBR,EU
-United Kingdom-2,United Kingdom,Breast Cancer,2010,1506.5,2,2,GBR,EU
-United Kingdom-2,United Kingdom,Breast Cancer,2011,1461.3333333333333,3,2,GBR,EU
-United Kingdom-2,United Kingdom,Breast Cancer,2012,1779.25,4,2,GBR,EU
-United Kingdom-2,United Kingdom,Breast Cancer,2013,1358.2,5,2,GBR,EU
-United Kingdom-2,United Kingdom,Breast Cancer,2014,852.0,1,2,GBR,EU
+United Kingdom-2,United Kingdom,Breast Cancer,2010,1702.6666666666667,6,2,GBR,EU
+United Kingdom-2,United Kingdom,Breast Cancer,2011,1972.4,5,2,GBR,EU
+United Kingdom-2,United Kingdom,Breast Cancer,2012,1530.8333333333333,6,2,GBR,EU
+United Kingdom-2,United Kingdom,Breast Cancer,2013,1421.1666666666667,6,2,GBR,EU
+United Kingdom-2,United Kingdom,Breast Cancer,2014,997.5,2,2,GBR,EU
 United Kingdom-2,United Kingdom,Breast Cancer,2015,1344.0,1,2,GBR,EU
-United Kingdom-2,United Kingdom,Breast Cancer,2016,0,0,2,GBR,EU
-United Kingdom-2,United Kingdom,Breast Cancer,2017,0,0,2,GBR,EU
+United Kingdom-2,United Kingdom,Breast Cancer,2016,919.0,1,2,GBR,EU
+United Kingdom-2,United Kingdom,Breast Cancer,2017,400.0,1,2,GBR,EU
 United Kingdom-2,United Kingdom,Breast Cancer,2018,0,0,2,GBR,EU
 United Kingdom-2,United Kingdom,Breast Cancer,2019,0,0,2,GBR,EU
-United Kingdom-2,United Kingdom,Lung Cancer,2010,0,0,2,GBR,EU
-United Kingdom-2,United Kingdom,Lung Cancer,2011,0,0,2,GBR,EU
-United Kingdom-2,United Kingdom,Lung Cancer,2012,2339.0,1,2,GBR,EU
-United Kingdom-2,United Kingdom,Lung Cancer,2013,0,0,2,GBR,EU
-United Kingdom-2,United Kingdom,Lung Cancer,2014,0,0,2,GBR,EU
-United Kingdom-2,United Kingdom,Lung Cancer,2015,847.0,1,2,GBR,EU
-United Kingdom-2,United Kingdom,Lung Cancer,2016,0,0,2,GBR,EU
-United Kingdom-2,United Kingdom,Lung Cancer,2017,0,0,2,GBR,EU
+United Kingdom-2,United Kingdom,Lung Cancer,2010,1104.0,5,2,GBR,EU
+United Kingdom-2,United Kingdom,Lung Cancer,2011,1217.5,6,2,GBR,EU
+United Kingdom-2,United Kingdom,Lung Cancer,2012,1584.1666666666667,6,2,GBR,EU
+United Kingdom-2,United Kingdom,Lung Cancer,2013,1732.6666666666667,6,2,GBR,EU
+United Kingdom-2,United Kingdom,Lung Cancer,2014,1815.0,1,2,GBR,EU
+United Kingdom-2,United Kingdom,Lung Cancer,2015,1046.5,4,2,GBR,EU
+United Kingdom-2,United Kingdom,Lung Cancer,2016,1007.0,1,2,GBR,EU
+United Kingdom-2,United Kingdom,Lung Cancer,2017,505.0,1,2,GBR,EU
 United Kingdom-2,United Kingdom,Lung Cancer,2018,0,0,2,GBR,EU
 United Kingdom-2,United Kingdom,Lung Cancer,2019,0,0,2,GBR,EU
-United Kingdom-2,United Kingdom,Melanoma,2010,0,0,2,GBR,EU
-United Kingdom-2,United Kingdom,Melanoma,2011,0,0,2,GBR,EU
-United Kingdom-2,United Kingdom,Melanoma,2012,2707.0,1,2,GBR,EU
+United Kingdom-2,United Kingdom,Melanoma,2010,1938.6666666666667,3,2,GBR,EU
+United Kingdom-2,United Kingdom,Melanoma,2011,1461.0,1,2,GBR,EU
+United Kingdom-2,United Kingdom,Melanoma,2012,1801.0,3,2,GBR,EU
 United Kingdom-2,United Kingdom,Melanoma,2013,1798.0,1,2,GBR,EU
 United Kingdom-2,United Kingdom,Melanoma,2014,1564.0,1,2,GBR,EU
 United Kingdom-2,United Kingdom,Melanoma,2015,0,0,2,GBR,EU
@@ -1510,18 +1510,18 @@ United Kingdom-2,United Kingdom,Melanoma,2017,0,0,2,GBR,EU
 United Kingdom-2,United Kingdom,Melanoma,2018,0,0,2,GBR,EU
 United Kingdom-2,United Kingdom,Melanoma,2019,0,0,2,GBR,EU
 United Kingdom-2,United Kingdom,Prostate Cancer,2010,0,0,2,GBR,EU
-United Kingdom-2,United Kingdom,Prostate Cancer,2011,1233.5,2,2,GBR,EU
+United Kingdom-2,United Kingdom,Prostate Cancer,2011,1685.0,3,2,GBR,EU
 United Kingdom-2,United Kingdom,Prostate Cancer,2012,852.0,3,2,GBR,EU
-United Kingdom-2,United Kingdom,Prostate Cancer,2013,1785.0,1,2,GBR,EU
+United Kingdom-2,United Kingdom,Prostate Cancer,2013,1890.5,2,2,GBR,EU
 United Kingdom-2,United Kingdom,Prostate Cancer,2014,646.0,2,2,GBR,EU
-United Kingdom-2,United Kingdom,Prostate Cancer,2015,1025.3333333333333,3,2,GBR,EU
+United Kingdom-2,United Kingdom,Prostate Cancer,2015,955.0,4,2,GBR,EU
 United Kingdom-2,United Kingdom,Prostate Cancer,2016,0,0,2,GBR,EU
 United Kingdom-2,United Kingdom,Prostate Cancer,2017,586.0,2,2,GBR,EU
 United Kingdom-2,United Kingdom,Prostate Cancer,2018,387.0,2,2,GBR,EU
 United Kingdom-2,United Kingdom,Prostate Cancer,2019,0,0,2,GBR,EU
 United Kingdom-3,United Kingdom,Breast Cancer,2010,2750.0,1,3,GBR,EU
-United Kingdom-3,United Kingdom,Breast Cancer,2011,0,0,3,GBR,EU
-United Kingdom-3,United Kingdom,Breast Cancer,2012,820.0,1,3,GBR,EU
+United Kingdom-3,United Kingdom,Breast Cancer,2011,1713.0,2,3,GBR,EU
+United Kingdom-3,United Kingdom,Breast Cancer,2012,1366.0,2,3,GBR,EU
 United Kingdom-3,United Kingdom,Breast Cancer,2013,1248.5,2,3,GBR,EU
 United Kingdom-3,United Kingdom,Breast Cancer,2014,0,0,3,GBR,EU
 United Kingdom-3,United Kingdom,Breast Cancer,2015,1388.0,1,3,GBR,EU
@@ -1529,28 +1529,28 @@ United Kingdom-3,United Kingdom,Breast Cancer,2016,1074.0,1,3,GBR,EU
 United Kingdom-3,United Kingdom,Breast Cancer,2017,0,0,3,GBR,EU
 United Kingdom-3,United Kingdom,Breast Cancer,2018,0,0,3,GBR,EU
 United Kingdom-3,United Kingdom,Breast Cancer,2019,0,0,3,GBR,EU
-United Kingdom-3,United Kingdom,Lung Cancer,2010,0,0,3,GBR,EU
-United Kingdom-3,United Kingdom,Lung Cancer,2011,0,0,3,GBR,EU
+United Kingdom-3,United Kingdom,Lung Cancer,2010,1796.3333333333333,3,3,GBR,EU
+United Kingdom-3,United Kingdom,Lung Cancer,2011,1489.3333333333333,3,3,GBR,EU
 United Kingdom-3,United Kingdom,Lung Cancer,2012,0,0,3,GBR,EU
 United Kingdom-3,United Kingdom,Lung Cancer,2013,0,0,3,GBR,EU
-United Kingdom-3,United Kingdom,Lung Cancer,2014,0,0,3,GBR,EU
+United Kingdom-3,United Kingdom,Lung Cancer,2014,1765.0,1,3,GBR,EU
 United Kingdom-3,United Kingdom,Lung Cancer,2015,1309.0,1,3,GBR,EU
 United Kingdom-3,United Kingdom,Lung Cancer,2016,0,0,3,GBR,EU
 United Kingdom-3,United Kingdom,Lung Cancer,2017,0,0,3,GBR,EU
 United Kingdom-3,United Kingdom,Lung Cancer,2018,0,0,3,GBR,EU
 United Kingdom-3,United Kingdom,Lung Cancer,2019,0,0,3,GBR,EU
-United Kingdom-3,United Kingdom,Melanoma,2010,1823.5,2,3,GBR,EU
+United Kingdom-3,United Kingdom,Melanoma,2010,1884.6666666666667,3,3,GBR,EU
 United Kingdom-3,United Kingdom,Melanoma,2011,0,0,3,GBR,EU
 United Kingdom-3,United Kingdom,Melanoma,2012,2503.5,2,3,GBR,EU
-United Kingdom-3,United Kingdom,Melanoma,2013,0,0,3,GBR,EU
-United Kingdom-3,United Kingdom,Melanoma,2014,0,0,3,GBR,EU
+United Kingdom-3,United Kingdom,Melanoma,2013,2384.0,1,3,GBR,EU
+United Kingdom-3,United Kingdom,Melanoma,2014,914.0,1,3,GBR,EU
 United Kingdom-3,United Kingdom,Melanoma,2015,0,0,3,GBR,EU
 United Kingdom-3,United Kingdom,Melanoma,2016,0,0,3,GBR,EU
 United Kingdom-3,United Kingdom,Melanoma,2017,0,0,3,GBR,EU
 United Kingdom-3,United Kingdom,Melanoma,2018,0,0,3,GBR,EU
 United Kingdom-3,United Kingdom,Melanoma,2019,0,0,3,GBR,EU
-United Kingdom-3,United Kingdom,Prostate Cancer,2010,2191.5,2,3,GBR,EU
-United Kingdom-3,United Kingdom,Prostate Cancer,2011,1642.0,1,3,GBR,EU
+United Kingdom-3,United Kingdom,Prostate Cancer,2010,1948.0,3,3,GBR,EU
+United Kingdom-3,United Kingdom,Prostate Cancer,2011,1659.3333333333333,3,3,GBR,EU
 United Kingdom-3,United Kingdom,Prostate Cancer,2012,1201.5,2,3,GBR,EU
 United Kingdom-3,United Kingdom,Prostate Cancer,2013,0,0,3,GBR,EU
 United Kingdom-3,United Kingdom,Prostate Cancer,2014,0,0,3,GBR,EU
