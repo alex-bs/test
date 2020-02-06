@@ -1,0 +1,45 @@
+condition,year,num
+Breast Cancer,2010,0
+Breast Cancer,2011,0
+Breast Cancer,2012,0
+Breast Cancer,2013,0
+Breast Cancer,2014,0
+Breast Cancer,2015,2
+Breast Cancer,2016,0
+Breast Cancer,2017,4
+Breast Cancer,2018,1
+Breast Cancer,2018,1
+Breast Cancer,2019,4
+Lung Cancer,2010,0
+Lung Cancer,2011,0
+Lung Cancer,2012,0
+Lung Cancer,2013,0
+Lung Cancer,2014,0
+Lung Cancer,2015,0
+Lung Cancer,2016,1
+Lung Cancer,2017,0
+Lung Cancer,2018,0
+Lung Cancer,2018,0
+Lung Cancer,2019,0
+Melanoma,2010,0
+Melanoma,2011,0
+Melanoma,2012,0
+Melanoma,2013,0
+Melanoma,2014,0
+Melanoma,2015,0
+Melanoma,2016,0
+Melanoma,2017,0
+Melanoma,2018,0
+Melanoma,2018,0
+Melanoma,2019,0
+Prostate Cancer,2010,0
+Prostate Cancer,2011,0
+Prostate Cancer,2012,0
+Prostate Cancer,2013,0
+Prostate Cancer,2014,0
+Prostate Cancer,2015,0
+Prostate Cancer,2016,1
+Prostate Cancer,2017,0
+Prostate Cancer,2018,0
+Prostate Cancer,2018,0
+Prostate Cancer,2019,0
